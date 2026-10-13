@@ -1,0 +1,1138 @@
+record_id,year,season,state,district,zone,crop_name,crop_type,soil_type,area_ha,rainfall_mm,temperature_c,humidity_pct,nitrogen,phosphorus,potassium,soil_ph,fertilizer_kg_ha,irrigation_pct,pesticide_kg_ha,yield_t_ha
+788,2020,Kharif,Tamil Nadu,Tiruchirappalli,Central,Maize,Cereal,Sandy Loam,988.9,546.9,30.5,71.9,90.6,36.3,67.8,6.33,131.4,38.8,2.96,3.3
+904,2021,Kharif,Tamil Nadu,Tiruchirappalli,Central,Maize,Cereal,Sandy Loam,736.2,479.0,31.5,68.6,158.6,44.8,74.8,7.22,142.1,57.6,1.0,3.774
+290,2016,Rabi,Tamil Nadu,Erode,Western,Sorghum,Millet,Black Cotton,615.1,343.5,26.0,68.7,50.0,38.5,97.7,7.36,123.3,29.3,1.96,2.786
+1084,2023,Rabi,Tamil Nadu,Erode,Western,MAIZE,Cereal,Black Cotton,627.3,236.6,26.9,65.8,139.7,44.9,120.0,6.65,131.7,68.3,2.26,5.537
+333,2016,Rabi,Tamil Nadu,Tiruchirappalli,Central,Ragi,Millet,Black Cotton,235.7,512.7,27.5,72.1,126.7,52.0,120.7,6.26,44.8,58.0,2.58,0.916
+110,2014,Rabi,Tamil Nadu,Villupuram,Northern,Black Gram,Pulse,Red Loam,747.8,399.6,26.7,85.1,128.1,62.7,67.3,7.59,28.2,60.4,2.91,0.609
+526,2018,Summer,Tamil Nadu,Erode,Western,Black Gram,Pulse,Black Cotton,470.1,112.4,31.1,60.0,,48.1,93.8,7.17,10.0,57.0,1.74,0.861
+57,2014,Kharif,Tamil Nadu,Coimbatore,Western,Cotton,Fibre,Red Loam,388.9,211.7,29.0,64.8,172.5,50.5,156.8,,70.8,44.3,1.9,1.313
+908,2021,Summer,Tamil Nadu,Tiruchirappalli,Central,Groundnut,Oilseed,Black Cotton,1072.1,51.9,33.7,63.5,53.8,65.7,137.4,6.21,67.5,83.5,0.97,1.57
+241,2016,Rabi,Tamil Nadu,Thanjavur,Delta,Sorghum,Millet,Alluvial,450.6,582.7,24.4,84.9,160.2,47.5,120.6,6.23,77.1,46.1,2.29,1.766
+766,2020,Summer,Tamil Nadu,Vellore,Northern,Maize,Cereal,Sandy Loam,2081.9,167.9,33.5,58.8,95.7,29.4,140.8,6.68,157.6,91.4,1.2,2.823
+87,2014,Kharif,Tamil Nadu,Salem,Northern,Black Gram,Pulse,Red Loam,1672.7,291.6,31.5,66.8,114.3,43.4,84.9,6.77,52.6,49.8,2.97,0.843
+731,2020,Rabi,Tamil Nadu,Coimbatore,Western,Rice,Cereal,Red Loam,587.8,429.5,25.4,80.0,182.3,47.3,138.0,6.78,122.7,60.0,2.89,3.918
+772,2020,Kharif,Tamil Nadu,Vellore,Northern,Sorghum,Millet,Sandy Loam,457.6,413.4,29.4,68.2,88.3,31.9,70.6,6.34,108.1,34.6,0.74,2.686
+940,2022,Rabi,Tamil Nadu,Cuddalore,Coastal,Cotton,Fibre,Alluvial,1164.9,755.0,25.7,91.7,120.0,66.5,115.6,6.42,46.8,30.3,1.69,1.486
+919,2022,Kharif,Tamil Nadu,Thanjavur,Delta,Cotton,Fibre,Alluvial,3215.8,692.5,31.9,71.5,127.2,52.5,94.5,8.0,107.2,64.6,2.43,1.118
+446,2018,Rabi,Tamil Nadu,Thanjavur,Delta,Rice,Cereal,Alluvial,461.1,415.8,25.8,73.7,140.0,45.5,121.5,6.35,178.0,91.8,3.47,4.841
+824,2021,Rabi,Tamil Nadu,Cuddalore,Coastal,Black Gram,Pulse,Alluvial,1057.8,531.4,25.6,77.4,133.8,42.0,49.7,7.21,50.8,41.8,1.71,0.555
+981,2022,Rabi,Tamil Nadu,Erode,Western,Sorghum,Millet,Black Cotton,721.2,489.9,24.0,85.5,103.8,71.5,152.3,6.22,78.0,42.0,1.98,2.264
+430,2017,Rabi,Tamil Nadu,Villupuram,Northern,Cotton,Fibre,Red Loam,469.8,497.3,25.4,71.6,142.4,54.0,110.3,6.64,108.6,37.7,4.16,2.212
+102,2014,Rabi,Tamil Nadu,Villupuram,Northern,Rice,Cereal,Red Loam,810.0,204.0,25.9,81.9,149.7,49.6,133.3,6.88,114.8,93.2,1.4,3.199
+559,2018,Kharif,Tamil Nadu,Tiruchirappalli,Central,Maize,Cereal,Sandy Loam,336.3,393.7,30.9,70.7,88.7,50.6,154.2,6.1,147.8,48.8,2.68,4.087
+971,2022,Kharif,Tamil Nadu,Coimbatore,Western,Black Gram,Pulse,Red Loam,1709.4,360.8,28.4,57.7,140.9,72.2,133.8,6.17,10.0,13.4,1.71,1.035
+157,2015,Rabi,Tamil Nadu,Madurai,Southern,Black Gram,Pulse,Red Loam,1092.1,376.8,26.4,69.8,114.8,38.1,168.1,7.06,36.3,59.4,2.71,0.694
+159,2015,Kharif,Tamil Nadu,Tirunelveli,Southern,Rice,Cereal,Black Cotton,1103.6,302.1,32.0,61.0,139.1,38.1,112.5,6.78,204.2,92.5,3.34,1.315
+45,2014,Rabi,Tamil Nadu,Tirunelveli,Southern,Maize,Cereal,Black Cotton,547.7,337.7,26.3,85.4,188.4,53.2,119.6,6.03,122.3,57.7,3.47,4.602
+425,2017,Summer,Tamil Nadu,Vellore,Northern,Black Gram,Pulse,Black Cotton,932.7,89.3,33.6,61.8,238.6,43.3,132.3,6.71,77.1,69.6,0.78,0.758
+291,2016,Rabi,Tamil Nadu,Erode,Western,Black Gram,Pulse,Black Cotton,465.5,274.7,28.0,73.5,120.9,68.5,104.4,6.34,24.9,56.4,1.92,0.893
+276,2016,Summer,Tamil Nadu,Tirunelveli,Southern,Black Gram,Pulse,Black Cotton,1555.5,44.9,33.0,59.8,101.2,43.7,43.5,6.75,30.5,52.6,2.37,0.588
+97,2014,Rabi,Tamil Nadu,Vellore,Northern,Ragi,Millet,Sandy Loam,398.9,295.4,27.6,75.0,129.7,39.1,176.9,7.16,32.8,58.9,3.59,3.244
+114,2014,Kharif,Tamil Nadu,Tiruchirappalli,Central,Sorghum,Millet,Red Loam,871.3,434.6,32.8,76.2,137.8,48.9,89.0,6.8,78.8,16.0,2.61,2.275
+756,2020,Rabi,Tamil Nadu,Salem,Northern,Maize,Cereal,Red Loam,860.6,,25.8,63.3,188.3,41.0,174.0,5.83,154.2,49.5,2.37,5.301
+322,2016,Rabi,Tamil Nadu,Villupuram,Northern,Groundnut,Oilseed,Red Loam,900.7,459.4,26.3,76.3,138.8,27.8,78.5,7.33,10.3,63.0,2.7,1.907
+533,2018,Rabi,Tamil Nadu,Salem,Northern,Groundnut,Oilseed,Red Loam,356.1,511.5,27.8,90.5,116.4,47.4,110.4,6.28,48.1,65.4,1.62,1.752
+1011,2022,Summer,Tamil Nadu,Villupuram,Northern,Black Gram,Pulse,Red Loam,1586.6,15.0,34.7,54.4,97.1,80.7,113.8,7.06,24.5,51.5,1.32,0.571
+24,2014,Kharif,Tamil Nadu,Cuddalore,Coastal,Rice,Cereal,Alluvial,948.2,449.5,30.6,76.3,50.0,46.0,122.4,7.01,175.4,49.1,2.03,3.021
+546,2018,Rabi,Tamil Nadu,Vellore,Northern,Ragi,Millet,Sandy Loam,1129.3,319.6,27.0,78.5,111.7,12.0,80.7,7.06,99.5,55.0,2.8,2.943
+528,2018,Rabi,Tamil Nadu,Salem,Northern,Rice,Cereal,Red Loam,262.5,471.7,26.1,75.9,90.9,41.9,127.9,8.31,126.6,74.7,2.14,3.24
+462,2018,Kharif,Tamil Nadu,Tiruvarur,Delta,Cotton,Fibre,Alluvial,1343.8,579.6,30.3,68.8,134.7,43.2,79.8,6.37,157.6,65.9,2.72,1.418
+502,2018,Kharif,Tamil Nadu,Coimbatore,Western,Rice,Cereal,Red Loam,232.7,402.9,32.4,66.8,109.6,48.4,134.3,4.86,112.2,72.9,3.24,0.702
+299,2016,Kharif,Tamil Nadu,Salem,Northern,RAGI,Millet,Red Loam,283.4,429.2,31.2,64.5,99.7,49.4,121.0,,106.0,57.3,3.11,2.02
+515,2018,Summer,Tamil Nadu,Coimbatore,Western,Black Gram,Pulse,Red Loam,774.7,216.2,30.9,69.0,115.3,26.8,109.6,6.77,10.0,49.1,3.24,0.809
+1037,2023,Rabi,Tamil Nadu,Tiruvarur,Delta,Rice,Cereal,Alluvial,331.4,337.9,26.2,77.2,129.7,64.8,97.4,7.09,105.7,78.6,4.01,4.68
+179,2015,Summer,Tamil Nadu,Erode,Western,Maize,Cereal,Black Cotton,545.9,91.0,35.1,68.4,128.5,31.2,108.3,6.86,144.1,87.1,3.47,2.664
+870,2021,Rabi,Tamil Nadu,Erode,Western,Sorghum,Millet,Black Cotton,550.7,673.9,28.3,89.1,130.3,26.6,92.3,6.23,114.2,52.6,1.72,1.669
+271,2016,Rabi,Tamil Nadu,Tirunelveli,Southern,Maize,Cereal,Black Cotton,442.6,207.2,26.1,65.0,171.9,49.0,79.0,6.16,136.4,44.6,2.98,4.937
+89,2014,Summer,Tamil Nadu,Salem,Northern,Black Gram,Pulse,Red Loam,332.1,78.9,35.7,64.3,114.6,15.2,117.7,6.52,57.1,31.4,1.97,0.432
+627,2019,Rabi,Tamil Nadu,Coimbatore,Western,Ragi,Millet,Red Loam,604.5,446.9,25.9,75.5,104.0,18.7,133.3,7.23,71.4,32.7,2.31,3.162
+653,2019,Rabi,Tamil Nadu,Vellore,Northern,Rice,Cereal,Sandy Loam,745.5,423.4,27.1,67.8,110.7,45.8,124.2,6.95,132.6,94.0,0.4,4.349
+724,2020,Rabi,Tamil Nadu,tirunelveli ,Southern,Groundnut,Oilseed,Black Cotton,865.6,301.0,26.3,84.7,106.0,27.1,131.1,6.47,47.8,20.5,2.58,2.64
+491,2018,Rabi,Tamil Nadu,Madurai,Southern,Black Gram,Pulse,Red Loam,371.9,330.6,28.3,68.6,50.0,51.5,70.6,6.01,46.7,53.6,2.1,0.781
+494,2018,Rabi,Tamil Nadu,Tirunelveli,Southern,Maize,Cereal,Black Cotton,782.3,160.1,27.5,68.4,108.8,69.9,84.5,7.54,139.2,60.8,1.81,4.055
+1032,2023,Kharif,Tamil Nadu,Thanjavur,Delta,Sorghum,Millet,Alluvial,1513.7,401.8,30.0,68.5,138.0,46.0,122.0,6.81,96.7,29.1,1.65,2.552
+858,2021,Rabi,Tamil Nadu,Coimbatore,Western,Ragi,Millet,Sandy Loam,512.9,165.3,27.1,71.4,160.0,53.4,166.0,6.29,49.8,71.8,2.81,3.086
+1044,2023,Kharif,Tamil Nadu,Tiruvarur,Delta,Sorghum,Millet,Alluvial,526.0,665.2,29.4,77.2,121.5,55.5,105.0,7.37,69.2,64.0,2.97,1.412
+71,2014,Kharif,Tamil Nadu,Erode,Western,Black Gram,Pulse,Black Cotton,707.1,368.2,31.1,64.6,164.5,56.3,130.3,6.41,12.1,54.6,3.06,0.646
+856,2021,Summer,Tamil Nadu,Coimbatore,Western,Groundnut,Oilseed,Red Loam,296.5,83.1,31.0,58.2,190.1,52.8,134.0,5.79,45.6,67.7,2.72,1.824
+297,2016,Rabi,Tamil Nadu,Salem,Northern,Cotton,Fibre,Sandy Loam,348.9,603.7,26.7,82.5,116.7,53.6,61.1,6.6,138.9,52.7,3.52,1.522
+199,2015,Kharif,Tamil Nadu,Salem,Northern,Black Gram,Pulse,Alluvial,1140.4,565.7,32.6,81.2,94.3,34.9,116.7,7.44,10.0,30.3,1.96,0.535
+635,2019,Rabi,Tamil Nadu,Erode,Western,Cotton,Fibre,Black Cotton,192.2,303.0,25.3,71.0,86.4,37.9,99.3,7.07,84.8,94.4,1.97,1.95
+480,2018,Summer,Tamil Nadu,Madurai,Southern,Maize,Cereal,Red Loam,303.3,90.6,33.2,55.8,128.5,21.4,135.0,6.07,130.3,75.0,3.49,3.107
+553,2018,Summer,Tamil Nadu,Villupuram,Northern,Maize,Cereal,Red Loam,1284.7,121.6,34.6,52.5,128.6,51.2,129.0,6.63,153.8,67.3,1.91,3.169
+52,2014,Rabi,Tamil Nadu,Tirunelveli,Southern,Black Gram,Pulse,Black Cotton,1036.9,286.7,25.6,85.6,169.8,57.0,129.2,6.16,47.1,58.7,3.01,0.816
+399,2017,Kharif,Tamil Nadu,Erode,Western,Groundnut,Oilseed,Black Cotton,862.9,564.2,31.6,,189.7,61.6,110.8,8.2,48.6,58.6,3.84,1.288
+1129,2023,Summer,Tamil Nadu,Tiruchirappalli,Central,Black Gram,Pulse,Sandy Loam,1001.3,79.2,33.5,56.4,105.3,37.5,103.6,5.79,28.2,56.7,2.84,0.628
+833,2021,Kharif,Tamil Nadu,Madurai,Southern,Black Gram,Pulse,Red Loam,382.3,370.5,29.9,73.9,122.0,19.3,148.2,7.74,14.0,43.2,2.03,0.788
+821,2021,Kharif,Tamil Nadu,Cuddalore,Coastal,Ragi,Millet,Alluvial,1182.0,534.5,28.7,61.5,132.5,38.5,121.7,6.41,106.8,28.3,2.57,2.121
+412,2017,Rabi,Tamil Nadu,Salem,Northern,Ragi,Millet,Red Loam,1972.8,279.8,28.8,64.5,,29.6,77.8,7.05,37.7,51.7,3.07,2.616
+450,2018,Rabi,Tamil Nadu,Thanjavur,Delta,Cotton,Fibre,Alluvial,500.4,430.8,25.7,72.8,109.2,34.0,112.9,6.81,74.9,25.1,3.16,1.881
+600,2019,Kharif,Tamil Nadu,Madurai,Southern,Rice,Cereal,Red Loam,1607.4,234.0,31.6,53.1,109.9,63.1,143.1,7.36,131.2,43.6,2.81,2.554
+527,2018,Kharif,Tamil Nadu,Salem,Northern,Rice,Cereal,Red Loam,348.2,572.0,28.6,73.3,173.0,41.6,141.8,6.42,132.7,63.4,4.54,4.503
+328,2016,Kharif,Tamil Nadu,Tiruchirappalli,Central,Maize,Cereal,Sandy Loam,364.4,272.1,28.3,59.3,73.5,16.8,79.5,6.29,174.0,61.1,2.65,1.541
+738,2020,Rabi,Tamil Nadu,Coimbatore,Western,Ragi,Millet,Red Loam,501.3,150.2,24.4,62.7,159.4,40.0,94.6,5.5,111.5,46.5,1.56,1.21
+923,2022,Rabi,Tamil Nadu,Thanjavur,Delta,Ragi,Millet,Alluvial,415.3,675.9,27.6,74.5,78.4,60.9,86.6,6.39,51.6,40.5,2.53,1.739
+423,2017,Kharif,Tamil Nadu,Vellore,Northern,Black Gram,Pulse,Sandy Loam,1023.5,543.3,30.8,68.4,184.3,33.1,95.1,7.68,81.3,43.6,2.29,0.514
+248,2016,Kharif,Tamil Nadu,Tiruvarur,Delta,Groundnut,Oilseed,Alluvial,1510.9,734.9,30.5,67.0,188.3,35.9,101.8,6.74,17.1,71.3,2.19,1.135
+814,2021,Rabi,Tamil Nadu,Tiruvarur,Delta,Black Gram,Pulse,Alluvial,516.4,404.8,25.7,74.1,84.7,40.8,105.6,6.02,10.0,51.8,2.17,0.749
+478,2018,Rabi,Tamil Nadu,Madurai,Southern,Rice,Cereal,Red Loam,181.6,649.7,26.3,89.6,167.1,53.8,102.4,6.32,174.5,86.6,3.25,4.455
+389,2017,Kharif,Tamil Nadu,Coimbatore,Western,Rice,Cereal,Red Loam,909.1,,28.6,58.0,153.1,60.9,133.0,5.55,163.3,88.8,3.02,4.126
+129,2015,Summer,Tamil Nadu,Thanjavur,Delta,Black Gram,Pulse,Alluvial,336.2,194.4,32.5,62.3,139.3,47.8,63.2,6.06,49.6,70.4,1.87,0.675
+300,2016,Rabi,Tamil Nadu,Salem,Northern,Ragi,Millet,Red Loam,516.1,469.8,26.5,68.7,77.7,21.8,125.9,6.76,81.4,68.6,3.18,2.285
+32,2014,Kharif,Tamil Nadu,Cuddalore,Coastal,Ragi,Millet,Alluvial,256.3,571.9,32.5,84.3,135.6,33.2,120.0,7.55,71.4,44.7,1.83,1.221
+1110,2023,Rabi,Tamil Nadu,Villupuram,Northern,Maize,Cereal,Red Loam,1661.1,684.6,26.7,81.0,154.4,77.2,109.3,6.4,149.9,63.3,2.78,3.462
+693,2020,Rabi,Tamil Nadu,Thanjavur,Delta,Black Gram,Pulse,Alluvial,799.0,145.2,28.1,65.7,187.4,42.7,73.2,6.7,10.0,37.5,2.79,1.037
+372,2017,Rabi,Tamil Nadu,Madurai,Southern,Cotton,Fibre,Red Loam,587.3,296.9,27.0,82.0,157.9,35.1,80.4,8.14,80.9,46.2,0.62,1.605
+523,2018,Rabi,Tamil Nadu,Erode,Western,Ragi,Millet,Black Cotton,624.2,265.6,25.8,67.5,166.1,35.2,88.3,7.83,43.1,59.6,3.4,2.549
+1006,2022,Rabi,Tamil Nadu,Villupuram,Northern,Groundnut,Oilseed,Red Loam,1599.4,128.5,27.5,74.3,144.3,60.9,93.1,7.68,16.8,30.2,2.25,1.946
+529,2018,Kharif,Tamil Nadu,Salem,Northern,Maize,Cereal,Red Loam,291.2,646.1,28.9,69.9,151.8,65.2,83.9,6.17,158.1,69.6,2.38,0.911
+175,2015,Kharif,Tamil Nadu,Coimbatore,Western,Black Gram,Pulse,Red Loam,836.1,468.7,27.9,71.0,66.7,76.8,129.2,7.13,72.8,42.7,2.44,0.602
+534,2018,Summer,Tamil Nadu,Salem,Northern,Groundnut,Oilseed,Red Loam,1019.8,54.4,33.2,57.9,160.6,59.9,104.1,6.76,53.4,56.6,2.49,1.551
+968,2022,Rabi,Tamil Nadu,Coimbatore,Western,Ragi,Millet,Red Loam,1281.3,275.9,25.3,64.6,113.6,33.5,106.6,7.94,103.7,35.2,2.72,3.133
+769,2020,Rabi,Tamil Nadu,Vellore,Northern,Groundnut,Oilseed,Sandy Loam,681.0,410.1,28.9,77.0,118.2,46.2,90.3,6.44,72.1,25.9,3.21,2.939
+555,2018,Rabi,Tamil Nadu,Villupuram,Northern,Groundnut,Oilseed,Red Loam,922.8,337.5,26.3,77.3,106.1,42.3,165.1,6.69,59.8,25.8,2.83,2.842
+141,2015,Summer,Tamil Nadu,Cuddalore,Coastal,Maize,Cereal,Alluvial,568.5,123.6,33.7,58.4,163.8,52.4,104.1,6.78,135.4,48.9,0.92,3.132
+495,2018,Kharif,Tamil Nadu,Tirunelveli,Southern,Cotton,Fibre,Black Cotton,398.0,387.9,31.0,64.6,125.8,38.9,119.7,6.77,53.6,39.0,2.28,2.485
+383,2017,Summer,Tamil Nadu,Tirunelveli,Southern,Groundnut,Oilseed,Black Cotton,544.9,15.0,32.8,48.5,143.8,55.9,128.0,5.8,40.3,62.4,0.94,1.281
+244,2016,Kharif,Tamil Nadu,Tiruvarur,Delta,Maize,Cereal,Alluvial,1492.8,651.9,32.7,73.9,140.8,30.7,116.1,8.22,124.0,46.8,2.46,2.787
+334,2016,Rabi,Tamil Nadu,Tiruchirappalli,Central,SORGHUM,Millet,Sandy Loam,385.0,339.1,27.6,75.5,80.5,61.7,119.7,7.59,118.4,55.8,3.05,2.866
+332,2016,Rabi,Tamil Nadu,Tiruchirappalli,Central,Groundnut,Oilseed,Sandy Loam,190.7,505.9,27.3,68.9,100.8,43.7,128.4,6.2,85.4,54.6,2.14,2.143
+645,2019,Rabi,Tamil Nadu,Salem,Northern,Groundnut,Oilseed,Red Loam,1760.8,260.5,24.8,83.8,162.7,42.5,109.0,6.6,81.7,54.7,1.65,2.631
+582,2019,Kharif,Tamil Nadu,Tiruvarur,Delta,Maize,Cereal,Alluvial,795.6,432.4,30.7,57.2,64.8,19.8,111.0,7.09,185.0,80.1,1.06,3.318
+11,2014,Rabi,Tamil Nadu,Tiruvarur,Delta,Rice,Cereal,Alluvial,406.3,317.0,25.6,73.6,134.6,38.0,74.5,7.49,110.9,69.1,4.2,3.755
+702,2020,Kharif,Tamil Nadu,Cuddalore,Coastal,Rice,Cereal,Alluvial,222.0,624.4,29.6,82.4,123.7,31.3,95.4,6.31,179.3,82.2,1.87,4.15
+869,2021,Kharif,Tamil Nadu,Erode,Western,Sorghum,Millet,Black Cotton,515.2,219.9,32.3,64.3,111.0,34.0,124.1,6.48,78.6,46.5,2.77,2.533
+696,2020,Rabi,Tamil Nadu,Tiruvarur,Delta,Maize,Cereal,Alluvial,424.2,225.7,27.0,67.8,194.7,53.0,121.4,7.51,139.9,85.0,3.14,5.437
+200,2015,Rabi,Tamil Nadu,Salem,Northern,Black Gram,Pulse,Red Loam,423.9,309.0,25.9,69.3,171.2,34.4,40.0,7.54,10.0,61.3,2.18,0.797
+295,2016,Summer,Tamil Nadu,Salem,Northern,Maize,Cereal,Black Cotton,465.1,44.7,33.4,49.9,159.5,38.7,168.6,6.55,152.8,75.1,2.2,2.587
+355,2017,Rabi,Tamil Nadu,Tiruvarur,Delta,Groundnut,Oilseed,Alluvial,391.7,552.3,26.3,77.0,119.1,22.8,93.8,7.41,105.1,40.6,2.31,1.831
+817,2021,Summer,Tamil Nadu,Cuddalore,Coastal,Maize,Cereal,Alluvial,474.3,106.8,34.3,64.5,153.6,67.3,103.9,5.34,175.1,39.5,2.71,2.822
+381,2017,Rabi,Tamil Nadu,Tirunelveli,Southern,Cotton,Fibre,Red Loam,996.7,334.1,26.7,74.5,136.6,21.4,95.5,7.26,129.7,56.0,0.4,2.155
+362,2017,Kharif,Tamil Nadu,Cuddalore,Coastal,Groundnut,Oilseed,Alluvial,445.4,684.3,28.9,78.9,141.0,47.6,116.0,7.59,57.0,19.7,2.44,1.397
+809,2021,Summer,Tamil Nadu,Tiruvarur,Delta,Maize,Cereal,Alluvial,669.5,91.1,32.9,50.1,57.7,48.4,112.9,6.56,133.7,68.7,1.87,3.02
+584,2019,Kharif,Tamil Nadu,Tiruvarur,Delta,Groundnut,Oilseed,Alluvial,492.5,,29.5,73.2,91.4,26.3,99.6,8.06,30.2,82.8,2.1,1.021
+967,2022,Summer,Tamil Nadu,Coimbatore,Western,Groundnut,Oilseed,Red Loam,227.4,110.0,31.2,57.0,122.9,42.5,123.6,6.55,28.2,71.4,2.7,2.443
+661,2019,Rabi,Tamil Nadu,Vellore,Northern,Sorghum,Millet,Red Loam,323.5,364.8,25.3,75.1,77.9,38.1,95.2,8.6,105.2,67.2,3.4,1.988
+1052,2023,Rabi,Tamil Nadu,Cuddalore,Coastal,Cotton,Fibre,Alluvial,341.5,645.5,27.1,79.5,177.3,65.7,93.7,5.39,85.6,44.7,2.76,1.533
+826,2021,Rabi,Tamil Nadu,Madurai,Southern,Rice,Cereal,Red Loam,376.0,290.3,26.4,66.8,130.3,34.0,107.3,6.96,157.2,55.1,2.49,3.071
+876,2021,Kharif,Tamil Nadu,Salem,Northern,Cotton,Fibre,Red Loam,595.1,371.8,32.0,79.3,109.0,37.3,107.1,6.8,109.3,43.9,2.35,0.896
+50,2014,Rabi,Tamil Nadu,Tirunelveli,Southern,Ragi,Millet,Black Cotton,924.5,443.7,24.1,67.5,181.1,55.7,75.8,7.0,44.0,46.7,2.55,2.319
+108,2014,Rabi,Tamil Nadu,Villupuram,Northern,Ragi,Millet,Red Loam,677.0,294.5,25.0,74.5,74.5,41.9,120.2,6.82,71.7,18.2,1.49,3.315
+60,2014,Rabi,Tamil Nadu,Coimbatore,Western,Groundnut,Oilseed,Red Loam,582.6,233.1,24.5,68.8,139.8,55.1,111.9,6.09,10.0,20.6,2.49,2.096
+211,2015,Rabi,Tamil Nadu,Villupuram,Northern,Rice,Cereal,Red Loam,683.2,517.3,25.0,85.9,200.5,30.8,94.3,7.21,154.5,95.8,2.44,4.398
+324,2016,Kharif,Tamil Nadu,Villupuram,Northern,Sorghum,Millet,Red Loam,399.4,221.1,30.0,68.7,155.0,26.7,107.9,6.2,81.8,34.8,3.48,2.58
+793,2020,Rabi,Tamil Nadu,Tiruchirappalli,Central,Black Gram,Pulse,Sandy Loam,469.2,361.1,26.5,75.1,100.3,47.9,108.7,7.46,10.0,40.9,0.99,0.803
+320,2016,Rabi,Tamil Nadu,Villupuram,Northern,Cotton,Fibre,Red Loam,771.4,374.6,25.7,84.9,117.5,47.2,40.0,7.0,76.3,49.2,2.21,2.117
+1072,2023,Rabi,Tamil Nadu,Tirunelveli,Southern,Black Gram,Pulse,Black Cotton,411.9,233.5,27.4,63.4,106.7,48.1,141.0,7.12,13.0,25.4,2.92,1.008
+433,2017,Kharif,Tamil Nadu,Villupuram,Northern,Ragi,Millet,Sandy Loam,1340.5,739.0,32.2,66.1,144.8,25.4,121.6,6.75,71.7,68.7,2.3,1.223
+1009,2022,Kharif,Tamil Nadu,Villupuram,Northern,Sorghum,Millet,Red Loam,1052.5,365.6,30.1,73.7,131.8,42.4,106.7,6.69,81.8,39.2,2.05,3.033
+617,2019,Rabi,Tamil Nadu,Tirunelveli,Southern,Sorghum,Millet,Black Cotton,875.5,138.6,27.0,,110.8,41.3,142.3,5.84,69.8,39.3,3.66,2.465
+1004,2022,Rabi,Tamil Nadu,Villupuram,Northern,Cotton,Fibre,Red Loam,456.5,403.5,27.6,88.9,185.9,41.7,124.2,7.91,130.0,49.1,2.39,1.775
+391,2017,Rabi,Tamil Nadu,Coimbatore,Western,Maize,Cereal,Red Loam,1295.0,313.9,27.3,71.8,113.0,43.5,114.5,7.96,174.1,63.8,2.46,5.588
+1077,2023,Rabi,Tamil Nadu,Coimbatore,Western,Cotton,Fibre,Red Loam,1227.9,526.0,25.6,79.8,72.8,38.3,142.9,7.67,102.0,31.4,2.1,1.735
+210,2015,Kharif,Tamil Nadu,Villupuram,Northern,Rice,Cereal,Sandy Loam,446.3,487.4,29.8,63.5,113.5,28.7,82.8,7.32,138.9,94.5,3.49,3.953
+406,2017,Rabi,Tamil Nadu,Salem,Northern,Rice,Cereal,Red Loam,1117.0,479.6,26.6,75.3,78.6,67.6,116.1,6.96,100.4,83.4,2.46,4.011
+414,2017,Rabi,Tamil Nadu,Salem,Northern,Black Gram,Pulse,Red Loam,511.8,521.7,25.4,76.4,135.1,51.1,153.6,6.31,10.0,23.1,2.11,0.682
+84,2014,Rabi,Tamil Nadu,Salem,Northern,RAGI,Millet,Red Loam,930.5,58.3,24.9,76.7,175.2,56.0,83.0,7.09,85.1,50.9,2.04,2.732
+486,2018,Kharif,Tamil Nadu,Madurai,Southern,Ragi,Millet,Sandy Loam,593.4,629.1,30.8,72.5,112.9,64.4,123.3,7.88,69.3,49.3,2.56,1.46
+421,2017,Rabi,Tamil Nadu,Vellore,Northern,Ragi,Millet,Sandy Loam,673.4,489.6,28.0,78.6,119.9,35.7,137.1,6.79,54.7,62.3,2.25,2.067
+931,2022,Rabi,Tamil Nadu,Tiruvarur,Delta,GROUNDNUT,Oilseed,Alluvial,433.5,324.3,24.5,82.1,112.5,34.7,120.3,8.27,80.6,65.2,1.43,2.067
+935,2022,Rabi,Tamil Nadu,Tiruvarur,Delta,Black Gram,Pulse,Alluvial,1204.9,548.1,26.5,82.6,182.4,52.6,124.8,7.35,64.9,55.3,2.41,0.573
+878,2021,Summer,Tamil Nadu,Salem,Northern,Groundnut,Oilseed,Red Loam,963.3,96.3,32.3,55.8,94.6,36.8,96.1,7.54,10.0,40.5,3.45,1.496
+424,2017,Rabi,Tamil Nadu,Vellore,Northern,Black Gram,Pulse,Sandy Loam,334.2,380.3,27.9,68.2,91.0,37.1,124.3,6.11,27.9,30.3,2.54,0.879
+378,2017,Rabi,Tamil Nadu,Tirunelveli,Southern,Maize,Cereal,Black Cotton,731.3,469.7,26.7,79.4,100.4,50.4,124.7,7.52,181.6,39.2,2.06,4.43
+274,2016,Kharif,Tamil Nadu,Tirunelveli,Southern,Ragi,Millet,Black Cotton,607.5,497.1,30.2,67.7,104.6,75.8,109.5,6.91,54.7,37.4,2.57,0.961
+77,2014,Rabi,Tamil Nadu,Salem,Northern,Maize,Cereal,Alluvial,189.0,266.0,26.7,67.0,103.8,42.4,101.9,6.63,188.3,53.5,2.3,4.844
+972,2022,Rabi,Tamil Nadu,Coimbatore,Western,Black Gram,Pulse,Red Loam,531.7,400.5,24.7,68.1,123.1,67.7,106.2,6.64,69.3,16.2,4.65,0.904
+139,2015,Summer,Tamil Nadu,Tiruvarur,Delta,Black Gram,Pulse,Black Cotton,988.3,187.9,32.6,65.5,134.0,38.5,139.9,7.32,11.2,59.4,3.24,0.809
+292,2016,Kharif,Tamil Nadu,Salem,Northern,Rice,Cereal,Red Loam,4081.7,485.8,27.4,,131.5,44.6,108.4,6.97,150.3,71.9,1.74,4.031
+598,2019,Kharif,Tamil Nadu,Cuddalore,Coastal,Black Gram,Pulse,Alluvial,272.2,557.6,30.8,68.4,144.8,69.6,96.5,7.17,33.8,21.2,2.36,0.683
+800,2021,Summer,Tamil Nadu,Thanjavur,Delta,Groundnut,Oilseed,Alluvial,395.8,153.8,34.5,68.9,152.7,38.5,119.8,6.96,10.8,86.9,2.91,1.512
+1086,2023,Summer,Tamil Nadu,Erode,Western,Groundnut,Oilseed,Black Cotton,258.8,26.4,35.2,56.2,64.6,26.8,122.2,7.0,43.5,69.4,2.04,1.282
+142,2015,Kharif,Tamil Nadu,Cuddalore,Coastal,Cotton,Fibre,Alluvial,502.3,475.5,30.3,57.0,144.3,28.8,114.8,7.07,124.6,61.7,2.42,1.765
+454,2018,Kharif,Tamil Nadu,Thanjavur,Delta,Ragi,Millet,Alluvial,541.2,388.2,29.4,66.2,102.5,26.4,158.5,8.01,46.6,40.0,2.11,2.318
+1128,2023,Kharif,Tamil Nadu,Tiruchirappalli,Central,Black Gram,Pulse,Sandy Loam,546.0,440.3,31.2,67.7,184.8,34.1,93.5,7.16,10.0,39.4,1.66,0.701
+483,2018,Kharif,Tamil Nadu,Madurai,Southern,Groundnut,Oilseed,Red Loam,4799.7,318.1,30.1,63.5,135.2,39.1,99.5,6.67,116.7,38.4,2.05,2.574
+140,2015,Kharif,Tamil Nadu,Cuddalore,Coastal,Rice,Cereal,Alluvial,494.9,360.3,31.0,70.6,90.7,27.9,144.8,7.34,206.4,85.5,2.97,3.226
+1016,2022,Kharif,Tamil Nadu,Tiruchirappalli,Central,Groundnut,Oilseed,Sandy Loam,580.8,308.5,29.1,66.2,100.1,26.6,66.2,6.71,34.3,43.3,2.18,2.656
+1025,2023,Kharif,Tamil Nadu,Thanjavur,Delta,Maize,Cereal,Alluvial,927.7,569.4,31.1,71.5,88.0,37.2,107.8,6.94,138.0,48.3,2.74,4.08
+589,2019,Kharif,Tamil Nadu,Cuddalore,Coastal,Rice,Cereal,Alluvial,474.7,593.1,29.8,64.1,135.4,64.6,109.2,7.29,192.0,83.5,1.45,4.696
+345,2017,Kharif,Tamil Nadu,Thanjavur,Delta,Sorghum,Millet,Alluvial,297.6,443.0,30.1,67.9,175.7,34.7,66.9,6.12,131.8,44.6,2.88,2.253
+790,2020,Summer,Tamil Nadu,Tiruchirappalli,Central,Maize,Cereal,Sandy Loam,220.5,83.5,33.3,52.5,106.5,24.8,115.3,6.55,173.1,82.6,2.4,3.183
+261,2016,Summer,Tamil Nadu,Madurai,Southern,Maize,Cereal,Red Loam,408.9,158.6,33.8,50.7,140.4,46.2,40.0,8.1,141.7,100.0,3.19,0.971
+343,2017,Summer,Tamil Nadu,Thanjavur,Delta,Groundnut,Oilseed,Alluvial,583.5,126.5,34.3,55.9,120.5,46.0,111.0,6.53,27.8,77.0,1.72,1.438
+293,2016,Rabi,Tamil Nadu,Salem,Northern,Rice,Cereal,Red Loam,1227.7,225.3,26.4,66.5,166.6,53.0,56.9,7.13,180.9,62.1,3.72,3.154
+232,2016,Kharif,Tamil Nadu,Thanjavur,Delta,Rice,Cereal,Alluvial,342.6,732.9,28.2,67.6,188.5,44.4,44.1,7.15,84.4,81.9,2.21,4.561
+1082,2023,Summer,Tamil Nadu,Coimbatore,Western,Black Gram,Pulse,Red Loam,1280.2,98.5,34.2,57.2,165.8,63.4,101.8,7.64,35.9,17.8,2.34,0.577
+662,2019,Kharif,Tamil Nadu,Vellore,Northern,Black Gram,Pulse,Sandy Loam,410.8,514.1,28.8,65.9,145.6,66.3,131.7,6.62,52.1,21.6,3.86,0.803
+943,2022,Rabi,Tamil Nadu,Cuddalore,Coastal,Sorghum,Millet,Alluvial,1163.2,592.2,27.9,87.8,119.4,47.9,142.8,5.8,89.9,5.0,3.2,2.229
+676,2019,Rabi,Tamil Nadu,Tiruchirappalli,Central,Rice,Cereal,Sandy Loam,984.6,500.9,27.6,83.7,190.7,79.5,86.5,7.25,90.9,80.1,2.28,4.916
+1065,2023,Kharif,Tamil Nadu,Tirunelveli,Southern,Cotton,Fibre,Sandy Loam,701.9,337.2,32.3,54.1,98.1,35.5,169.8,6.99,102.1,39.4,2.26,1.594
+219,2015,Rabi,Tamil Nadu,Villupuram,Northern,Ragi,Millet,Red Loam,1565.9,256.1,26.4,72.4,94.1,51.5,70.5,7.51,102.2,73.5,3.3,3.193
+1056,2023,Kharif,Tamil Nadu,Madurai,Southern,Rice,Cereal,Red Loam,783.1,388.7,32.5,58.5,108.0,38.1,129.3,6.78,162.2,84.2,2.95,3.367
+1036,2023,Kharif,Tamil Nadu,Tiruvarur,Delta,Rice,Cereal,Alluvial,599.8,762.3,29.3,77.0,,45.5,116.4,6.88,153.5,98.3,1.89,4.114
+79,2014,Kharif,Tamil Nadu,Salem,Northern,Cotton,Fibre,Red Loam,1609.7,406.2,29.8,74.6,136.4,48.8,93.2,7.47,116.4,51.7,2.5,1.666
+193,2015,Summer,Tamil Nadu,Salem,Northern,Maize,Cereal,Red Loam,763.9,211.9,35.6,52.1,98.0,58.6,80.1,7.49,156.3,68.4,2.94,2.933
+537,2018,Kharif,Tamil Nadu,Salem,Northern,Black Gram,Pulse,Sandy Loam,657.2,370.1,27.3,71.4,70.8,38.3,89.8,6.03,38.9,48.8,4.32,0.833
+914,2022,Kharif,Tamil Nadu,Thanjavur,Delta,Rice,Cereal,Alluvial,766.8,834.0,29.8,68.2,110.9,46.3,79.3,7.2,171.8,96.4,3.77,3.637
+209,2015,Summer,Tamil Nadu,Vellore,Northern,Black Gram,Pulse,Sandy Loam,397.7,67.6,33.8,60.7,202.7,57.0,116.2,6.21,10.0,66.6,3.51,0.645
+452,2018,Rabi,Tamil Nadu,Thanjavur,Delta,Groundnut,Oilseed,Alluvial,1926.9,357.7,24.9,73.7,88.6,72.9,90.7,5.65,50.6,44.0,2.94,2.343
+741,2020,Rabi,Tamil Nadu,Coimbatore,Western,Black Gram,Pulse,Red Loam,368.1,547.9,25.7,85.3,125.6,32.6,139.0,7.65,54.3,44.1,2.24,0.538
+40,2014,Rabi,Tamil Nadu,Madurai,Southern,Maize,Cereal,Red Loam,1406.4,396.7,26.2,78.8,79.3,48.7,83.0,6.75,148.7,33.2,3.57,4.97
+31,2014,Summer,Tamil Nadu,Cuddalore,Coastal,Groundnut,Oilseed,Alluvial,1298.2,68.0,32.4,61.7,141.5,63.5,99.7,7.05,17.1,81.0,2.23,1.691
+1115,2023,Rabi,Tamil Nadu,Villupuram,Northern,Ragi,Millet,Red Loam,854.9,572.8,24.9,92.1,144.4,61.0,106.2,6.27,62.1,31.4,2.29,2.431
+137,2015,Rabi,Tamil Nadu,Tiruvarur,Delta,Sorghum,Millet,Alluvial,987.6,394.3,26.7,77.0,169.3,29.4,145.7,6.73,96.6,21.0,3.92,2.706
+55,2014,Rabi,Tamil Nadu,Coimbatore,Western,Maize,Cereal,Red Loam,315.3,490.3,26.3,83.6,100.4,49.8,121.4,6.04,176.2,71.5,2.39,3.96
+937,2022,Rabi,Tamil Nadu,Cuddalore,Coastal,Rice,Cereal,Alluvial,662.2,340.4,26.6,77.6,149.3,59.0,190.4,7.9,212.5,53.6,0.74,3.823
+1003,2022,Summer,Tamil Nadu,Villupuram,Northern,Maize,Cereal,Red Loam,247.3,51.3,32.7,52.4,132.0,60.4,117.3,6.52,168.0,77.7,2.01,3.389
+245,2016,Rabi,Tamil Nadu,Tiruvarur,Delta,Maize,Cereal,Alluvial,1078.9,461.3,29.2,74.3,67.9,58.6,182.5,7.78,109.3,76.9,2.56,3.077
+592,2019,Kharif,Tamil Nadu,Cuddalore,Coastal,Cotton,Fibre,Alluvial,656.0,335.6,32.9,69.4,163.5,63.4,90.1,7.29,107.0,32.2,3.03,1.609
+740,2020,Rabi,Tamil Nadu,Coimbatore,Western,Sorghum,Millet,Red Loam,602.4,327.4,25.0,69.5,161.1,45.0,131.3,6.24,60.4,56.4,2.56,2.319
+882,2021,Kharif,Tamil Nadu,Salem,Northern,Black Gram,Pulse,Red Loam,535.7,600.1,30.7,70.3,92.1,40.2,156.4,6.94,31.4,40.9,1.39,0.49
+757,2020,Summer,Tamil Nadu,Salem,Northern,Maize,Cereal,Red Loam,323.1,53.4,31.6,59.5,113.8,60.0,94.7,6.16,153.9,45.9,2.61,3.008
+4,2014,Kharif,Tamil Nadu,Thanjavur,Delta,Groundnut,Oilseed,Alluvial,1189.1,653.7,30.1,75.2,79.0,38.4,90.8,6.58,47.1,72.4,1.81,1.055
+356,2017,Kharif,Tamil Nadu,Tiruvarur,Delta,Sorghum,Millet,Alluvial,1614.9,677.2,31.2,80.3,240.0,49.5,83.7,7.54,78.6,61.4,3.87,1.371
+532,2018,Kharif,Tamil Nadu,Salem,Northern,Groundnut,Oilseed,Red Loam,843.3,348.0,31.8,69.0,130.4,42.3,87.4,5.13,77.0,64.9,2.96,1.557
+1102,2023,Rabi,Tamil Nadu,Vellore,Northern,Maize,Cereal,Sandy Loam,1193.2,452.9,28.1,77.9,168.8,80.0,94.6,6.02,135.2,36.8,1.55,5.889
+723,2020,Kharif,Tamil Nadu,Tirunelveli,Southern,Groundnut,Oilseed,Black Cotton,153.3,398.4,30.5,73.4,148.7,52.0,119.1,8.15,60.0,30.7,3.26,1.955
+950,2022,Kharif,Tamil Nadu,Madurai,Southern,Cotton,Fibre,Red Loam,357.2,593.9,30.9,61.6,174.8,25.1,181.0,6.98,67.7,46.4,1.67,1.662
+889,2021,Kharif,Tamil Nadu,Villupuram,Northern,Rice,Cereal,Red Loam,738.8,572.2,31.0,83.9,142.7,52.5,96.2,7.75,106.4,71.5,2.47,3.233
+328,2016,Kharif,Tamil Nadu,Tiruchirappalli,Central,Maize,Cereal,Sandy Loam,364.4,272.1,28.3,59.3,73.5,16.8,79.5,6.29,174.0,61.1,2.65,1.541
+911,2021,Kharif,Tamil Nadu,Tiruchirappalli,Central,Sorghum,Millet,Sandy Loam,2858.9,496.3,30.5,75.3,121.2,34.4,107.1,5.5,61.6,24.2,2.56,2.057
+562,2018,Kharif,Tamil Nadu,Tiruchirappalli,Central,Cotton,Fibre,Sandy Loam,881.3,530.3,31.1,73.4,116.9,55.1,135.2,6.67,73.8,61.4,1.98,1.562
+59,2014,Kharif,Tamil Nadu,coimbatore ,Western,Groundnut,Oilseed,Red Loam,699.5,544.2,29.0,73.0,141.8,17.9,130.0,7.1,29.4,28.4,2.45,1.957
+309,2016,Rabi,Tamil Nadu,Vellore,Northern,Groundnut,Oilseed,Sandy Loam,740.5,337.7,27.4,79.1,152.5,49.5,103.2,6.29,66.5,51.8,0.4,2.903
+364,2017,Summer,Tamil Nadu,Cuddalore,Coastal,Groundnut,Oilseed,Alluvial,457.4,222.7,32.8,64.0,110.7,45.1,163.5,8.07,72.8,69.6,2.45,1.566
+64,2014,Kharif,Tamil Nadu,Erode,Western,Rice,Cereal,Black Cotton,755.2,437.3,30.5,71.8,187.7,53.3,75.5,7.02,132.8,94.1,3.19,4.109
+275,2016,Kharif,Tamil Nadu,Tirunelveli,Southern,Black Gram,Pulse,Black Cotton,946.9,270.2,30.6,66.2,126.5,37.4,127.2,7.08,45.4,53.0,3.07,0.843
+1076,2023,Kharif,Tamil Nadu,Coimbatore,Western,Cotton,Fibre,Red Loam,971.7,557.3,29.8,72.1,126.9,56.0,118.2,6.93,115.6,48.1,3.45,1.906
+395,2017,Kharif,Tamil Nadu,Coimbatore,Western,Sorghum,Millet,Red Loam,408.8,451.2,28.8,58.1,163.8,39.5,93.8,8.57,53.3,43.1,2.66,1.989
+101,2014,Kharif,Tamil Nadu,Villupuram,Northern,Rice,Cereal,Red Loam,593.2,471.5,31.6,70.1,82.4,20.3,113.3,5.8,163.1,79.8,0.69,2.718
+169,2015,Rabi,Tamil Nadu,Coimbatore,Western,Cotton,Fibre,Red Loam,436.6,490.9,23.9,78.7,126.5,46.5,135.4,6.72,133.4,50.0,3.15,1.784
+721,2020,Kharif,Tamil Nadu,Tirunelveli,Southern,Cotton,Fibre,Black Cotton,426.2,559.3,30.6,64.4,136.8,51.7,66.3,7.54,93.2,96.9,2.51,1.527
+669,2019,Rabi,Tamil Nadu,Villupuram,Northern,Groundnut,Oilseed,Red Loam,756.4,297.6,26.4,75.6,110.3,52.0,99.6,7.19,12.6,56.8,1.89,2.885
+465,2018,Kharif,Tamil Nadu,Tiruvarur,Delta,Ragi,Millet,Sandy Loam,624.8,818.6,30.8,76.7,132.7,51.7,92.4,6.6,75.7,18.4,3.37,1.557
+550,2018,Kharif,Tamil Nadu,Villupuram,Northern,Rice,Cereal,Red Loam,622.5,640.1,31.9,72.2,176.8,20.8,131.4,6.77,160.6,43.6,1.84,3.779
+644,2019,Kharif,Tamil Nadu,Salem,Northern,Groundnut,Oilseed,Red Loam,1264.9,277.6,30.7,58.9,129.5,46.5,59.4,5.52,71.3,46.3,3.98,2.002
+808,2021,Rabi,Tamil Nadu,Tiruvarur,Delta,Maize,Cereal,Alluvial,939.0,300.5,25.9,,168.6,60.3,113.0,6.24,202.2,59.8,2.42,5.981
+925,2022,Summer,Tamil Nadu,Thanjavur,Delta,Black Gram,Pulse,Alluvial,1143.6,78.8,32.5,52.8,84.1,38.5,146.1,6.45,20.8,61.8,2.66,0.892
+266,2016,Rabi,Tamil Nadu,Madurai,Southern,Ragi,Millet,Red Loam,550.2,,29.9,73.6,51.7,40.6,90.5,6.63,77.5,45.9,2.76,2.104
+221,2015,Rabi,Tamil Nadu,Villupuram,Northern,Sorghum,Millet,Red Loam,1122.6,397.9,27.5,68.6,100.2,48.6,124.6,6.98,89.4,27.3,1.42,1.202
+428,2017,Kharif,Tamil Nadu,Villupuram,Northern,Maize,Cereal,Red Loam,491.9,499.4,31.1,81.0,127.8,32.1,139.3,6.43,109.7,51.2,2.58,3.9
+436,2017,Summer,Tamil Nadu,Villupuram,Northern,Black Gram,Pulse,Sandy Loam,1399.0,67.1,33.6,57.9,137.2,60.3,133.5,7.43,71.5,64.1,2.63,0.655
+763,2020,Rabi,Tamil Nadu,Salem,Northern,Black Gram,Pulse,Red Loam,557.3,98.8,25.9,67.4,110.7,19.5,114.3,6.1,28.5,19.4,2.55,0.663
+67,2014,Kharif,Tamil Nadu,Erode,Western,Groundnut,Oilseed,Black Cotton,286.4,303.3,31.8,64.0,145.5,23.6,116.9,7.12,72.4,55.6,3.01,1.9
+536,2018,Rabi,Tamil Nadu,Salem,Northern,Sorghum,Millet,Red Loam,1037.8,623.8,25.4,72.1,122.4,37.6,135.4,8.23,108.1,32.2,1.91,1.557
+68,2014,Kharif,Tamil Nadu,Erode,Western,Ragi,Millet,Black Cotton,641.9,370.3,31.5,76.7,176.0,49.9,133.0,6.72,75.0,42.0,3.16,2.118
+360,2017,Rabi,Tamil Nadu,Cuddalore,Coastal,Maize,Cereal,Alluvial,1265.9,649.4,28.4,81.4,177.3,31.2,79.0,7.3,156.3,52.3,2.48,3.794
+922,2022,Kharif,Tamil Nadu,Thanjavur,Delta,Ragi,Millet,Alluvial,821.1,731.6,30.0,75.9,136.0,18.3,67.0,6.44,60.3,38.4,2.06,1.363
+13,2014,Rabi,Tamil Nadu,Tiruvarur,Delta,Maize,Cereal,Alluvial,597.2,644.8,26.5,78.0,145.0,47.6,73.3,,109.8,79.8,3.88,2.714
+674,2019,Rabi,Tamil Nadu,Villupuram,Northern,Black Gram,Pulse,Red Loam,568.9,629.1,25.3,83.6,156.5,62.9,110.0,6.55,39.2,16.9,3.02,0.547
+573,2019,Kharif,Tamil Nadu,Thanjavur,Delta,Groundnut,Oilseed,Alluvial,489.9,432.7,31.6,77.8,154.8,64.5,131.8,7.34,20.8,80.1,3.35,1.536
+1073,2023,Kharif,Tamil Nadu,Coimbatore,Western,Rice,Cereal,Red Loam,388.5,323.6,30.2,66.5,98.7,40.6,122.6,6.13,181.2,58.5,2.11,2.85
+319,2016,Summer,Tamil Nadu,Villupuram,Northern,Maize,Cereal,Red Loam,926.2,177.5,33.4,66.1,66.6,55.2,127.3,6.99,154.6,64.8,1.85,3.153
+287,2016,Kharif,Tamil Nadu,Erode,Western,Cotton,Fibre,Black Cotton,354.5,507.3,29.3,79.0,151.0,48.2,107.6,6.94,115.0,50.5,1.82,2.239
+668,2019,Kharif,Tamil Nadu,Villupuram,Northern,Cotton,Fibre,Red Loam,919.5,414.8,30.2,66.1,107.2,46.0,126.8,6.53,93.1,46.2,1.12,1.92
+988,2022,Kharif,Tamil Nadu,Salem,Northern,Groundnut,Oilseed,Red Loam,691.1,518.6,28.6,75.5,135.3,39.6,120.3,8.17,56.5,53.0,4.28,1.779
+791,2020,Rabi,Tamil Nadu,Tiruchirappalli,Central,Groundnut,Oilseed,Sandy Loam,422.0,59.9,25.3,71.7,87.5,40.0,72.6,5.81,67.0,43.8,2.0,1.893
+185,2015,Rabi,Tamil Nadu,Erode,Western,Sorghum,Millet,Black Cotton,740.8,368.9,25.1,74.1,134.0,59.6,77.4,6.91,85.4,59.3,1.11,2.539
+964,2022,Kharif,Tamil Nadu,Coimbatore,Western,Cotton,Fibre,Black Cotton,818.8,555.2,29.1,73.9,147.1,35.5,101.3,6.25,81.3,27.9,3.04,2.324
+753,2020,Kharif,Tamil Nadu,Salem,Northern,Rice,Cereal,Red Loam,1151.5,544.9,29.8,68.8,74.9,48.2,116.7,6.42,163.9,100.0,3.71,3.871
+713,2020,Kharif,Tamil Nadu,Madurai,Southern,Ragi,Millet,Red Loam,1494.7,407.9,31.6,71.6,75.1,46.0,118.9,5.38,42.5,55.7,2.62,1.937
+352,2017,Summer,Tamil Nadu,Tiruvarur,Delta,Maize,Cereal,Alluvial,936.5,130.5,36.8,53.9,151.6,46.5,78.7,6.8,146.7,77.7,2.76,3.129
+440,2017,Rabi,Tamil Nadu,Tiruchirappalli,Central,Cotton,Fibre,Sandy Loam,1048.3,259.1,26.5,73.5,128.6,51.3,176.9,7.41,130.3,71.7,4.74,1.912
+405,2017,Kharif,Tamil Nadu,Salem,Northern,Rice,Cereal,Alluvial,741.4,364.5,29.6,59.3,182.4,54.9,40.0,6.66,149.2,77.6,2.11,4.227
+347,2017,Rabi,Tamil Nadu,Thanjavur,Delta,Black Gram,Pulse,Alluvial,283.3,434.0,25.7,76.3,187.6,56.2,104.0,7.21,18.3,49.8,2.64,0.699
+1062,2023,Summer,Tamil Nadu,Madurai,Southern,Black Gram,Pulse,Red Loam,292.5,66.9,33.2,51.2,126.8,53.8,134.9,8.27,29.9,38.6,1.8,0.584
+614,2019,Rabi,Tamil Nadu,Tirunelveli,Southern,Groundnut,Oilseed,Black Cotton,427.8,365.4,30.9,77.4,84.6,31.8,124.0,6.57,65.3,43.1,4.09,1.018
+487,2018,Rabi,Tamil Nadu,Madurai,Southern,Ragi,Millet,Red Loam,437.3,390.2,27.2,79.0,154.9,37.0,94.1,6.17,45.2,55.2,1.72,2.99
+812,2021,Rabi,Tamil Nadu,Tiruvarur,Delta,Sorghum,Millet,Alluvial,982.2,230.1,26.4,69.4,135.5,25.7,149.2,6.38,72.2,28.1,2.77,2.731
+765,2020,Rabi,Tamil Nadu,Vellore,Northern,Maize,Cereal,Red Loam,1837.7,371.5,27.8,64.8,157.5,57.6,89.7,7.27,129.9,53.2,3.65,6.099
+678,2019,Rabi,Tamil Nadu,Tiruchirappalli,Central,Groundnut,Oilseed,Sandy Loam,1758.2,491.2,27.7,82.2,155.3,51.0,54.9,7.76,40.8,60.4,2.0,2.082
+1048,2023,Rabi,Tamil Nadu,Cuddalore,Coastal,Rice,Cereal,Alluvial,599.5,346.7,26.5,83.8,182.4,49.8,157.7,6.4,143.1,75.5,3.07,4.916
+278,2016,Kharif,Tamil Nadu,Coimbatore,Western,Maize,Cereal,Red Loam,2018.8,297.4,27.6,69.7,149.3,51.1,103.4,7.37,158.1,57.6,1.88,5.311
+238,2016,Kharif,Tamil Nadu,Thanjavur,Delta,Ragi,Millet,Alluvial,325.6,572.8,30.3,80.5,165.1,41.8,127.8,7.56,65.9,59.8,3.01,1.5
+675,2019,Kharif,Tamil Nadu,Tiruchirappalli,Central,Rice,Cereal,Sandy Loam,1341.5,535.8,30.4,62.4,101.7,30.7,118.5,5.87,132.6,48.0,2.19,3.23
+896,2021,Kharif,Tamil Nadu,Villupuram,Northern,Ragi,Millet,Red Loam,528.0,641.1,30.4,72.9,87.0,34.3,127.6,5.63,48.0,16.8,1.77,1.719
+3,2014,Kharif,Tamil Nadu,Thanjavur,Delta,Cotton,Fibre,Alluvial,713.4,474.5,30.7,76.7,100.6,54.1,132.3,6.22,112.6,40.0,2.69,1.861
+7,2014,Kharif,Tamil Nadu,Thanjavur,Delta,Black Gram,Pulse,Alluvial,376.1,398.5,28.4,62.4,98.3,63.2,99.3,6.54,54.4,26.0,2.34,0.917
+903,2021,Kharif,Tamil Nadu,Tiruchirappalli,Central,Rice,Cereal,Black Cotton,426.8,200.4,29.1,62.2,195.8,36.4,51.4,6.69,156.6,71.7,4.87,3.454
+583,2019,Rabi,Tamil Nadu,Tiruvarur,Delta,Cotton,Fibre,Alluvial,727.5,411.5,27.0,62.4,101.2,42.2,105.8,6.85,94.6,50.3,2.93,2.126
+368,2017,Kharif,Tamil Nadu,Cuddalore,Coastal,Black Gram,Pulse,Alluvial,269.2,406.7,31.3,61.3,128.6,36.2,89.5,7.3,38.5,55.1,4.33,0.694
+216,2015,Rabi,Tamil Nadu,Villupuram,Northern,Cotton,Fibre,Red Loam,231.2,245.5,26.8,67.3,97.9,59.9,130.7,5.97,123.4,50.6,3.12,1.852
+747,2020,Kharif,Tamil Nadu,Erode,Western,Groundnut,Oilseed,Black Cotton,854.8,512.9,30.6,66.9,153.5,32.7,96.1,6.95,42.6,37.4,2.75,2.037
+449,2018,Summer,Tamil Nadu,Thanjavur,Delta,Maize,Cereal,Alluvial,548.4,91.2,33.6,58.1,107.1,40.0,96.4,7.04,110.6,71.2,2.36,3.048
+479,2018,Kharif,Tamil Nadu,Madurai,Southern,Maize,Cereal,Red Loam,1240.8,441.1,32.2,67.0,171.3,53.3,100.0,5.2,121.2,60.0,3.48,3.45
+680,2019,Rabi,Tamil Nadu,Tiruchirappalli,Central,Ragi,Millet,Sandy Loam,1406.9,468.2,25.6,72.7,161.6,42.2,102.7,5.98,82.4,39.9,2.06,2.318
+595,2019,Rabi,Tamil Nadu,Cuddalore,Coastal,Ragi,Millet,Alluvial,963.7,481.1,26.7,78.0,129.9,58.4,103.9,6.49,34.6,14.8,1.12,2.564
+690,2020,Rabi,Tamil Nadu,Thanjavur,Delta,Ragi,Millet,Alluvial,641.8,404.8,23.9,80.7,112.6,38.4,103.6,6.13,73.0,34.8,2.45,2.607
+353,2017,Kharif,Tamil Nadu,Tiruvarur,Delta,Cotton,Fibre,Alluvial,364.9,591.1,28.8,68.6,138.8,31.9,74.4,6.47,57.7,46.5,1.32,1.714
+1059,2023,Summer,Tamil Nadu,Madurai,Southern,Maize,Cereal,Sandy Loam,474.4,90.7,32.3,59.8,126.2,51.2,125.3,7.54,140.8,65.0,3.13,3.423
+658,2019,Summer,Tamil Nadu,Vellore,Northern,Groundnut,Oilseed,Sandy Loam,1865.5,78.0,35.2,62.8,151.7,36.8,121.9,8.49,43.0,79.4,2.45,1.246
+942,2022,Kharif,Tamil Nadu,Cuddalore,Coastal,Sorghum,Millet,Alluvial,459.3,605.4,28.8,77.4,139.9,38.7,115.2,6.53,63.3,47.7,2.55,1.904
+310,2016,Rabi,Tamil Nadu,Vellore,Northern,Ragi,Millet,Sandy Loam,1075.7,286.9,28.8,75.2,166.6,32.4,40.0,7.05,60.1,51.4,2.22,2.841
+257,2016,Kharif,Tamil Nadu,Cuddalore,Coastal,Black Gram,Pulse,Alluvial,499.6,318.7,30.7,,177.3,28.0,100.1,8.08,37.1,66.7,2.11,0.745
+26,2014,Kharif,Tamil Nadu,Cuddalore,Coastal,Maize,Cereal,Alluvial,2688.1,515.1,32.0,66.2,137.1,45.2,149.9,7.39,165.4,67.6,2.94,3.339
+622,2019,Summer,Tamil Nadu,Coimbatore,Western,Maize,Cereal,Red Loam,765.2,176.6,32.6,56.1,169.6,30.2,105.8,7.45,149.1,62.4,4.39,3.798
+48,2014,Rabi,Tamil Nadu,Tirunelveli,Southern,Groundnut,Oilseed,Red Loam,642.8,292.6,27.9,59.9,50.0,32.2,104.0,6.13,81.8,46.3,1.68,2.664
+107,2014,Summer,Tamil Nadu,Villupuram,Northern,Groundnut,Oilseed,Red Loam,723.4,17.1,32.5,54.7,81.8,34.8,133.1,6.36,74.2,62.8,2.19,1.399
+56,2014,Summer,Tamil Nadu,Coimbatore,Western,Maize,Cereal,Red Loam,1576.0,89.6,31.3,61.1,108.0,39.4,117.3,7.02,150.8,52.9,2.12,2.957
+443,2017,Rabi,Tamil Nadu,Tiruchirappalli,Central,Ragi,Millet,Sandy Loam,1831.3,250.6,25.2,71.2,75.5,54.5,141.6,7.25,61.2,39.4,2.48,2.486
+214,2015,Summer,Tamil Nadu,Villupuram,Northern,Maize,Cereal,Red Loam,621.2,146.2,34.7,63.9,123.4,41.8,117.7,8.6,134.1,75.6,3.17,2.696
+121,2015,Summer,Tamil Nadu,Thanjavur,Delta,Maize,Cereal,Alluvial,794.8,70.7,32.8,51.9,97.9,38.7,112.2,8.6,111.6,95.6,3.4,2.385
+482,2018,Rabi,Tamil Nadu,Madurai,Southern,Cotton,Fibre,Red Loam,643.0,382.9,25.2,74.6,89.9,25.3,128.2,6.55,103.1,25.3,2.78,1.833
+722,2020,Rabi,Tamil Nadu,Tirunelveli,Southern,Cotton,Fibre,Black Cotton,243.3,481.2,28.5,78.7,100.3,49.0,151.5,6.91,107.0,40.6,2.55,2.243
+1020,2022,Kharif,Tamil Nadu,Tiruchirappalli,Central,Sorghum,Millet,Sandy Loam,346.7,499.2,31.2,79.0,82.3,52.2,103.5,6.73,97.4,39.0,2.02,2.153
+73,2014,Summer,Tamil Nadu,Erode,Western,Black Gram,Pulse,Black Cotton,340.8,90.5,35.2,56.9,107.4,30.0,123.7,6.76,72.1,53.8,2.34,0.52
+1092,2023,Kharif,Tamil Nadu,Salem,Northern,Maize,Cereal,Red Loam,1020.5,640.3,29.7,79.3,175.4,44.9,48.9,6.78,134.3,75.3,2.16,3.484
+382,2017,Kharif,Tamil Nadu,Tirunelveli,Southern,Groundnut,Oilseed,Black Cotton,1007.4,577.7,27.5,77.6,50.0,61.1,120.9,7.11,68.6,43.8,1.01,1.857
+761,2020,Rabi,Tamil Nadu,Salem,Northern,Ragi,Millet,Red Loam,555.1,237.5,24.9,72.7,80.0,55.7,139.2,7.33,79.5,49.6,4.25,3.333
+434,2017,Kharif,Tamil Nadu,Villupuram,Northern,Sorghum,Millet,Red Loam,694.9,620.1,29.3,72.9,123.7,38.9,102.5,7.39,52.8,30.3,3.91,1.713
+468,2018,Kharif,Tamil Nadu,Tiruvarur,Delta,Black Gram,Pulse,Alluvial,2399.2,461.9,30.8,64.6,94.1,45.7,179.8,6.83,51.8,31.1,3.05,0.692
+799,2021,Kharif,Tamil Nadu,Thanjavur,Delta,Groundnut,Oilseed,Alluvial,400.4,540.7,29.2,62.8,152.2,43.7,103.4,6.25,80.4,40.8,2.04,1.769
+329,2016,Rabi,Tamil Nadu,Tiruchirappalli,Central,Maize,Cereal,Black Cotton,276.0,371.4,27.6,80.4,130.9,42.2,171.1,6.58,99.9,51.5,3.47,4.663
+701,2020,Summer,Tamil Nadu,Tiruvarur,Delta,Black Gram,Pulse,Alluvial,434.9,39.3,34.8,56.4,124.1,52.6,102.3,7.38,56.9,57.1,2.04,0.64
+815,2021,Kharif,Tamil Nadu,Cuddalore,Coastal,Maize,Cereal,Alluvial,585.9,588.3,28.7,63.8,103.5,58.5,91.0,5.78,172.7,55.4,2.74,3.093
+549,2018,Summer,Tamil Nadu,Vellore,Northern,Black Gram,Pulse,Sandy Loam,453.7,87.5,33.7,65.8,146.0,62.0,220.0,6.52,53.3,56.5,1.46,0.656
+732,2020,Kharif,Tamil Nadu,Coimbatore,Western,Maize,Cereal,Red Loam,691.3,578.5,27.0,78.1,116.0,40.4,112.7,8.09,163.1,29.3,2.56,2.158
+615,2019,Rabi,Tamil Nadu,Tirunelveli,Southern,Ragi,Millet,Black Cotton,1256.2,318.5,28.1,70.0,161.7,21.6,82.8,7.86,92.6,5.0,2.89,2.505
+606,2019,Kharif,Tamil Nadu,Madurai,Southern,Sorghum,Millet,Red Loam,328.8,379.2,30.2,73.3,95.2,67.6,141.6,6.57,40.0,60.3,3.58,2.126
+993,2022,Kharif,Tamil Nadu,salem ,Northern,Black Gram,Pulse,Red Loam,212.1,623.2,29.0,71.7,119.6,55.0,113.3,6.18,60.6,30.9,4.21,0.464
+695,2020,Kharif,Tamil Nadu,Tiruvarur,Delta,Maize,Cereal,Alluvial,162.7,462.3,29.2,70.8,148.5,38.5,103.9,7.32,141.0,54.2,3.43,4.911
+61,2014,Kharif,Tamil Nadu,Coimbatore,Western,Black Gram,Pulse,Sandy Loam,396.5,469.8,30.5,67.2,100.8,39.3,111.2,6.41,28.2,55.7,1.96,0.556
+926,2022,Kharif,Tamil Nadu,Tiruvarur,Delta,Rice,Cereal,Alluvial,356.0,522.0,30.2,72.6,169.9,32.1,96.3,6.81,183.2,90.0,3.34,4.824
+93,2014,Rabi,Tamil Nadu,Vellore,Northern,Maize,Cereal,Alluvial,879.8,301.4,25.6,87.5,162.1,41.5,126.9,6.72,111.7,60.3,4.03,5.492
+755,2020,Kharif,Tamil Nadu,Salem,Northern,Maize,Cereal,Red Loam,880.6,228.7,29.7,66.4,145.2,34.9,111.6,6.58,153.8,42.3,2.31,4.48
+307,2016,Rabi,Tamil Nadu,Vellore,Northern,Cotton,Fibre,Sandy Loam,1254.8,455.6,27.9,78.5,77.5,50.1,82.6,6.79,106.5,33.4,3.05,1.927
+823,2021,Kharif,Tamil Nadu,Cuddalore,Coastal,Black Gram,Pulse,Alluvial,707.5,667.8,30.5,76.2,144.2,41.2,112.5,7.17,79.6,42.1,2.53,0.5
+281,2016,Summer,Tamil Nadu,Coimbatore,Western,Groundnut,Oilseed,Red Loam,524.5,104.5,31.8,80.6,116.7,19.2,112.8,7.79,103.9,63.3,1.11,1.756
+902,2021,Summer,Tamil Nadu,Villupuram,Northern,Black Gram,Pulse,Red Loam,700.6,100.3,32.8,42.6,157.5,25.0,75.3,6.42,47.1,53.7,3.05,0.766
+458,2018,Rabi,Tamil Nadu,Thanjavur,Delta,Black Gram,Pulse,Alluvial,455.1,363.0,26.6,72.1,190.7,57.4,98.4,7.88,28.5,60.7,2.22,0.824
+429,2017,Summer,Tamil Nadu,Villupuram,Northern,Maize,Cereal,Red Loam,1412.8,90.5,34.6,61.0,135.8,20.0,61.4,6.63,98.1,75.7,1.41,2.819
+183,2015,Kharif,Tamil Nadu,Erode,Western,Ragi,Millet,Black Cotton,1539.9,348.2,28.7,68.2,121.6,18.3,71.6,7.7,46.2,39.1,2.21,2.566
+569,2019,Rabi,Tamil Nadu,Thanjavur,Delta,Maize,Cereal,Red Loam,889.0,395.9,25.7,,184.8,63.6,99.2,7.11,125.5,51.6,1.57,5.79
+337,2017,Kharif,Tamil Nadu,Thanjavur,Delta,Rice,Cereal,Alluvial,727.0,534.8,29.5,64.4,141.9,25.2,139.7,6.68,66.5,73.3,2.0,4.55
+111,2014,Kharif,Tamil Nadu,Tiruchirappalli,Central,Rice,Cereal,Sandy Loam,1346.6,441.8,30.7,65.2,232.0,49.5,87.2,5.56,149.4,80.7,3.11,3.406
+437,2017,Kharif,Tamil Nadu,Tiruchirappalli,Central,Rice,Cereal,Sandy Loam,780.0,628.4,30.6,70.2,158.0,40.5,120.0,7.02,134.5,70.0,2.6,3.974
+851,2021,Rabi,Tamil Nadu,Coimbatore,Western,Maize,Cereal,Red Loam,478.4,338.5,24.7,75.9,167.0,49.6,161.4,7.79,146.3,71.2,2.84,5.667
+558,2018,Rabi,Tamil Nadu,Villupuram,Northern,Black Gram,Pulse,Red Loam,708.3,465.4,27.0,69.4,98.4,57.7,97.4,8.04,50.4,19.7,1.96,0.704
+524,2018,Rabi,Tamil Nadu,Erode,Western,Sorghum,Millet,Black Cotton,371.7,453.9,24.0,74.8,122.4,54.1,77.5,7.84,73.7,38.1,1.74,2.483
+984,2022,Rabi,Tamil Nadu,Salem,Northern,Rice,Cereal,Red Loam,372.8,493.4,27.0,74.2,78.8,49.5,47.8,,174.8,94.6,2.16,3.511
+1099,2023,Kharif,Tamil Nadu,Vellore,Northern,Rice,Cereal,Sandy Loam,194.7,392.5,28.0,64.8,150.6,31.2,148.4,7.65,133.9,100.0,2.5,4.495
+262,2016,Kharif,Tamil Nadu,Madurai,Southern,Cotton,Fibre,Red Loam,1782.3,173.2,30.6,64.4,89.8,39.3,121.8,6.81,68.6,60.7,1.55,1.331
+890,2021,Rabi,Tamil Nadu,Villupuram,Northern,Rice,Cereal,Red Loam,927.4,441.1,27.1,86.2,98.2,54.6,83.9,5.53,156.7,100.0,1.26,4.058
+576,2019,Kharif,Tamil Nadu,Thanjavur,Delta,Ragi,Millet,Alluvial,1004.3,574.5,31.4,72.4,125.9,35.6,55.5,6.55,78.9,70.8,2.87,1.453
+1058,2023,Rabi,Tamil Nadu,Madurai,Southern,Maize,Cereal,Red Loam,376.9,558.1,25.1,86.5,156.8,65.0,100.3,6.57,126.4,49.2,2.04,5.301
+920,2022,Kharif,Tamil Nadu,Thanjavur,Delta,Groundnut,Oilseed,Alluvial,466.3,611.4,29.5,78.7,141.8,54.2,118.6,5.65,52.4,55.4,2.17,1.363
+138,2015,Rabi,Tamil Nadu,Tiruvarur,Delta,Black Gram,Pulse,Alluvial,139.6,464.5,25.4,80.4,130.5,46.8,107.9,6.25,10.0,17.9,2.95,0.797
+759,2020,Kharif,Tamil Nadu,Salem,Northern,Groundnut,Oilseed,Red Loam,628.7,573.0,29.4,65.1,179.7,40.6,83.8,6.65,62.2,45.5,2.28,1.25
+825,2021,Kharif,Tamil Nadu,Madurai,Southern,Rice,Cereal,Red Loam,1056.2,426.6,30.5,65.6,125.5,19.0,148.2,6.46,128.9,69.0,1.6,3.249
+944,2022,Kharif,Tamil Nadu,Cuddalore,Coastal,Black Gram,Pulse,Alluvial,240.4,672.9,29.4,81.5,128.0,33.4,119.1,6.69,68.8,58.7,3.08,0.464
+1054,2023,Rabi,Tamil Nadu,Cuddalore,Coastal,Ragi,Millet,Alluvial,663.2,561.3,24.5,69.0,100.5,36.1,87.2,5.92,72.3,30.7,2.07,2.144
+773,2020,Rabi,Tamil Nadu,Vellore,Northern,Sorghum,Millet,Sandy Loam,724.1,551.0,25.8,81.6,145.8,31.8,145.1,5.84,60.9,54.6,2.16,1.507
+852,2021,Summer,Tamil Nadu,Coimbatore,Western,Maize,Cereal,Red Loam,427.4,90.4,32.5,64.8,50.0,40.8,85.3,7.97,115.9,65.0,2.05,2.504
+30,2014,Rabi,Tamil Nadu,Cuddalore,Coastal,Groundnut,Oilseed,Alluvial,1160.9,301.0,25.1,71.5,190.2,50.5,78.8,5.83,65.9,48.0,1.04,2.103
+542,2018,Rabi,Tamil Nadu,Vellore,Northern,Cotton,Fibre,Sandy Loam,491.1,411.2,27.0,75.4,126.8,47.0,90.7,6.54,165.4,28.9,2.03,2.23
+166,2015,Rabi,Tamil Nadu,Tirunelveli,Southern,Black Gram,Pulse,Black Cotton,1036.7,134.5,26.9,68.8,95.6,58.9,106.1,6.99,37.8,48.6,1.72,0.955
+249,2016,Kharif,Tamil Nadu,Tiruvarur,Delta,Ragi,Millet,Alluvial,601.1,660.8,30.9,75.7,197.0,45.1,110.4,6.17,82.1,33.6,2.75,1.325
+308,2016,Kharif,Tamil Nadu,Vellore,Northern,Groundnut,Oilseed,Sandy Loam,824.7,224.8,31.5,65.0,119.4,46.9,85.4,7.67,78.9,39.8,1.95,2.258
+335,2016,Rabi,Tamil Nadu,Tiruchirappalli,Central,Black Gram,Pulse,Black Cotton,822.8,302.7,26.9,63.6,143.0,41.3,87.3,6.43,32.0,68.3,3.61,0.786
+737,2020,Kharif,Tamil Nadu,Coimbatore,Western,Ragi,Millet,Red Loam,1024.8,490.4,29.1,74.1,142.3,46.9,89.5,6.94,101.7,70.8,1.61,1.707
+838,2021,Summer,Tamil Nadu,Tirunelveli,Southern,Maize,Cereal,Black Cotton,326.5,154.1,32.9,52.5,80.3,57.7,114.8,5.45,155.8,63.4,1.39,2.626
+936,2022,Kharif,Tamil Nadu,Cuddalore,Coastal,Rice,Cereal,Black Cotton,782.1,877.2,27.7,81.8,138.8,41.3,88.6,6.24,127.4,75.1,1.9,3.422
+363,2017,Rabi,Tamil Nadu,Cuddalore,Coastal,Groundnut,Oilseed,Alluvial,613.8,538.5,26.2,75.0,164.7,44.9,136.0,6.22,10.0,49.1,2.16,1.742
+916,2022,Kharif,Tamil Nadu,Thanjavur,Delta,Maize,Cereal,Alluvial,654.9,671.8,30.7,75.8,175.3,32.4,146.7,7.46,152.2,52.7,2.79,3.468
+804,2021,Kharif,Tamil Nadu,Thanjavur,Delta,Black Gram,Pulse,Alluvial,342.0,646.3,28.1,74.5,120.0,60.0,85.4,6.91,72.3,54.2,2.16,0.472
+754,2020,Rabi,Tamil Nadu,Salem,Northern,Rice,Cereal,Red Loam,442.0,350.6,27.0,79.5,125.8,62.7,136.4,7.35,134.2,67.5,1.81,3.689
+715,2020,Kharif,Tamil Nadu,Madurai,Southern,Sorghum,Millet,Red Loam,306.0,425.1,30.2,70.4,126.1,42.0,80.0,7.16,106.8,51.0,1.67,2.3
+708,2020,Kharif,Tamil Nadu,Cuddalore,Coastal,Sorghum,Millet,Alluvial,1861.5,648.2,30.2,79.5,66.3,33.7,91.0,6.33,57.0,33.1,3.0,1.339
+912,2021,Rabi,Tamil Nadu,Tiruchirappalli,Central,Black Gram,Pulse,Sandy Loam,849.7,491.0,27.6,85.6,119.4,53.9,43.4,8.0,47.4,31.3,3.22,0.581
+66,2014,Rabi,Tamil Nadu,Erode,Western,Cotton,Fibre,Sandy Loam,760.4,389.1,25.3,74.7,82.2,34.6,137.7,6.62,99.9,45.8,2.42,1.684
+461,2018,Rabi,Tamil Nadu,Tiruvarur,Delta,Maize,Cereal,Black Cotton,820.4,648.4,25.6,86.9,151.4,38.7,142.8,7.27,125.0,66.7,2.19,3.027
+888,2021,Rabi,Tamil Nadu,Vellore,Northern,Black Gram,Pulse,Sandy Loam,268.2,511.9,26.1,86.2,119.7,47.4,178.1,7.78,29.3,43.9,4.02,0.506
+1030,2023,Rabi,Tamil Nadu,Thanjavur,Delta,Groundnut,Oilseed,Alluvial,376.1,607.8,24.7,87.7,112.3,31.0,57.8,6.42,70.9,79.7,1.21,1.376
+426,2017,Kharif,Tamil Nadu,Villupuram,Northern,Rice,Cereal,Red Loam,216.4,523.9,28.9,78.3,132.6,37.3,154.6,6.2,137.6,71.6,1.58,3.691
+255,2016,Kharif,Tamil Nadu,Cuddalore,Coastal,Sorghum,Millet,Alluvial,797.8,469.1,30.0,74.3,112.6,27.2,121.9,6.66,36.3,33.3,3.11,2.437
+843,2021,Summer,Tamil Nadu,Tirunelveli,Southern,Groundnut,Oilseed,Black Cotton,185.3,80.2,35.2,55.2,127.8,20.9,99.7,6.01,90.2,64.4,2.64,1.293
+313,2016,Kharif,Tamil Nadu,Vellore,Northern,Black Gram,Pulse,Sandy Loam,1105.1,290.1,30.0,62.9,50.0,83.2,127.7,6.1,10.0,39.4,2.55,0.986
+623,2019,Rabi,Tamil Nadu,Coimbatore,Western,Cotton,Fibre,Red Loam,479.9,468.0,23.0,74.2,185.0,32.5,127.0,6.26,83.4,46.0,3.2,1.401
+222,2015,Rabi,Tamil Nadu,Villupuram,Northern,Black Gram,Pulse,Alluvial,495.6,161.8,27.6,68.6,187.6,40.3,113.2,6.19,10.0,45.0,3.79,1.041
+236,2016,Kharif,Tamil Nadu,Thanjavur,Delta,Groundnut,Oilseed,Black Cotton,303.2,440.9,30.6,81.6,63.6,58.1,63.6,7.79,46.4,66.4,2.94,1.734
+928,2022,Rabi,Tamil Nadu,Tiruvarur,Delta,Maize,Cereal,Alluvial,209.6,366.7,24.0,74.0,129.6,71.0,112.8,7.58,169.5,61.0,2.19,5.964
+632,2019,Rabi,Tamil Nadu,Erode,Western,Rice,Cereal,Black Cotton,1073.2,143.4,26.6,65.7,121.6,47.6,94.1,7.31,120.7,89.5,0.58,2.378
+306,2016,Kharif,Tamil Nadu,Vellore,Northern,Cotton,Fibre,Sandy Loam,577.3,455.3,31.8,68.5,69.1,49.5,105.9,6.06,100.9,65.6,1.55,1.359
+431,2017,Kharif,Tamil Nadu,Villupuram,Northern,Groundnut,Oilseed,Red Loam,364.1,586.9,31.3,79.0,167.6,41.4,111.0,8.09,40.9,44.8,3.87,1.344
+717,2020,Kharif,Tamil Nadu,Madurai,Southern,Black Gram,Pulse,Red Loam,506.2,193.7,30.3,63.2,89.1,59.8,88.4,7.27,26.7,42.1,1.31,0.987
+1079,2023,Kharif,Tamil Nadu,Coimbatore,Western,Ragi,Millet,Red Loam,978.5,331.8,31.4,61.3,123.5,45.1,114.7,6.26,77.9,38.1,1.94,2.753
+250,2016,Kharif,Tamil Nadu,Tiruvarur,Delta,Sorghum,Millet,Alluvial,697.7,,30.4,70.7,149.9,25.9,169.2,5.45,54.8,49.2,1.95,2.028
+671,2019,Kharif,Tamil Nadu,Villupuram,Northern,Sorghum,Millet,Alluvial,670.4,361.1,32.2,80.0,122.2,23.1,92.8,7.13,116.9,24.3,1.9,2.412
+596,2019,Kharif,Tamil Nadu,Cuddalore,Coastal,Sorghum,Millet,Alluvial,259.9,531.8,30.1,73.7,50.0,51.0,159.2,6.57,123.2,19.6,2.22,2.382
+72,2014,Rabi,Tamil Nadu,Erode,Western,Black Gram,Pulse,Black Cotton,851.2,315.6,27.2,68.2,86.5,46.5,183.4,6.66,10.0,62.1,2.62,0.798
+95,2014,Rabi,Tamil Nadu,Vellore,Northern,Groundnut,Oilseed,Sandy Loam,1407.1,399.4,27.5,76.7,181.6,12.0,100.5,7.66,49.9,23.7,2.58,2.446
+901,2021,Rabi,Tamil Nadu,Villupuram,Northern,Black Gram,Pulse,Red Loam,742.8,379.7,25.7,76.2,89.9,52.7,118.6,5.82,38.6,44.1,2.0,0.377
+34,2014,Rabi,Tamil Nadu,Cuddalore,Coastal,Sorghum,Millet,Alluvial,828.8,488.4,27.9,77.9,128.0,34.1,122.9,6.68,59.7,50.0,3.37,2.053
+758,2020,Rabi,Tamil Nadu,Salem,Northern,Cotton,Fibre,Red Loam,473.3,334.5,30.1,68.8,76.4,26.1,117.7,6.63,100.4,45.4,3.37,1.897
+1089,2023,Rabi,Tamil Nadu,Erode,Western,Black Gram,Pulse,Black Cotton,783.8,351.8,25.9,72.3,159.3,41.3,120.4,6.07,76.3,39.9,2.31,0.731
+260,2016,Rabi,Tamil Nadu,Madurai,Southern,Maize,Cereal,Red Loam,787.7,257.5,26.7,77.9,138.2,31.5,174.3,6.01,139.6,43.4,3.64,5.044
+205,2015,Rabi,Tamil Nadu,Vellore,Northern,Maize,Cereal,Sandy Loam,2740.4,276.6,28.3,77.3,75.8,38.5,50.8,6.61,170.5,50.9,3.09,4.249
+498,2018,Rabi,Tamil Nadu,Tirunelveli,Southern,Groundnut,Oilseed,Black Cotton,186.0,1053.8,26.6,76.0,65.0,40.1,126.0,7.7,69.5,70.6,2.42,0.729
+729,2020,Kharif,Tamil Nadu,Tirunelveli,Southern,Black Gram,Pulse,Black Cotton,270.6,267.6,29.2,58.6,123.6,54.3,99.9,6.98,36.9,23.6,1.42,1.033
+552,2018,Rabi,Tamil Nadu,Villupuram,Northern,Maize,Cereal,Red Loam,1645.7,468.0,25.6,72.1,84.7,54.0,129.5,6.13,117.8,65.1,2.86,4.492
+366,2017,Rabi,Tamil Nadu,Cuddalore,Coastal,Ragi,Millet,Alluvial,1031.6,659.5,24.5,71.1,140.1,51.1,145.3,7.23,27.9,57.8,2.25,1.33
+78,2014,Summer,Tamil Nadu,Salem,Northern,Maize,Cereal,Red Loam,480.1,45.8,35.0,57.7,132.2,43.8,110.1,6.83,187.0,35.2,0.9,2.538
+85,2014,Kharif,Tamil Nadu,Salem,Northern,Sorghum,Millet,Red Loam,1826.5,214.7,28.9,65.2,102.3,53.0,128.5,6.82,119.8,59.2,1.7,2.719
+1001,2022,Kharif,Tamil Nadu,Villupuram,Northern,Rice,Cereal,Red Loam,508.4,207.8,30.9,57.6,149.3,30.7,156.5,8.4,89.9,83.1,1.99,2.355
+83,2014,Kharif,Tamil Nadu,Salem,Northern,Ragi,Millet,Red Loam,135.5,337.1,29.5,63.1,99.2,49.2,136.6,,59.8,37.2,1.93,2.234
+1078,2023,Rabi,Tamil Nadu,Coimbatore,Western,Groundnut,Oilseed,Red Loam,1353.9,461.8,27.1,64.0,137.1,38.9,109.9,7.21,58.8,34.3,1.86,2.445
+544,2018,Rabi,Tamil Nadu,Vellore,Northern,Groundnut,Oilseed,Sandy Loam,1040.7,,27.0,63.9,170.4,61.1,156.8,7.21,34.7,72.5,1.33,2.872
+712,2020,Rabi,Tamil Nadu,Madurai,Southern,Groundnut,Oilseed,Red Loam,743.7,359.4,26.6,73.7,65.8,41.5,90.8,7.15,47.1,60.0,3.08,2.963
+651,2019,Summer,Tamil Nadu,Salem,Northern,Black Gram,Pulse,Red Loam,501.1,87.0,33.4,62.6,105.3,44.6,97.8,7.13,33.9,78.9,2.15,0.634
+960,2022,Rabi,Tamil Nadu,Tirunelveli,Southern,Black Gram,Pulse,Black Cotton,732.3,338.1,25.7,78.8,107.2,50.4,40.0,7.34,32.1,41.9,2.23,0.765
+463,2018,Rabi,Tamil Nadu,Tiruvarur,Delta,Groundnut,Oilseed,Alluvial,414.0,455.1,26.4,82.2,144.0,49.9,94.4,6.81,88.6,48.4,3.92,2.436
+561,2018,Summer,Tamil Nadu,Tiruchirappalli,Central,Maize,Cereal,Sandy Loam,553.2,103.7,33.9,,118.0,51.7,123.8,7.27,212.8,79.2,3.4,2.937
+351,2017,Rabi,Tamil Nadu,Tiruvarur,Delta,Maize,Cereal,Alluvial,446.0,621.5,28.9,84.4,114.9,73.8,104.3,6.13,196.9,75.9,1.11,2.958
+760,2020,Rabi,Tamil Nadu,Salem,Northern,Groundnut,Oilseed,Alluvial,705.0,263.7,26.8,54.7,89.7,38.8,93.2,7.64,52.8,41.1,2.18,2.388
+6,2014,Rabi,Tamil Nadu,Thanjavur,Delta,Sorghum,Millet,Sandy Loam,516.0,550.9,25.2,76.4,147.0,45.2,124.4,6.47,92.2,50.0,2.42,1.712
+311,2016,Kharif,Tamil Nadu,Vellore,Northern,Sorghum,Millet,Sandy Loam,1120.2,305.3,31.4,69.5,70.3,56.9,156.4,6.48,87.0,35.6,3.11,2.376
+934,2022,Kharif,Tamil Nadu,Tiruvarur,Delta,Black Gram,Pulse,Alluvial,866.2,495.4,31.7,72.6,178.0,43.7,151.4,7.0,67.2,58.0,0.4,0.577
+1041,2023,Rabi,Tamil Nadu,Tiruvarur,Delta,Cotton,Fibre,Alluvial,1385.3,279.1,25.8,76.5,173.3,64.0,144.6,,125.3,31.9,2.51,1.953
+105,2014,Kharif,Tamil Nadu,Villupuram,Northern,Groundnut,Oilseed,Red Loam,330.7,388.3,30.2,65.6,171.9,15.1,128.5,6.68,67.9,54.6,3.29,2.467
+98,2014,Kharif,Tamil Nadu,Vellore,Northern,Sorghum,Millet,Sandy Loam,1040.3,527.2,30.8,69.6,143.7,47.5,82.7,7.78,101.6,53.8,3.02,1.624
+410,2017,Rabi,Tamil Nadu,Salem,Northern,Groundnut,Oilseed,Red Loam,394.5,297.6,25.8,66.4,126.6,37.5,78.4,7.25,48.2,66.5,2.08,2.689
+1123,2023,Kharif,Tamil Nadu,Tiruchirappalli,Central,Cotton,Fibre,Sandy Loam,516.5,532.3,32.9,65.7,142.8,50.6,121.7,6.81,145.4,57.8,2.93,1.595
+315,2016,Kharif,Tamil Nadu,Villupuram,Northern,Rice,Cereal,Red Loam,508.3,644.9,30.4,73.0,127.9,47.4,102.9,6.26,111.4,94.9,2.84,3.626
+539,2018,Kharif,Tamil Nadu,Vellore,Northern,Maize,Cereal,Sandy Loam,656.3,488.3,31.7,71.4,79.4,45.6,97.6,7.22,175.9,33.6,3.82,3.644
+535,2018,Kharif,Tamil Nadu,Salem,Northern,Ragi,Millet,Red Loam,965.8,407.9,31.2,65.1,132.1,28.8,65.7,7.86,56.6,19.2,1.39,2.352
+63,2014,Summer,Tamil Nadu,Coimbatore,Western,Black Gram,Pulse,Red Loam,2057.6,149.1,33.4,69.4,177.7,40.5,84.0,5.48,39.0,46.4,2.37,0.563
+282,2016,Rabi,Tamil Nadu,Coimbatore,Western,Ragi,Millet,Red Loam,798.3,265.2,24.3,75.1,166.8,26.4,70.2,7.12,85.3,19.8,2.32,2.908
+697,2020,Rabi,Tamil Nadu,Tiruvarur,Delta,Cotton,Fibre,Alluvial,1515.4,423.7,25.9,79.3,108.7,38.0,97.0,7.24,85.7,67.0,2.28,2.176
+267,2016,Kharif,Tamil Nadu,Madurai,Southern,Sorghum,Millet,Red Loam,753.8,337.2,32.1,71.9,79.8,30.2,132.7,6.27,89.8,56.5,2.82,2.406
+588,2019,Rabi,Tamil Nadu,Tiruvarur,Delta,Sorghum,Millet,Alluvial,1043.6,565.5,25.8,80.7,151.1,12.0,102.8,7.22,93.9,33.8,2.53,1.905
+239,2016,Rabi,Tamil Nadu,Thanjavur,Delta,Ragi,Millet,Alluvial,641.6,510.9,26.5,81.1,147.9,36.2,142.3,5.82,80.9,35.4,2.86,2.064
+466,2018,Rabi,Tamil Nadu,Tiruvarur,Delta,Ragi,Millet,Alluvial,581.2,466.2,24.7,81.5,113.0,46.7,58.8,6.8,66.2,51.9,2.2,2.289
+146,2015,Kharif,Tamil Nadu,Cuddalore,Coastal,Black Gram,Pulse,Alluvial,534.5,581.2,30.6,79.6,118.4,50.5,88.4,8.6,18.6,25.9,3.25,0.477
+1061,2023,Kharif,Tamil Nadu,Madurai,Southern,Groundnut,Oilseed,Red Loam,1606.5,459.3,32.2,61.7,96.0,48.3,116.9,5.86,55.3,60.8,3.2,1.623
+1101,2023,Kharif,Tamil Nadu,Vellore,Northern,Maize,Cereal,Sandy Loam,696.9,317.6,30.3,67.1,119.5,83.4,97.0,6.32,139.2,49.6,2.28,4.753
+875,2021,Rabi,Tamil Nadu,Salem,Northern,Maize,Cereal,Red Loam,686.1,571.6,26.6,72.1,100.2,67.8,115.9,7.69,136.4,78.2,1.72,3.441
+119,2015,Rabi,Tamil Nadu,Thanjavur,Delta,Rice,Cereal,Alluvial,470.5,571.2,24.4,77.9,133.9,65.7,125.2,6.53,102.2,90.1,1.88,4.542
+709,2020,Rabi,Tamil Nadu,Cuddalore,Coastal,Black Gram,Pulse,Red Loam,1158.6,370.4,27.1,73.8,163.5,33.6,118.1,6.79,30.2,36.4,2.09,0.88
+540,2018,Summer,Tamil Nadu,Vellore,Northern,Maize,Cereal,Sandy Loam,967.9,90.4,34.2,63.7,53.3,73.7,77.2,5.72,179.7,56.0,2.35,2.134
+251,2016,Kharif,Tamil Nadu,Cuddalore,Coastal,Maize,Cereal,Alluvial,645.3,707.0,31.1,74.0,83.7,33.9,89.0,7.7,139.9,39.1,1.52,2.407
+1095,2023,Summer,Tamil Nadu,Salem,Northern,Groundnut,Oilseed,Red Loam,164.3,72.3,32.5,60.9,148.0,41.3,128.1,7.33,50.3,58.4,4.02,1.563
+286,2016,Rabi,Tamil Nadu,Erode,Western,Rice,Cereal,Black Cotton,855.2,356.7,28.2,82.0,190.2,67.7,126.3,6.53,216.8,62.1,1.95,3.679
+507,2018,Kharif,Tamil Nadu,Coimbatore,Western,Cotton,Fibre,Red Loam,814.8,659.1,29.8,67.4,50.0,58.5,106.2,6.4,101.9,5.0,2.19,1.709
+10,2014,Kharif,Tamil Nadu,Tiruvarur,Delta,Rice,Cereal,Alluvial,730.9,812.4,33.7,79.1,55.4,33.6,97.5,6.99,119.7,77.9,3.35,2.491
+842,2021,Rabi,Tamil Nadu,Tirunelveli,Southern,Groundnut,Oilseed,Black Cotton,656.1,241.9,25.0,69.8,133.1,54.5,61.3,7.67,69.2,51.7,2.42,2.449
+1015,2022,Summer,Tamil Nadu,Tiruchirappalli,Central,Maize,Cereal,Sandy Loam,1080.7,53.8,33.8,52.4,91.0,36.6,130.7,6.41,119.3,64.6,2.06,2.568
+197,2015,Rabi,Tamil Nadu,Salem,Northern,Groundnut,Oilseed,Red Loam,446.8,540.3,27.7,78.4,147.9,39.4,100.0,6.9,33.6,56.3,2.42,1.785
+768,2020,Kharif,Tamil Nadu,Vellore,Northern,Groundnut,Oilseed,Sandy Loam,2765.8,309.0,31.9,69.3,107.8,26.3,106.1,6.92,10.0,26.5,2.24,1.994
+371,2017,Summer,Tamil Nadu,Madurai,Southern,Maize,Cereal,Sandy Loam,973.8,133.5,35.8,62.7,119.6,51.6,98.4,6.47,150.7,54.1,1.79,2.651
+82,2014,Summer,Tamil Nadu,Salem,Northern,Groundnut,Oilseed,Red Loam,300.8,73.0,35.1,65.3,156.3,72.4,73.2,8.15,30.8,87.3,1.65,1.194
+390,2017,Kharif,Tamil Nadu,Coimbatore,Western,Maize,Cereal,Red Loam,86.0,345.4,28.8,69.6,169.1,32.8,117.2,7.6,122.8,52.2,2.76,5.829
+554,2018,Kharif,Tamil Nadu,Villupuram,Northern,Groundnut,Oilseed,Red Loam,519.6,431.0,30.2,65.6,89.5,75.6,142.3,7.29,53.2,33.0,1.41,2.261
+619,2019,Summer,Tamil Nadu,Tirunelveli,Southern,Black Gram,Pulse,Black Cotton,703.1,30.0,34.3,46.6,146.5,50.7,93.3,6.08,35.2,63.9,3.26,0.557
+786,2020,Kharif,Tamil Nadu,Tiruchirappalli,Central,Rice,Cereal,Sandy Loam,1903.8,311.4,33.7,64.9,149.8,45.1,109.9,6.51,112.1,86.6,1.18,2.948
+590,2019,Rabi,Tamil Nadu,Cuddalore,Coastal,Rice,Cereal,Alluvial,321.1,346.8,25.8,73.6,158.4,61.3,100.1,7.25,165.1,59.5,1.39,4.096
+1090,2023,Summer,Tamil Nadu,Erode,Western,Black Gram,Pulse,Black Cotton,412.6,73.8,32.6,49.7,139.1,35.3,112.4,6.9,48.9,51.0,2.86,0.739
+240,2016,Kharif,Tamil Nadu,Thanjavur,Delta,Sorghum,Millet,Alluvial,594.6,519.4,30.0,68.9,97.8,50.4,70.3,7.9,42.5,38.3,3.75,2.0
+448,2018,Rabi,Tamil Nadu,Thanjavur,Delta,Maize,Cereal,Alluvial,1558.3,251.0,25.9,73.0,150.4,44.5,143.1,6.86,129.2,52.9,1.63,5.608
+212,2015,Kharif,Tamil Nadu,Villupuram,Northern,Maize,Cereal,Alluvial,314.4,206.4,29.4,65.9,186.6,49.0,132.5,7.35,127.3,52.7,1.84,4.7
+579,2019,Rabi,Tamil Nadu,Thanjavur,Delta,SORGHUM,Millet,Alluvial,470.8,652.9,25.6,80.3,123.2,54.0,131.9,7.19,88.2,42.9,2.58,1.614
+905,2021,Summer,Tamil Nadu,Tiruchirappalli,Central,MAIZE,Cereal,Sandy Loam,1260.3,87.8,35.9,60.9,125.9,54.4,90.3,5.49,135.6,54.2,2.56,2.39
+145,2015,Rabi,Tamil Nadu,Cuddalore,Coastal,Sorghum,Millet,Alluvial,411.9,427.1,26.2,77.3,111.7,60.0,112.9,7.1,139.4,34.3,2.76,2.487
+979,2022,Rabi,Tamil Nadu,Erode,Western,Ragi,Millet,Black Cotton,442.1,420.1,25.3,82.8,109.8,31.5,141.7,6.63,89.1,42.7,2.47,2.397
+603,2019,Rabi,Tamil Nadu,Madurai,Southern,Cotton,Fibre,Red Loam,943.9,535.8,27.6,89.1,110.8,36.9,104.7,8.03,117.0,31.4,3.07,2.05
+228,2015,Rabi,Tamil Nadu,Tiruchirappalli,Central,GROUNDNUT,Oilseed,Sandy Loam,410.2,642.7,27.5,71.6,139.0,52.6,82.5,6.92,55.6,56.3,3.16,1.593
+1051,2023,Summer,Tamil Nadu,Cuddalore,Coastal,Maize,Cereal,Alluvial,837.4,104.1,31.7,58.4,144.0,30.8,60.8,6.95,113.3,44.8,2.56,3.317
+867,2021,Kharif,Tamil Nadu,Erode,Western,Ragi,Millet,Black Cotton,786.0,252.9,31.4,65.7,104.4,44.9,94.4,6.55,80.3,46.9,4.24,2.24
+1060,2023,Kharif,Tamil Nadu,Madurai,Southern,Cotton,Fibre,Red Loam,610.1,301.4,30.2,63.2,113.6,30.4,149.8,7.71,88.2,81.7,1.95,1.853
+999,2022,Rabi,Tamil Nadu,Vellore,Northern,Black Gram,Pulse,Sandy Loam,747.4,371.9,24.7,83.1,91.5,59.4,126.7,5.08,41.3,53.0,3.19,0.612
+178,2015,Rabi,Tamil Nadu,Erode,Western,Maize,Cereal,Black Cotton,1673.1,467.7,25.8,74.6,106.2,58.0,86.9,6.79,185.4,44.7,1.95,4.803
+1097,2023,Rabi,Tamil Nadu,Salem,Northern,Sorghum,Millet,Red Loam,822.9,486.3,26.1,70.1,115.1,43.3,136.7,6.96,86.5,26.7,2.76,2.768
+831,2021,Kharif,Tamil Nadu,Madurai,Southern,Ragi,Millet,Red Loam,1175.8,502.3,31.2,71.0,109.1,45.0,84.3,7.75,66.3,58.5,2.16,1.81
+136,2015,Summer,Tamil Nadu,Tiruvarur,Delta,Groundnut,Oilseed,Alluvial,841.5,83.2,32.9,60.7,101.8,50.5,126.4,5.85,59.8,79.5,2.57,1.532
+618,2019,Rabi,Tamil Nadu,Tirunelveli,Southern,Black Gram,Pulse,Black Cotton,301.2,317.7,27.4,65.8,,56.6,124.3,7.18,28.4,54.0,1.8,0.701
+679,2019,Kharif,Tamil Nadu,Tiruchirappalli,Central,Ragi,Millet,Sandy Loam,1118.2,419.4,30.8,74.2,120.0,45.9,154.0,7.38,32.6,14.6,3.12,2.505
+514,2018,Rabi,Tamil Nadu,Coimbatore,Western,Black Gram,Pulse,Red Loam,1021.9,427.0,24.9,76.0,129.3,58.2,130.0,7.56,10.0,56.7,2.13,0.542
+1124,2023,Rabi,Tamil Nadu,tiruchirappalli ,Central,Cotton,Fibre,Sandy Loam,2238.2,411.2,30.1,60.8,139.5,42.1,112.7,6.64,92.7,53.3,2.11,2.005
+8,2014,Rabi,Tamil Nadu,Thanjavur,Delta,Black Gram,Pulse,Alluvial,359.9,310.7,26.5,75.2,79.4,37.6,117.0,6.85,36.5,64.0,2.31,0.861
+637,2019,Rabi,Tamil Nadu,Erode,Western,Groundnut,Oilseed,Black Cotton,264.2,346.3,26.8,75.2,155.2,35.3,121.6,6.98,52.3,45.4,4.64,2.828
+156,2015,Rabi,Tamil Nadu,Madurai,Southern,Sorghum,Millet,Red Loam,1160.5,460.9,27.4,81.0,164.0,51.3,144.2,5.69,111.1,33.6,3.43,2.674
+744,2020,Rabi,Tamil Nadu,Erode,Western,Rice,Cereal,Black Cotton,1108.9,307.5,28.4,74.0,133.5,12.0,104.4,6.85,100.9,100.0,3.77,3.657
+818,2021,Kharif,Tamil Nadu,Cuddalore,Coastal,Cotton,Fibre,Alluvial,111.6,625.0,28.9,72.6,147.3,47.1,71.7,7.49,101.7,89.2,3.82,1.353
+358,2017,Summer,Tamil Nadu,Tiruvarur,Delta,Black Gram,Pulse,Alluvial,1147.1,102.5,33.9,55.9,134.3,38.8,169.3,6.47,10.0,60.7,1.7,0.713
+784,2020,Rabi,Tamil Nadu,Villupuram,Northern,Sorghum,Millet,Red Loam,551.2,469.5,28.0,84.3,141.5,55.3,87.8,7.18,99.3,61.9,2.33,2.286
+970,2022,Rabi,Tamil Nadu,Coimbatore,Western,Sorghum,Millet,Red Loam,846.7,471.8,24.1,69.7,119.0,42.4,74.3,8.23,79.5,44.0,1.48,2.015
+224,2015,Kharif,Tamil Nadu,Tiruchirappalli,Central,Maize,Cereal,Sandy Loam,965.1,433.5,31.8,60.9,115.8,42.0,118.3,6.08,131.6,63.3,2.03,3.329
+330,2016,Rabi,Tamil Nadu,Tiruchirappalli,Central,Cotton,Fibre,Sandy Loam,295.6,441.7,27.4,79.5,133.0,40.3,174.6,6.17,101.4,32.2,2.64,1.79
+913,2021,Summer,Tamil Nadu,Tiruchirappalli,Central,Black Gram,Pulse,Sandy Loam,775.6,113.9,34.0,63.5,144.5,61.1,177.3,6.82,58.9,58.1,2.85,0.336
+459,2018,Summer,Tamil Nadu,Thanjavur,Delta,Black Gram,Pulse,Alluvial,1692.8,185.3,31.3,64.6,131.0,28.7,142.5,6.62,16.7,53.6,1.51,0.99
+571,2019,Kharif,Tamil Nadu,Thanjavur,Delta,Cotton,Fibre,Alluvial,764.7,634.0,29.1,67.6,119.4,42.5,140.7,7.46,109.6,54.3,2.2,1.687
+568,2019,Kharif,Tamil Nadu,Thanjavur,Delta,Maize,Cereal,Alluvial,205.2,433.9,30.5,66.2,178.4,57.9,56.2,6.68,132.2,55.4,4.04,4.929
+977,2022,Kharif,Tamil Nadu,Erode,Western,Groundnut,Oilseed,Black Cotton,350.9,173.6,30.4,70.8,81.3,40.3,92.1,6.7,24.3,57.8,2.98,2.14
+877,2021,Rabi,Tamil Nadu,Salem,Northern,Groundnut,Oilseed,Red Loam,160.7,573.4,26.5,82.7,105.2,30.5,102.6,6.16,71.5,41.2,2.99,1.923
+716,2020,Rabi,Tamil Nadu,Madurai,Southern,Sorghum,Millet,Red Loam,1218.8,268.4,27.7,74.6,118.6,57.9,93.4,6.15,85.7,16.8,2.04,2.635
+785,2020,Kharif,Tamil Nadu,Villupuram,Northern,Black Gram,Pulse,Red Loam,744.8,251.7,31.8,62.7,108.6,56.9,102.8,7.69,10.0,34.8,2.96,0.814
+1038,2023,Kharif,Tamil Nadu,Tiruvarur,Delta,Maize,Cereal,Alluvial,321.0,305.5,30.7,70.1,107.4,40.4,100.9,6.39,131.7,49.8,3.45,4.119
+530,2018,Summer,Tamil Nadu,Salem,Northern,Maize,Cereal,Red Loam,880.3,135.4,33.4,62.8,97.3,55.0,91.1,6.12,75.2,79.7,1.67,3.245
+733,2020,Summer,Tamil Nadu,Coimbatore,Western,Maize,Cereal,Red Loam,422.1,46.8,30.8,65.5,110.6,37.1,95.8,6.44,112.4,66.1,2.21,3.411
+555,2018,Rabi,Tamil Nadu,Villupuram,Northern,Groundnut,Oilseed,Red Loam,922.8,337.5,26.3,77.3,106.1,42.3,165.1,6.69,59.8,25.8,2.83,2.842
+719,2020,Kharif,Tamil Nadu,Tirunelveli,Southern,Maize,Cereal,Black Cotton,1539.3,479.3,30.6,72.6,168.2,48.1,99.1,6.01,141.5,68.0,3.28,3.992
+585,2019,Rabi,Tamil Nadu,Tiruvarur,Delta,Groundnut,Oilseed,Alluvial,471.8,454.1,26.0,55.5,130.6,63.3,104.4,7.53,74.4,33.5,3.11,2.236
+965,2022,Rabi,Tamil Nadu,Coimbatore,Western,Cotton,Fibre,Red Loam,254.8,379.1,25.2,68.7,148.2,41.7,100.2,5.73,95.9,53.8,3.78,2.005
+1081,2023,Rabi,Tamil Nadu,Coimbatore,Western,Black Gram,Pulse,Red Loam,599.5,118.8,24.8,65.3,141.7,24.9,186.3,6.5,35.1,23.8,1.96,0.734
+441,2017,Kharif,Tamil Nadu,Tiruchirappalli,Central,Groundnut,Oilseed,Sandy Loam,391.6,366.6,30.7,63.8,107.2,50.8,105.9,6.32,10.0,28.2,1.58,2.532
+739,2020,Kharif,Tamil Nadu,Coimbatore,Western,Sorghum,Millet,Red Loam,668.7,296.6,28.7,64.9,70.1,64.4,98.6,6.33,78.4,42.1,4.27,3.017
+893,2021,Rabi,Tamil Nadu,Villupuram,Northern,Cotton,Fibre,Red Loam,699.9,686.7,25.7,91.7,185.3,45.3,134.1,6.29,115.6,66.5,2.11,1.421
+844,2021,Kharif,Tamil Nadu,Tirunelveli,Southern,Ragi,Millet,Black Cotton,941.2,309.8,31.0,67.6,141.6,41.8,84.0,7.64,67.6,52.8,1.52,2.207
+164,2015,Rabi,Tamil Nadu,Tirunelveli,Southern,Sorghum,Millet,Black Cotton,1501.3,151.3,24.8,72.4,50.0,32.4,157.3,6.42,38.4,18.4,3.39,1.748
+229,2015,Kharif,Tamil Nadu,Tiruchirappalli,Central,Ragi,Millet,Sandy Loam,561.2,673.6,30.0,67.8,128.0,48.0,82.2,5.22,84.1,20.8,2.52,1.395
+531,2018,Kharif,Tamil Nadu,Salem,Northern,Cotton,Fibre,Red Loam,787.8,625.0,30.5,82.4,129.7,42.3,144.6,7.27,88.2,81.0,4.2,1.384
+921,2022,Summer,Tamil Nadu,Thanjavur,Delta,Groundnut,Oilseed,Alluvial,635.0,205.0,31.8,74.1,131.0,17.4,102.9,7.43,39.7,68.1,2.8,1.928
+213,2015,Rabi,Tamil Nadu,Villupuram,Northern,Maize,Cereal,Red Loam,457.5,392.0,27.1,76.9,128.5,34.8,121.1,,160.7,45.0,2.54,5.18
+963,2022,Rabi,Tamil Nadu,Coimbatore,Western,Maize,Cereal,Red Loam,1413.3,275.6,23.7,74.7,106.4,56.4,91.2,7.91,125.9,51.6,2.23,4.976
+80,2014,Rabi,Tamil Nadu,Salem,Northern,Cotton,Fibre,Red Loam,211.7,175.2,25.9,69.6,95.5,79.4,164.1,6.2,88.7,44.5,1.58,0.557
+149,2015,Rabi,Tamil Nadu,Madurai,Southern,Rice,Cereal,Red Loam,365.2,436.2,24.8,70.3,130.6,38.4,170.3,6.71,148.7,90.9,1.76,3.975
+303,2016,Rabi,Tamil Nadu,Salem,Northern,Black Gram,Pulse,Red Loam,840.2,656.7,25.3,82.5,192.5,35.5,125.4,7.42,42.4,32.3,3.11,0.441
+317,2016,Kharif,Tamil Nadu,Villupuram,Northern,Maize,Cereal,Red Loam,706.7,231.9,29.9,68.4,139.6,50.3,134.0,7.72,120.5,38.6,3.79,3.922
+782,2020,Kharif,Tamil Nadu,Villupuram,Northern,Ragi,Millet,Red Loam,413.0,346.8,30.6,66.7,99.0,50.9,148.6,7.2,71.7,33.8,3.13,3.152
+683,2020,Kharif,Tamil Nadu,Thanjavur,Delta,Rice,Cereal,Alluvial,1042.5,516.4,30.4,65.9,144.7,54.6,87.3,6.17,110.3,82.3,4.39,4.641
+650,2019,Kharif,Tamil Nadu,Salem,Northern,Black Gram,Pulse,Alluvial,269.7,156.6,30.0,60.7,152.5,39.8,150.1,7.88,10.0,23.8,3.1,0.888
+44,2014,Kharif,Tamil Nadu,Tirunelveli,Southern,Rice,Cereal,Black Cotton,610.8,328.1,30.5,65.8,150.3,24.1,131.0,7.17,186.3,82.6,2.23,3.357
+520,2018,Kharif,Tamil Nadu,Erode,Western,Groundnut,Oilseed,Black Cotton,675.9,345.3,29.8,73.8,105.7,75.0,116.3,7.45,84.8,65.5,2.02,2.02
+134,2015,Kharif,Tamil Nadu,Tiruvarur,Delta,Groundnut,Oilseed,Alluvial,767.4,411.4,31.3,61.4,109.5,36.0,101.9,6.92,48.1,39.0,2.89,1.962
+691,2020,Rabi,Tamil Nadu,Thanjavur,Delta,Sorghum,Millet,Alluvial,1131.9,179.2,25.8,68.4,79.1,43.6,142.1,6.45,89.3,22.2,2.11,2.083
+543,2018,Kharif,Tamil Nadu,Vellore,Northern,Groundnut,Oilseed,Sandy Loam,594.8,476.0,31.1,71.9,121.7,38.7,115.8,7.65,10.0,51.5,1.86,1.723
+630,2019,Summer,Tamil Nadu,Coimbatore,Western,Black Gram,Pulse,Red Loam,749.9,30.1,30.4,61.6,179.4,44.4,79.0,6.91,55.1,55.0,1.95,0.698
+312,2016,Rabi,Tamil Nadu,Vellore,Northern,Sorghum,Millet,Sandy Loam,513.2,428.0,29.1,80.6,128.1,43.4,115.7,7.19,54.6,59.5,1.59,2.213
+409,2017,Kharif,Tamil Nadu,Salem,Northern,Groundnut,Oilseed,Red Loam,482.9,395.8,31.0,63.5,204.7,26.2,69.7,6.76,73.4,49.1,3.2,1.055
+597,2019,Rabi,Tamil Nadu,Cuddalore,Coastal,Sorghum,Millet,Sandy Loam,1805.3,489.6,26.4,85.7,146.0,55.7,134.5,6.56,76.2,34.7,3.41,2.323
+508,2018,Rabi,Tamil Nadu,Coimbatore,Western,Cotton,Fibre,Red Loam,227.2,425.0,24.8,68.1,85.8,29.8,155.3,5.51,92.2,53.3,2.09,1.598
+899,2021,Rabi,Tamil Nadu,Villupuram,Northern,Sorghum,Millet,Red Loam,484.3,501.8,27.1,72.9,77.3,25.4,99.6,7.89,48.0,29.0,2.51,2.203
+505,2018,Rabi,Tamil Nadu,Coimbatore,Western,Maize,Cereal,Black Cotton,471.1,568.0,25.3,86.4,50.0,55.7,63.5,6.03,135.8,60.1,3.68,3.076
+599,2019,Summer,Tamil Nadu,Cuddalore,Coastal,Black Gram,Pulse,Alluvial,332.2,113.1,34.1,53.2,154.5,54.6,59.8,,33.1,37.5,3.64,0.553
+990,2022,Summer,Tamil Nadu,Salem,Northern,Groundnut,Oilseed,Black Cotton,830.9,126.8,31.8,66.7,109.2,39.1,99.2,6.69,70.2,69.2,3.3,1.874
+948,2022,Rabi,Tamil Nadu,Madurai,Southern,Maize,Cereal,Alluvial,1077.6,402.0,26.9,82.7,105.6,45.1,102.8,7.25,122.5,48.0,2.36,5.541
+1,2014,Kharif,Tamil Nadu,Thanjavur,Delta,Rice,Cereal,Alluvial,1308.1,662.2,31.1,61.9,134.5,44.8,84.4,6.58,157.0,91.7,2.55,4.124
+361,2017,Rabi,Tamil Nadu,Cuddalore,Coastal,Cotton,Fibre,Alluvial,845.0,559.4,24.4,74.9,130.8,73.3,85.6,7.94,112.2,58.4,2.81,1.476
+974,2022,Kharif,Tamil Nadu,Erode,Western,Maize,Cereal,Black Cotton,635.5,526.2,29.9,70.1,,29.5,119.5,7.87,162.4,50.3,2.07,3.734
+476,2018,Summer,Tamil Nadu,Cuddalore,Coastal,Black Gram,Pulse,Alluvial,1285.5,124.8,32.9,63.3,188.8,39.3,96.2,6.85,10.0,63.3,1.84,0.75
+1107,2023,Kharif,Tamil Nadu,Vellore,Northern,Ragi,Millet,Sandy Loam,2243.9,431.4,32.0,66.5,93.2,70.3,122.4,6.99,62.6,37.2,2.47,2.461
+666,2019,Kharif,Tamil Nadu,Villupuram,Northern,Maize,Cereal,Red Loam,930.9,243.3,30.8,56.5,161.3,22.0,89.8,6.96,106.5,29.6,2.59,4.241
+173,2015,Rabi,Tamil Nadu,Coimbatore,Western,Ragi,Millet,Red Loam,551.6,195.4,24.0,61.8,152.1,50.7,100.4,7.14,91.7,39.3,2.11,3.467
+451,2018,Kharif,Tamil Nadu,Thanjavur,Delta,Groundnut,Oilseed,Alluvial,567.4,473.7,31.6,67.5,167.5,72.5,183.3,5.53,10.0,48.5,1.92,1.507
+126,2015,Kharif,Tamil Nadu,Thanjavur,Delta,Sorghum,Millet,Alluvial,989.1,715.2,28.9,71.2,160.8,26.7,48.9,5.75,81.8,23.2,2.19,1.29
+567,2018,Rabi,Tamil Nadu,Tiruchirappalli,Central,Black Gram,Pulse,Sandy Loam,1123.4,481.5,25.1,72.7,189.9,70.2,172.5,5.27,38.3,27.6,2.26,0.554
+91,2014,Rabi,Tamil Nadu,Vellore,Northern,Rice,Cereal,Sandy Loam,793.0,561.3,26.6,81.1,,37.1,109.3,6.27,95.9,83.4,3.27,3.924
+1100,2023,Rabi,Tamil Nadu,Vellore,Northern,Rice,Cereal,Sandy Loam,505.4,293.1,25.1,83.2,185.1,32.0,149.6,6.5,133.2,79.0,1.47,3.765
+182,2015,Summer,Tamil Nadu,Erode,Western,Groundnut,Oilseed,Black Cotton,1393.7,66.0,34.3,67.7,147.0,50.1,157.0,6.63,66.7,38.4,2.86,1.254
+586,2019,Summer,Tamil Nadu,Tiruvarur,Delta,Groundnut,Oilseed,Alluvial,1128.0,198.4,33.4,70.7,166.7,48.2,116.5,6.34,70.5,68.8,1.91,1.834
+1069,2023,Kharif,Tamil Nadu,Tirunelveli,Southern,Ragi,Millet,Black Cotton,865.5,551.9,32.3,83.2,149.0,56.6,90.3,6.46,35.2,62.9,1.5,1.51
+252,2016,Summer,Tamil Nadu,Cuddalore,Coastal,Maize,Cereal,Alluvial,396.9,151.0,32.9,59.7,125.0,51.6,130.0,6.61,140.3,71.2,1.87,3.649
+70,2014,Kharif,Tamil Nadu,Erode,Western,Sorghum,Millet,Black Cotton,663.3,395.4,30.1,72.0,141.1,53.6,46.8,7.09,71.9,7.3,2.53,3.216
+132,2015,Summer,Tamil Nadu,Tiruvarur,Delta,Maize,Cereal,Alluvial,331.2,93.3,32.0,64.9,69.8,32.9,148.8,6.52,110.2,94.1,2.47,3.122
+301,2016,Kharif,Tamil Nadu,Salem,Northern,Sorghum,Millet,Red Loam,419.4,330.0,30.7,54.0,94.3,29.9,122.7,6.87,81.5,61.0,2.51,2.503
+594,2019,Kharif,Tamil Nadu,Cuddalore,Coastal,Ragi,Millet,Alluvial,1280.1,515.2,32.6,66.5,113.2,62.0,99.6,6.84,54.7,61.3,2.54,1.579
+327,2016,Kharif,Tamil Nadu,Tiruchirappalli,Central,Rice,Cereal,Sandy Loam,507.0,,32.9,62.5,81.8,35.6,154.1,6.47,120.4,91.4,1.98,2.111
+894,2021,Kharif,Tamil Nadu,Villupuram,Northern,Groundnut,Oilseed,Red Loam,420.8,569.2,30.1,73.0,102.4,47.0,106.9,6.62,93.3,65.1,2.73,1.589
+500,2018,Kharif,Tamil Nadu,Tirunelveli,Southern,Ragi,Millet,Black Cotton,638.0,457.1,31.6,73.2,99.3,34.8,78.1,6.66,25.2,19.8,2.29,2.056
+591,2019,Rabi,Tamil Nadu,Cuddalore,Coastal,Maize,Cereal,Alluvial,468.2,398.6,25.9,79.0,111.3,37.0,145.3,5.86,146.3,43.9,3.49,5.529
+810,2021,Rabi,Tamil Nadu,Tiruvarur,Delta,COTTON,Fibre,Alluvial,481.6,422.5,26.0,90.6,120.4,39.1,80.9,6.6,116.1,39.7,2.05,2.017
+496,2018,Rabi,Tamil Nadu,Tirunelveli,Southern,Cotton,Fibre,Black Cotton,1467.7,351.4,26.2,74.5,124.1,41.1,40.0,6.14,70.8,72.0,3.16,2.629
+339,2017,Rabi,Tamil Nadu,Thanjavur,Delta,Maize,Cereal,Alluvial,256.1,501.9,27.3,75.6,131.7,41.4,101.0,6.18,126.6,61.4,2.69,3.975
+847,2021,Rabi,Tamil Nadu,Tirunelveli,Southern,Black Gram,Pulse,Black Cotton,1102.4,193.1,27.7,75.5,172.5,55.8,118.9,6.81,31.6,25.7,2.38,0.964
+165,2015,Kharif,Tamil Nadu,Tirunelveli,Southern,Black Gram,Pulse,Black Cotton,1984.7,355.7,28.0,56.3,184.2,46.4,144.0,6.49,88.7,31.3,2.49,0.805
+29,2014,Rabi,Tamil Nadu,Cuddalore,Coastal,Cotton,Fibre,Alluvial,1498.4,244.6,24.6,63.6,106.3,41.0,115.9,7.32,126.2,69.9,2.44,1.71
+517,2018,Rabi,Tamil Nadu,Erode,Western,Maize,Cereal,Black Cotton,219.9,475.8,26.2,76.1,100.9,49.3,59.4,6.8,139.3,50.5,3.32,4.529
+194,2015,Kharif,Tamil Nadu,Salem,Northern,Cotton,Fibre,Red Loam,1569.6,502.7,31.6,73.9,106.7,37.1,91.4,6.07,118.7,64.6,2.38,1.671
+689,2020,Rabi,Tamil Nadu,Thanjavur,Delta,Groundnut,Oilseed,Alluvial,788.3,389.1,29.1,76.5,105.3,55.6,133.0,7.51,59.4,65.5,3.52,2.205
+170,2015,Kharif,Tamil Nadu,Coimbatore,Western,Groundnut,Oilseed,Red Loam,1154.8,463.5,31.7,68.9,110.8,52.7,117.5,7.66,79.2,57.3,3.47,1.874
+629,2019,Rabi,Tamil Nadu,Coimbatore,Western,Black Gram,Pulse,Red Loam,372.9,134.0,24.9,63.5,127.4,33.2,123.0,6.66,28.1,56.6,2.36,0.778
+174,2015,Kharif,Tamil Nadu,Coimbatore,Western,Sorghum,Millet,Red Loam,825.0,392.6,27.0,67.6,57.0,39.7,47.0,7.07,102.0,61.5,3.69,2.257
+519,2018,Kharif,Tamil Nadu,Erode,Western,Cotton,Fibre,Black Cotton,763.9,432.9,28.2,51.0,129.3,53.9,93.5,6.75,71.3,43.8,2.53,2.552
+811,2021,Kharif,Tamil Nadu,Tiruvarur,Delta,Ragi,Millet,Alluvial,407.6,637.3,31.1,76.3,126.6,44.8,156.3,6.84,72.1,30.3,2.97,1.75
+621,2019,Rabi,Tamil Nadu,Coimbatore,Western,Maize,Cereal,Red Loam,1293.8,367.8,24.8,68.5,146.5,46.6,160.4,6.94,128.4,74.2,1.91,5.867
+492,2018,Kharif,Tamil Nadu,Tirunelveli,Southern,Rice,Cereal,Black Cotton,481.1,342.6,32.8,62.9,93.6,61.6,143.9,6.85,124.5,88.3,2.84,2.948
+74,2014,Kharif,Tamil Nadu,Salem,Northern,Rice,Cereal,Red Loam,287.5,376.6,31.9,84.8,180.2,42.9,123.0,6.97,136.5,81.7,2.17,2.986
+863,2021,Rabi,Tamil Nadu,Erode,Western,Maize,Cereal,Black Cotton,442.3,300.2,27.7,77.8,132.0,33.4,158.7,6.97,195.7,57.5,4.57,5.018
+235,2016,Rabi,Tamil Nadu,Thanjavur,Delta,Cotton,Fibre,Alluvial,707.0,526.7,24.1,82.4,155.2,33.2,117.1,7.82,75.4,46.6,3.12,1.394
+215,2015,Kharif,Tamil Nadu,Villupuram,Northern,Cotton,Fibre,Red Loam,923.3,394.0,29.3,70.8,108.7,82.4,102.1,6.26,62.6,39.5,2.46,2.019
+835,2021,Kharif,Tamil Nadu,Tirunelveli,Southern,Rice,Cereal,Black Cotton,743.1,303.6,31.9,66.8,134.7,39.0,158.2,8.33,138.3,100.0,1.52,2.65
+133,2015,Kharif,Tamil Nadu,Tiruvarur,Delta,Cotton,Fibre,Alluvial,770.6,381.4,30.3,60.7,116.7,34.5,82.7,5.54,77.2,80.0,2.55,1.478
+1103,2023,Kharif,Tamil Nadu,Vellore,Northern,Cotton,Fibre,Sandy Loam,1409.2,408.7,32.0,81.9,121.6,53.8,109.4,7.17,71.6,38.0,3.42,1.756
+829,2021,Kharif,Tamil Nadu,Madurai,Southern,Groundnut,Oilseed,Red Loam,484.4,384.6,30.0,62.5,108.0,46.7,86.4,6.11,42.0,43.2,2.46,2.318
+186,2015,Kharif,Tamil Nadu,Erode,Western,Black Gram,Pulse,Alluvial,577.6,322.4,30.3,77.9,89.1,69.2,96.1,5.89,35.4,34.0,1.74,1.016
+42,2014,Kharif,Tamil Nadu,Madurai,Southern,Ragi,Millet,Alluvial,766.0,260.4,31.6,62.1,107.7,55.7,123.4,7.18,29.9,48.1,1.67,2.042
+109,2014,Rabi,Tamil Nadu,Villupuram,Northern,Sorghum,Millet,Alluvial,599.3,495.2,26.2,80.8,73.3,58.2,80.5,5.16,69.6,19.2,1.37,1.734
+1116,2023,Kharif,Tamil Nadu,Villupuram,Northern,Sorghum,Millet,Red Loam,531.0,431.2,29.5,66.3,153.2,45.0,121.5,7.36,76.8,13.9,2.33,2.757
+631,2019,Kharif,Tamil Nadu,Erode,Western,Rice,Cereal,Black Cotton,615.4,369.9,30.5,74.1,150.1,31.8,121.6,6.72,133.3,70.6,2.53,3.482
+880,2021,Rabi,Tamil Nadu,Salem,Northern,Ragi,Millet,Red Loam,597.5,528.1,26.7,69.3,114.3,34.2,126.1,6.51,52.0,23.5,3.41,2.774
+1093,2023,Rabi,Tamil Nadu,Salem,Northern,Cotton,Fibre,Red Loam,604.0,606.0,26.9,79.0,170.6,49.4,131.9,7.37,118.1,17.3,2.82,2.073
+484,2018,Rabi,Tamil Nadu,Madurai,Southern,Groundnut,Oilseed,Red Loam,1374.1,455.1,25.9,82.2,114.6,52.9,139.2,7.93,64.9,43.3,2.99,2.314
+469,2018,Kharif,Tamil Nadu,Cuddalore,Coastal,Rice,Cereal,Black Cotton,286.9,345.1,31.9,58.8,166.6,31.3,69.5,6.78,129.3,68.6,2.66,3.283
+25,2014,Rabi,Tamil Nadu,Cuddalore,Coastal,Rice,Cereal,Alluvial,837.2,504.3,27.2,74.3,167.4,48.3,118.1,6.96,113.4,77.8,2.38,5.309
+850,2021,Kharif,Tamil Nadu,Coimbatore,Western,Maize,Cereal,Red Loam,341.2,464.8,28.0,61.1,158.4,52.6,104.6,6.65,161.9,31.0,3.78,6.309
+616,2019,Kharif,Tamil Nadu,Tirunelveli,Southern,Sorghum,Millet,Black Cotton,467.0,181.3,30.2,61.1,104.2,41.0,166.2,6.61,71.1,45.2,2.04,2.63
+728,2020,Rabi,Tamil Nadu,Tirunelveli,Southern,Sorghum,Millet,Black Cotton,1954.8,281.7,25.8,70.6,125.7,29.2,47.0,6.01,10.0,38.0,4.36,2.81
+874,2021,Kharif,Tamil Nadu,Salem,Northern,Maize,Cereal,Red Loam,270.3,380.5,30.2,63.4,55.5,72.8,90.3,5.72,191.6,61.0,2.46,4.027
+367,2017,Rabi,Tamil Nadu,Cuddalore,Coastal,Sorghum,Millet,Alluvial,960.5,610.2,24.3,80.0,147.7,63.0,93.9,7.34,104.2,60.4,1.19,0.726
+742,2020,Summer,Tamil Nadu,Coimbatore,Western,Black Gram,Pulse,Red Loam,547.7,110.3,31.5,60.2,178.4,55.3,86.5,7.08,10.0,56.3,1.1,0.799
+1002,2022,Kharif,Tamil Nadu,Villupuram,Northern,Maize,Cereal,Red Loam,483.6,284.8,30.5,73.1,170.8,38.9,131.3,,152.6,42.1,3.25,4.38
+384,2017,Kharif,Tamil Nadu,Tirunelveli,Southern,Ragi,Millet,Black Cotton,838.6,440.8,31.1,67.6,165.1,49.4,104.4,6.73,55.8,47.8,2.06,2.061
+455,2018,Rabi,Tamil Nadu,Thanjavur,Delta,Ragi,Millet,Alluvial,1303.9,501.0,25.5,78.7,95.3,38.9,117.5,6.0,24.2,39.3,3.71,2.049
+265,2016,Kharif,Tamil Nadu,Madurai,Southern,Ragi,Millet,Red Loam,354.7,171.5,33.1,60.0,152.5,23.7,103.1,7.26,31.5,76.7,1.22,2.009
+927,2022,Kharif,Tamil Nadu,Tiruvarur,Delta,Maize,Cereal,Alluvial,1158.1,528.9,29.6,68.8,123.7,23.8,120.4,7.58,178.5,52.3,2.08,3.886
+862,2021,Kharif,Tamil Nadu,Erode,Western,Rice,Cereal,Black Cotton,469.5,393.0,32.1,58.8,123.0,33.5,110.7,7.45,132.4,65.0,1.48,2.964
+445,2017,Summer,Tamil Nadu,Tiruchirappalli,Central,Black Gram,Pulse,Sandy Loam,254.2,48.8,33.2,51.3,173.8,28.9,96.3,7.84,34.1,63.8,1.09,0.613
+396,2017,Rabi,Tamil Nadu,coimbatore ,Western,Black Gram,Pulse,Red Loam,650.7,375.7,23.3,71.6,129.6,65.1,132.0,7.14,60.1,61.7,2.96,0.633
+177,2015,Kharif,Tamil Nadu,Erode,Western,Maize,Cereal,Sandy Loam,1092.6,579.5,30.8,60.5,179.4,47.9,145.4,6.74,121.6,40.1,2.34,3.415
+19,2014,Kharif,Tamil Nadu,Tiruvarur,Delta,Ragi,Millet,Alluvial,838.4,1636.4,31.4,73.9,131.9,34.9,119.5,6.8,69.6,71.4,3.76,0.513
+849,2021,Kharif,Tamil Nadu,Coimbatore,Western,Rice,Cereal,Red Loam,275.3,347.7,28.6,57.4,161.5,60.3,127.4,6.84,133.5,70.6,2.11,3.919
+834,2021,Rabi,Tamil Nadu,Madurai,Southern,Black Gram,Pulse,Red Loam,1069.0,330.2,27.4,74.5,56.0,34.8,40.0,7.06,27.0,67.7,1.98,0.829
+62,2014,Rabi,Tamil Nadu,Coimbatore,Western,Black Gram,Pulse,Red Loam,844.1,423.6,25.1,75.2,108.2,41.8,71.7,8.24,37.7,23.9,1.9,0.632
+273,2016,Summer,Tamil Nadu,Tirunelveli,Southern,Groundnut,Oilseed,Black Cotton,973.4,152.9,35.0,58.9,136.8,26.0,63.7,7.05,31.8,50.5,1.98,1.287
+1067,2023,Kharif,Tamil Nadu,Tirunelveli,Southern,Groundnut,Oilseed,Black Cotton,246.9,421.2,31.8,76.5,162.4,52.3,82.4,7.12,45.8,42.2,1.55,1.944
+279,2016,Summer,Tamil Nadu,Coimbatore,Western,Maize,Cereal,Red Loam,435.4,153.0,33.8,61.0,149.5,52.7,85.7,6.35,128.8,86.9,3.28,3.358
+1027,2023,Summer,Tamil Nadu,Thanjavur,Delta,Maize,Cereal,Alluvial,851.9,178.0,33.5,52.5,73.4,64.6,72.8,,127.2,56.8,2.14,3.085
+369,2017,Summer,Tamil Nadu,Cuddalore,Coastal,Black Gram,Pulse,Alluvial,435.0,79.6,32.4,55.9,141.3,44.9,70.1,7.14,54.2,54.2,3.43,0.726
+781,2020,Summer,Tamil Nadu,Villupuram,Northern,Groundnut,Oilseed,Red Loam,1030.1,173.5,33.4,61.7,126.6,50.3,108.8,6.23,100.1,76.8,2.02,1.846
+725,2020,Summer,Tamil Nadu,Tirunelveli,Southern,Groundnut,Oilseed,Black Cotton,460.6,,36.2,59.5,111.1,24.6,96.1,7.28,23.8,55.9,3.5,1.281
+929,2022,Summer,Tamil Nadu,tiruvarur ,Delta,Maize,Cereal,Sandy Loam,1036.7,195.1,33.8,55.8,204.7,37.8,88.6,7.87,146.5,67.5,3.46,2.871
+548,2018,Rabi,Tamil Nadu,Vellore,Northern,Black Gram,Pulse,Sandy Loam,367.3,551.2,27.7,70.3,204.9,44.2,152.4,6.19,51.4,77.2,1.91,0.481
+774,2020,Rabi,Tamil Nadu,Vellore,Northern,Black Gram,Pulse,Sandy Loam,635.4,411.1,26.9,78.6,97.4,30.6,142.4,6.93,33.1,35.1,2.87,0.747
+794,2020,Summer,Tamil Nadu,Tiruchirappalli,Central,Black Gram,Pulse,Sandy Loam,573.0,192.5,34.3,70.3,169.4,34.8,86.1,8.1,52.7,54.9,2.68,0.564
+457,2018,Kharif,Tamil Nadu,Thanjavur,Delta,Black Gram,Pulse,Alluvial,610.1,258.7,31.8,60.9,148.4,40.7,129.8,7.03,35.6,34.5,3.06,0.886
+394,2017,Kharif,Tamil Nadu,Coimbatore,Western,Ragi,Millet,Red Loam,865.3,415.7,28.3,62.6,146.3,57.4,133.1,7.2,61.7,44.1,2.28,2.924
+803,2021,Rabi,Tamil Nadu,Thanjavur,Delta,Sorghum,Millet,Alluvial,1009.5,556.1,24.3,86.8,87.5,37.9,120.0,7.68,102.0,47.1,0.74,1.623
+848,2021,Summer,Tamil Nadu,Tirunelveli,Southern,Black Gram,Pulse,Black Cotton,895.3,35.1,34.7,60.4,122.2,27.4,77.9,7.45,34.3,87.0,1.96,0.593
+376,2017,Kharif,Tamil Nadu,Madurai,Southern,Black Gram,Pulse,Red Loam,931.1,450.9,31.7,62.2,188.5,58.8,120.1,8.0,10.9,50.8,2.37,0.492
+413,2017,Rabi,Tamil Nadu,Salem,Northern,Sorghum,Millet,Red Loam,799.9,341.3,25.7,77.2,100.5,44.4,100.3,7.5,63.3,31.6,3.89,2.725
+75,2014,Rabi,Tamil Nadu,Salem,Northern,Rice,Cereal,Red Loam,1310.4,275.3,25.6,73.2,136.3,62.2,157.4,6.34,147.4,94.6,3.49,3.708
+1063,2023,Kharif,Tamil Nadu,Tirunelveli,Southern,Maize,Cereal,Black Cotton,831.3,225.9,31.2,63.6,105.0,68.0,118.2,7.23,163.6,63.6,4.02,4.328
+501,2018,Summer,Tamil Nadu,Tirunelveli,Southern,Black Gram,Pulse,Black Cotton,672.3,16.8,33.7,50.7,103.9,26.2,110.4,7.07,50.3,68.6,1.89,0.612
+707,2020,Summer,Tamil Nadu,Cuddalore,Coastal,Groundnut,Oilseed,Alluvial,361.1,113.2,31.2,49.8,50.0,53.4,90.9,8.06,26.3,80.4,1.61,1.542
+115,2014,Rabi,Tamil Nadu,Tiruchirappalli,Central,Sorghum,Millet,Red Loam,611.0,499.8,27.0,73.2,94.1,62.2,90.8,6.42,97.0,31.9,2.7,2.478
+418,2017,Summer,Tamil Nadu,Vellore,Northern,Maize,Cereal,Sandy Loam,139.2,15.0,33.7,70.6,,28.2,161.3,6.58,150.1,58.5,2.53,2.135
+602,2019,Kharif,Tamil Nadu,Madurai,Southern,Cotton,Fibre,Black Cotton,492.8,353.0,32.7,76.2,149.2,30.5,117.9,6.72,65.3,43.0,1.86,1.922
+605,2019,Kharif,Tamil Nadu,Madurai,Southern,Ragi,Millet,Red Loam,329.9,476.2,32.3,69.0,148.8,29.7,126.9,6.65,87.3,53.4,2.75,2.095
+90,2014,Kharif,Tamil Nadu,Vellore,Northern,Rice,Cereal,Sandy Loam,443.6,105.1,31.5,67.0,50.0,62.3,40.0,6.1,126.3,62.3,3.14,1.848
+1087,2023,Kharif,Tamil Nadu,Erode,Western,Ragi,Millet,Black Cotton,425.6,451.1,30.5,74.8,132.0,58.4,118.7,6.46,58.1,17.7,3.38,2.618
+499,2018,Summer,Tamil Nadu,Tirunelveli,Southern,Groundnut,Oilseed,Black Cotton,510.6,35.2,34.0,56.3,153.5,39.3,96.1,6.41,84.9,64.4,2.56,1.397
+1125,2023,Kharif,Tamil Nadu,Tiruchirappalli,Central,Groundnut,Oilseed,Sandy Loam,440.6,375.9,31.7,72.3,94.0,68.6,87.1,6.27,70.0,35.8,3.31,2.314
+1094,2023,Rabi,Tamil Nadu,Salem,Northern,Groundnut,Oilseed,Red Loam,508.3,,27.8,75.0,109.8,41.1,147.4,7.42,80.2,29.6,2.39,2.374
+775,2020,Summer,Tamil Nadu,Vellore,Northern,Black Gram,Pulse,Sandy Loam,1714.7,154.0,33.9,50.8,110.4,29.0,140.0,6.19,10.0,42.4,2.6,0.677
+12,2014,Kharif,Tamil Nadu,Tiruvarur,Delta,Maize,Cereal,Alluvial,732.2,684.6,30.7,73.2,107.1,38.6,73.2,7.11,112.1,57.6,3.76,2.702
+397,2017,Summer,Tamil Nadu,Coimbatore,Western,Black Gram,Pulse,Red Loam,888.5,131.8,30.3,55.4,157.3,60.9,149.5,6.79,66.0,73.1,1.67,0.89
+667,2019,Summer,Tamil Nadu,Villupuram,Northern,Maize,Cereal,Red Loam,527.1,93.8,32.1,57.0,,43.4,201.9,6.86,110.4,68.1,1.36,3.208
+997,2022,Kharif,Tamil Nadu,Vellore,Northern,Groundnut,Oilseed,Sandy Loam,587.0,297.0,32.1,67.8,138.6,38.4,103.8,7.03,83.1,71.2,1.52,2.357
+43,2014,Rabi,Tamil Nadu,Madurai,Southern,Black Gram,Pulse,Black Cotton,156.4,346.7,28.7,71.9,139.4,51.6,94.0,6.37,25.7,60.4,1.67,0.794
+168,2015,Kharif,Tamil Nadu,Coimbatore,Western,Rice,Cereal,Red Loam,809.7,175.1,28.8,,102.9,63.5,129.9,6.49,135.4,73.1,2.15,2.669
+417,2017,Rabi,Tamil Nadu,Vellore,Northern,Maize,Cereal,Sandy Loam,1752.1,333.6,28.9,86.8,117.6,58.8,118.6,6.08,128.1,56.1,2.12,4.569
+577,2019,Rabi,Tamil Nadu,Thanjavur,Delta,Ragi,Millet,Alluvial,275.4,590.6,28.4,88.3,131.2,34.5,66.6,6.95,43.8,40.7,2.27,1.783
+952,2022,Rabi,Tamil Nadu,Madurai,Southern,Groundnut,Oilseed,Red Loam,622.9,313.2,27.9,76.5,161.6,31.4,120.5,6.81,59.9,64.4,3.17,2.829
+714,2020,Rabi,Tamil Nadu,Madurai,Southern,Ragi,Millet,Red Loam,1568.1,464.7,27.8,73.6,133.5,60.7,97.8,6.1,115.1,8.1,2.61,3.044
+427,2017,Rabi,Tamil Nadu,Villupuram,Northern,Rice,Cereal,Red Loam,279.2,536.6,25.7,87.8,121.7,58.9,172.9,6.04,91.0,74.8,3.51,4.129
+545,2018,Summer,Tamil Nadu,Vellore,Northern,Groundnut,Oilseed,Sandy Loam,614.8,128.1,34.9,65.9,134.6,49.3,126.2,7.17,59.1,77.6,1.2,1.47
+1064,2023,Rabi,Tamil Nadu,Tirunelveli,Southern,Maize,Cereal,Black Cotton,317.8,235.3,25.4,79.9,156.1,57.8,94.6,7.09,124.2,60.7,2.27,6.132
+1114,2023,Summer,Tamil Nadu,Villupuram,Northern,Groundnut,Oilseed,Red Loam,404.9,93.1,33.1,55.6,101.2,45.7,85.3,6.49,61.1,69.3,2.36,1.84
+891,2021,Summer,Tamil Nadu,Villupuram,Northern,Maize,Cereal,Alluvial,686.3,50.7,34.0,61.3,119.5,47.1,114.4,7.36,134.9,54.1,2.49,2.947
+778,2020,Rabi,Tamil Nadu,Villupuram,Northern,Maize,Cereal,Sandy Loam,228.2,271.1,25.2,80.3,179.5,32.1,73.3,7.21,173.0,55.3,1.26,4.887
+258,2016,Rabi,Tamil Nadu,Madurai,Southern,Rice,Cereal,Red Loam,731.8,111.2,25.7,74.9,118.8,41.9,119.0,6.28,159.6,40.6,1.83,2.099
+336,2016,Summer,Tamil Nadu,Tiruchirappalli,Central,Black Gram,Pulse,Sandy Loam,968.7,155.0,32.6,60.4,169.3,46.1,46.2,8.25,51.2,41.4,1.97,0.64
+16,2014,Rabi,Tamil Nadu,Tiruvarur,Delta,Cotton,Fibre,Alluvial,1371.3,520.6,24.9,78.6,218.1,33.1,101.4,8.11,62.4,41.1,2.75,1.468
+1000,2022,Summer,Tamil Nadu,Vellore,Northern,Black Gram,Pulse,Sandy Loam,633.1,118.4,35.5,59.6,143.1,78.7,159.6,7.07,78.0,43.0,4.25,0.597
+325,2016,Rabi,Tamil Nadu,Villupuram,Northern,Black Gram,Pulse,Red Loam,508.5,473.1,28.8,80.5,50.0,43.7,144.2,7.31,14.0,45.3,3.18,0.59
+1040,2023,Kharif,Tamil Nadu,Tiruvarur,Delta,Cotton,Fibre,Alluvial,782.9,635.9,29.0,66.1,106.2,50.3,88.5,7.8,92.2,52.0,2.45,1.571
+954,2022,Summer,Tamil Nadu,Madurai,Southern,Black Gram,Pulse,Red Loam,487.6,76.2,32.2,62.2,111.2,41.4,88.9,7.04,10.0,60.5,2.56,0.735
+223,2015,Summer,Tamil Nadu,Villupuram,Northern,Black Gram,Pulse,Red Loam,420.0,80.9,33.0,54.5,118.6,39.7,52.5,6.68,10.0,69.4,0.81,0.654
+180,2015,Kharif,Tamil Nadu,Erode,Western,Groundnut,Oilseed,Black Cotton,1439.4,420.5,29.3,63.1,124.5,37.8,118.7,7.95,113.8,34.1,0.98,1.881
+100,2014,Kharif,Tamil Nadu,Vellore,Northern,Black Gram,Pulse,Sandy Loam,702.4,689.7,32.6,72.4,118.6,43.5,98.1,7.16,72.7,38.3,4.34,0.475
+522,2018,Summer,Tamil Nadu,Erode,Western,Groundnut,Oilseed,Black Cotton,554.9,79.5,32.1,63.8,108.7,38.1,129.6,7.63,41.2,61.6,0.56,1.492
+23,2014,Rabi,Tamil Nadu,Tiruvarur,Delta,Black Gram,Pulse,Sandy Loam,975.1,587.2,26.0,86.4,193.7,23.0,108.0,7.31,10.0,32.2,3.71,0.469
+357,2017,Rabi,Tamil Nadu,Tiruvarur,Delta,Black Gram,Pulse,Alluvial,423.3,346.1,26.5,77.7,,31.2,106.9,7.17,10.0,9.9,3.09,1.097
+845,2021,Rabi,Tamil Nadu,Tirunelveli,Southern,Sorghum,Millet,Black Cotton,394.0,508.4,25.1,80.7,154.0,27.1,87.5,5.87,84.9,43.4,1.48,2.035
+1055,2023,Kharif,Tamil Nadu,Cuddalore,Coastal,Black Gram,Pulse,Alluvial,422.4,469.6,30.8,72.1,63.9,49.7,109.2,6.64,12.5,20.5,3.15,0.768
+612,2019,Rabi,Tamil Nadu,Tirunelveli,Southern,Cotton,Fibre,Black Cotton,1005.4,202.4,26.1,74.1,204.6,61.1,77.9,7.11,112.1,39.2,2.82,2.007
+886,2021,Kharif,Tamil Nadu,Vellore,Northern,Sorghum,Millet,Black Cotton,453.6,342.7,29.8,62.6,126.1,21.7,111.6,7.34,53.6,35.6,2.03,3.101
+341,2017,Kharif,Tamil Nadu,Thanjavur,Delta,Groundnut,Oilseed,Alluvial,1222.1,394.5,29.5,52.5,124.0,18.6,144.9,7.38,74.5,68.8,2.46,1.795
+432,2017,Rabi,Tamil Nadu,Villupuram,Northern,Groundnut,Oilseed,Red Loam,388.8,497.5,28.9,74.8,106.9,20.2,130.5,6.9,62.1,49.1,2.19,2.16
+718,2020,Rabi,Tamil Nadu,Madurai,Southern,Black Gram,Pulse,Red Loam,689.8,397.0,27.1,79.0,110.5,63.4,130.3,7.87,14.9,24.7,2.24,0.73
+218,2015,Kharif,Tamil Nadu,Villupuram,Northern,Ragi,Millet,Red Loam,887.0,488.6,28.8,68.9,115.4,61.3,100.8,6.4,99.6,46.4,2.23,2.373
+204,2015,Kharif,Tamil Nadu,Vellore,Northern,Maize,Cereal,Sandy Loam,321.8,304.5,31.1,76.0,178.4,67.8,108.2,7.25,203.8,47.7,1.89,4.752
+802,2021,Kharif,Tamil Nadu,Thanjavur,Delta,Sorghum,Millet,Alluvial,331.8,476.4,30.8,69.9,116.4,84.6,115.8,7.03,79.3,25.2,3.72,2.627
+94,2014,Kharif,Tamil Nadu,Vellore,Northern,Cotton,Fibre,Sandy Loam,268.0,380.1,30.3,73.5,160.2,50.3,76.2,6.53,132.2,68.7,3.27,1.934
+705,2020,Rabi,Tamil Nadu,Cuddalore,Coastal,Maize,Cereal,Alluvial,436.9,672.4,28.5,78.3,72.6,47.3,133.7,6.85,166.8,52.0,2.94,3.378
+69,2014,Rabi,Tamil Nadu,Erode,Western,Ragi,Millet,Black Cotton,355.3,444.5,26.5,78.5,116.9,50.3,73.0,7.33,108.1,32.5,1.18,2.323
+789,2020,Rabi,Tamil Nadu,Tiruchirappalli,Central,Maize,Cereal,Alluvial,1402.3,580.3,25.4,81.8,168.3,39.0,112.0,7.01,146.0,53.6,1.44,4.775
+285,2016,Rabi,Tamil Nadu,Coimbatore,Western,Black Gram,Pulse,Red Loam,1304.1,160.3,22.6,72.7,60.4,74.7,151.7,7.18,29.6,40.1,3.21,0.664
+1008,2022,Kharif,Tamil Nadu,Villupuram,Northern,Ragi,Millet,Red Loam,1078.1,337.8,30.4,57.5,120.9,36.2,102.0,6.85,63.1,40.0,2.49,3.055
+435,2017,Rabi,Tamil Nadu,Villupuram,Northern,Black Gram,Pulse,Red Loam,336.9,578.4,26.2,90.5,128.7,12.0,116.1,7.25,34.8,62.3,3.27,0.465
+704,2020,Kharif,Tamil Nadu,Cuddalore,Coastal,Maize,Cereal,Alluvial,294.5,713.9,30.2,77.1,,75.6,129.0,6.37,150.9,40.4,3.23,2.768
+154,2015,Summer,Tamil Nadu,Madurai,Southern,Groundnut,Oilseed,Red Loam,1068.1,159.2,32.6,63.0,168.0,12.0,86.5,7.19,57.5,62.1,2.88,1.819
+76,2014,Kharif,Tamil Nadu,Salem,Northern,Maize,Cereal,Red Loam,707.1,411.8,29.0,72.8,102.2,56.8,154.6,7.71,137.2,37.7,2.31,4.41
+924,2022,Rabi,Tamil Nadu,Thanjavur,Delta,Sorghum,Millet,Alluvial,1179.5,564.3,26.5,86.3,103.3,52.7,139.2,7.57,78.7,37.2,3.25,2.194
+581,2019,Summer,Tamil Nadu,Thanjavur,Delta,Black Gram,Pulse,Alluvial,322.1,173.4,34.6,55.1,162.0,38.1,140.3,6.71,63.6,48.3,2.67,0.659
+447,2018,Kharif,Tamil Nadu,Thanjavur,Delta,Maize,Cereal,Alluvial,967.0,1054.8,28.8,76.1,119.3,48.1,131.6,7.25,110.4,52.8,2.45,1.498
+189,2015,Kharif,Tamil Nadu,Salem,Northern,Rice,Cereal,Red Loam,1640.4,615.2,31.5,76.2,124.3,81.9,126.7,6.5,123.4,87.0,1.69,3.309
+272,2016,Rabi,Tamil Nadu,Tirunelveli,Southern,Cotton,Fibre,Black Cotton,775.8,323.7,27.9,75.7,180.0,40.5,124.1,6.58,78.0,67.5,2.79,2.674
+237,2016,Summer,Tamil Nadu,Thanjavur,Delta,Groundnut,Oilseed,Alluvial,576.9,195.9,33.0,58.7,164.1,57.2,142.4,7.72,72.3,69.0,2.57,1.49
+488,2018,Kharif,Tamil Nadu,Madurai,Southern,Sorghum,Millet,Red Loam,438.8,391.7,29.8,73.2,155.9,46.0,94.3,7.18,60.6,59.3,3.11,2.534
+1098,2023,Kharif,Tamil Nadu,Salem,Northern,Black Gram,Pulse,Red Loam,445.8,417.3,31.1,58.4,180.7,53.5,57.1,6.69,27.2,27.3,4.48,0.817
+560,2018,Rabi,Tamil Nadu,Tiruchirappalli,Central,Maize,Cereal,Sandy Loam,774.0,315.6,26.4,70.7,122.9,53.0,87.8,6.91,148.8,59.1,1.26,5.109
+118,2014,Summer,Tamil Nadu,Tiruchirappalli,Central,Black Gram,Pulse,Alluvial,629.8,35.5,34.9,50.1,197.3,46.4,81.8,,22.8,56.1,2.53,0.559
+932,2022,Rabi,Tamil Nadu,Tiruvarur,Delta,Ragi,Millet,Alluvial,729.6,527.2,26.9,82.2,111.4,62.7,102.8,6.95,71.4,24.6,3.99,2.724
+1024,2023,Rabi,Tamil Nadu,Thanjavur,Delta,Rice,Cereal,Alluvial,957.5,515.5,26.0,87.1,109.5,14.3,136.2,6.18,121.1,93.6,2.81,4.574
+513,2018,Kharif,Tamil Nadu,Coimbatore,Western,Black Gram,Pulse,Red Loam,475.9,439.1,28.0,67.1,79.0,48.7,148.0,6.34,49.9,5.0,3.01,0.937
+634,2019,Summer,Tamil Nadu,Erode,Western,Maize,Cereal,Black Cotton,460.9,54.7,33.9,52.2,122.6,38.4,105.4,6.34,124.8,70.1,2.28,1.057
+694,2020,Rabi,Tamil Nadu,Tiruvarur,Delta,Rice,Cereal,Alluvial,697.6,593.6,26.2,73.8,118.5,45.4,72.2,7.1,94.1,83.9,3.61,5.117
+883,2021,Rabi,Tamil Nadu,Vellore,Northern,Maize,Cereal,Sandy Loam,998.7,490.3,26.1,76.2,149.1,46.8,136.3,7.35,129.9,68.3,3.31,4.525
+751,2020,Rabi,Tamil Nadu,Erode,Western,Black Gram,Pulse,Black Cotton,818.4,425.4,25.2,75.7,140.6,50.7,94.5,6.2,12.0,71.5,3.35,0.548
+127,2015,Kharif,Tamil Nadu,Thanjavur,Delta,Black Gram,Pulse,Black Cotton,791.5,618.5,30.6,68.6,166.5,25.4,129.7,7.08,10.0,61.2,3.32,0.424
+117,2014,Rabi,Tamil Nadu,Tiruchirappalli,Central,Black Gram,Pulse,Sandy Loam,468.6,600.4,26.1,81.2,124.3,13.1,129.2,6.39,33.2,24.8,2.6,0.478
+474,2018,Rabi,Tamil Nadu,Cuddalore,Coastal,Sorghum,Millet,Alluvial,598.6,447.2,26.8,67.8,104.8,34.3,131.2,6.65,40.9,16.3,2.23,2.43
+873,2021,Kharif,Tamil Nadu,Salem,Northern,Rice,Cereal,Red Loam,847.4,263.5,31.5,64.6,156.8,61.3,101.2,7.03,160.9,81.8,2.91,3.559
+58,2014,Rabi,Tamil Nadu,Coimbatore,Western,Cotton,Fibre,Red Loam,1189.6,582.9,24.6,90.7,191.4,46.8,121.0,6.73,178.5,62.8,1.93,1.437
+604,2019,Kharif,Tamil Nadu,Madurai,Southern,Groundnut,Oilseed,Red Loam,492.9,570.5,30.9,66.6,76.6,52.9,158.7,5.8,58.7,65.0,0.9,1.248
+853,2021,Kharif,Tamil Nadu,Coimbatore,Western,Cotton,Fibre,Red Loam,324.7,645.1,30.0,80.0,133.7,35.8,97.2,7.1,120.4,66.4,2.55,1.446
+657,2019,Rabi,Tamil Nadu,Vellore,Northern,Groundnut,Oilseed,Sandy Loam,238.8,494.5,26.1,80.0,82.1,42.7,107.3,7.76,54.6,67.2,1.9,1.985
+797,2021,Kharif,Tamil Nadu,Thanjavur,Delta,Maize,Cereal,Red Loam,820.7,630.9,29.3,72.5,156.1,69.0,117.5,7.56,183.3,66.9,2.62,3.14
+813,2021,Kharif,Tamil Nadu,Tiruvarur,Delta,Black Gram,Pulse,Alluvial,1154.0,469.1,30.5,71.8,168.3,33.6,105.7,6.84,54.8,13.2,1.08,0.923
+106,2014,Rabi,Tamil Nadu,Villupuram,Northern,Groundnut,Oilseed,Red Loam,410.8,446.7,24.4,71.0,120.9,48.3,106.9,7.39,88.1,46.5,1.08,2.186
+636,2019,Kharif,Tamil Nadu,Erode,Western,Groundnut,Oilseed,Black Cotton,2183.7,488.3,29.7,77.8,123.4,47.5,136.3,6.62,63.9,39.8,2.36,2.138
+370,2017,Rabi,Tamil Nadu,Madurai,Southern,Rice,Cereal,Red Loam,603.9,333.6,26.0,84.8,104.6,19.0,148.2,7.2,150.6,93.5,2.95,3.396
+269,2016,Rabi,Tamil Nadu,Madurai,Southern,Black Gram,Pulse,Red Loam,506.2,286.4,26.5,73.5,103.4,36.2,85.1,7.49,68.7,60.1,2.91,0.799
+656,2019,Kharif,Tamil Nadu,Vellore,Northern,Groundnut,Oilseed,Sandy Loam,239.9,401.2,31.0,66.8,110.9,34.2,138.6,6.99,70.3,66.5,1.6,2.176
+47,2014,Kharif,Tamil Nadu,Tirunelveli,Southern,Groundnut,Oilseed,Black Cotton,505.1,415.7,31.3,67.7,151.9,37.7,96.9,7.68,42.0,61.9,3.7,1.625
+350,2017,Kharif,Tamil Nadu,Tiruvarur,Delta,Maize,Cereal,Alluvial,437.4,661.9,29.1,69.8,108.2,44.3,65.6,5.32,184.4,57.7,1.78,2.398
+196,2015,Kharif,Tamil Nadu,Salem,Northern,Groundnut,Oilseed,Red Loam,843.7,530.6,31.0,60.0,92.4,46.6,42.7,5.47,20.9,41.9,1.83,1.589
+103,2014,Kharif,Tamil Nadu,Villupuram,Northern,Maize,Cereal,Black Cotton,1473.0,413.6,29.7,62.2,91.4,28.9,131.4,7.03,114.5,46.5,2.0,3.926
+5,2014,Kharif,Tamil Nadu,Thanjavur,Delta,Ragi,Millet,Alluvial,1006.6,657.5,31.0,71.5,,27.1,76.0,6.67,49.0,47.5,2.61,1.345
+998,2022,Rabi,Tamil Nadu,Vellore,Northern,Sorghum,Millet,Sandy Loam,729.7,458.3,25.3,80.1,129.3,23.0,130.5,6.63,86.2,26.2,2.24,2.43
+1033,2023,Rabi,Tamil Nadu,Thanjavur,Delta,Sorghum,Millet,Alluvial,2866.1,278.6,25.3,79.0,83.9,45.9,103.5,7.1,65.4,39.5,2.03,2.642
+1047,2023,Kharif,Tamil Nadu,Cuddalore,Coastal,Rice,Cereal,Black Cotton,427.0,587.6,29.2,66.2,148.9,30.0,100.5,7.82,164.4,100.0,1.71,4.045
+264,2016,Summer,Tamil Nadu,Madurai,Southern,Groundnut,Oilseed,Red Loam,352.9,93.1,35.5,55.1,95.7,41.3,88.2,6.51,23.6,43.8,0.63,1.328
+946,2022,Summer,Tamil Nadu,Cuddalore,Coastal,Black Gram,Pulse,Alluvial,1050.2,93.7,34.9,61.8,127.9,49.2,91.3,7.16,32.4,37.2,2.9,0.691
+444,2017,Kharif,Tamil Nadu,Tiruchirappalli,Central,Black Gram,Pulse,Sandy Loam,507.5,402.7,30.4,64.5,152.0,38.7,105.0,6.63,35.8,13.9,2.87,0.944
+854,2021,Rabi,Tamil Nadu,Coimbatore,Western,Cotton,Fibre,Red Loam,925.7,359.5,25.3,,144.6,28.2,102.4,6.98,109.2,73.7,2.28,2.133
+746,2020,Rabi,Tamil Nadu,Erode,Western,Cotton,Fibre,Black Cotton,1782.4,580.3,28.7,79.2,95.7,69.6,64.1,7.25,110.6,58.1,2.92,2.36
+982,2022,Kharif,Tamil Nadu,Erode,Western,Black Gram,Pulse,Black Cotton,543.0,639.3,30.4,66.9,134.4,48.5,61.4,6.27,53.3,24.1,2.54,0.556
+305,2016,Summer,Tamil Nadu,Vellore,Northern,Maize,Cereal,Sandy Loam,1427.0,132.4,32.2,65.2,186.1,30.9,82.5,7.32,159.1,66.1,2.36,3.227
+342,2017,Rabi,Tamil Nadu,Thanjavur,Delta,Groundnut,Oilseed,Alluvial,663.9,369.9,24.0,68.3,101.1,19.7,46.2,7.06,88.3,63.6,1.66,2.184
+762,2020,Kharif,Tamil Nadu,Salem,Northern,Black Gram,Pulse,Red Loam,268.1,287.5,29.4,64.2,84.9,75.3,119.4,5.42,47.4,36.9,2.87,0.811
+314,2016,Summer,Tamil Nadu,Vellore,Northern,Black Gram,Pulse,Sandy Loam,501.1,117.4,33.0,53.9,75.2,28.5,119.4,6.17,10.0,7.8,1.66,0.529
+150,2015,Kharif,Tamil Nadu,Madurai,Southern,Maize,Cereal,Red Loam,505.9,246.3,30.8,65.4,101.5,42.5,112.7,6.42,159.1,71.2,2.26,4.293
+125,2015,Kharif,Tamil Nadu,Thanjavur,Delta,Ragi,Millet,Alluvial,941.2,615.1,28.9,76.7,184.6,41.8,132.4,6.19,73.4,23.2,2.83,1.768
+987,2022,Rabi,Tamil Nadu,Salem,Northern,Cotton,Fibre,Red Loam,442.0,501.8,28.2,85.6,172.6,56.9,131.3,,147.0,35.5,2.95,2.359
+575,2019,Summer,Tamil Nadu,Thanjavur,Delta,Groundnut,Oilseed,Alluvial,677.1,127.1,33.7,62.8,140.4,47.9,61.0,7.85,59.1,95.7,1.47,1.462
+698,2020,Summer,Tamil Nadu,Tiruvarur,Delta,Groundnut,Oilseed,Alluvial,931.7,150.8,32.8,55.6,115.5,47.2,148.5,7.71,66.4,60.4,2.19,1.691
+665,2019,Kharif,Tamil Nadu,Villupuram,Northern,Rice,Cereal,Red Loam,315.0,589.1,31.1,74.8,66.1,43.9,104.1,5.55,149.5,80.3,2.97,3.053
+51,2014,Rabi,Tamil Nadu,Tirunelveli,Southern,Sorghum,Millet,Black Cotton,906.7,405.2,27.8,66.0,165.1,30.7,54.2,7.63,83.5,54.0,3.94,2.485
+727,2020,Kharif,Tamil Nadu,Tirunelveli,Southern,Sorghum,Millet,Black Cotton,1069.5,435.3,31.0,66.0,142.0,47.2,125.7,7.21,92.5,26.1,2.8,3.114
+354,2017,Rabi,Tamil Nadu,Tiruvarur,Delta,Cotton,Fibre,Alluvial,203.1,551.5,27.1,75.3,148.8,34.0,145.9,6.3,121.1,59.0,3.24,1.943
+1091,2023,Rabi,Tamil Nadu,Salem,Northern,Rice,Cereal,Red Loam,499.6,461.2,26.3,74.1,82.9,43.5,152.4,6.68,167.9,69.7,3.15,1.375
+143,2015,Kharif,Tamil Nadu,Cuddalore,Coastal,Ragi,Millet,Alluvial,489.2,491.0,31.1,75.4,66.7,48.6,58.6,7.88,54.2,51.6,2.28,1.621
+471,2018,Rabi,Tamil Nadu,Cuddalore,Coastal,Maize,Cereal,Alluvial,593.1,591.0,27.1,89.7,163.3,42.1,108.8,7.29,135.6,64.3,1.92,3.365
+654,2019,Kharif,Tamil Nadu,Vellore,Northern,Maize,Cereal,Sandy Loam,535.8,493.8,32.8,71.3,148.5,34.0,94.5,6.8,116.2,62.9,2.51,3.15
+400,2017,Rabi,Tamil Nadu,Erode,Western,Groundnut,Oilseed,Black Cotton,938.8,250.3,26.3,73.4,121.6,32.9,131.5,6.84,88.2,74.4,2.66,2.567
+1068,2023,Summer,Tamil Nadu,Tirunelveli,Southern,Groundnut,Oilseed,Black Cotton,559.8,,34.0,58.5,160.7,38.9,104.4,6.73,35.7,57.0,2.05,1.58
+321,2016,Kharif,Tamil Nadu,Villupuram,Northern,Groundnut,Oilseed,Red Loam,1083.5,412.2,30.8,66.7,119.8,13.6,98.3,8.37,53.9,38.3,3.22,1.816
+20,2014,Rabi,Tamil Nadu,Tiruvarur,Delta,Ragi,Millet,Red Loam,558.2,529.9,24.9,85.3,68.9,51.4,76.7,7.45,60.2,44.0,2.54,2.024
+685,2020,Kharif,Tamil Nadu,Thanjavur,Delta,Maize,Cereal,Alluvial,4134.8,461.0,27.9,64.1,125.4,38.0,133.3,6.95,146.0,70.9,2.21,2.117
+1014,2022,Kharif,Tamil Nadu,Tiruchirappalli,Central,Maize,Cereal,Sandy Loam,390.3,339.8,31.2,64.2,187.0,42.7,87.5,6.23,139.1,51.6,3.26,3.787
+991,2022,Rabi,Tamil Nadu,Salem,Northern,Ragi,Millet,Red Loam,393.6,382.9,28.5,87.0,134.2,48.1,86.3,5.85,112.8,15.9,2.81,3.225
+1013,2022,Rabi,Tamil Nadu,Tiruchirappalli,Central,Rice,Cereal,Sandy Loam,2150.2,441.8,27.0,72.8,140.0,63.6,161.0,5.88,129.1,85.3,3.45,4.728
+408,2017,Rabi,Tamil Nadu,Salem,Northern,Cotton,Fibre,Red Loam,840.4,362.0,27.0,66.8,133.1,57.0,43.9,6.35,107.7,74.3,3.65,2.129
+538,2018,Rabi,Tamil Nadu,Salem,Northern,Black Gram,Pulse,Red Loam,1279.3,258.0,25.9,63.2,102.7,69.3,93.9,5.43,10.0,53.5,1.92,0.745
+1005,2022,Kharif,Tamil Nadu,Villupuram,Northern,Groundnut,Oilseed,Sandy Loam,778.3,252.7,29.1,68.0,158.2,39.4,108.1,7.14,24.2,61.3,2.65,3.086
+787,2020,Rabi,Tamil Nadu,Tiruchirappalli,Central,Rice,Cereal,Sandy Loam,343.5,185.1,25.6,79.6,156.1,61.7,141.1,7.53,148.1,67.3,3.3,2.706
+39,2014,Kharif,Tamil Nadu,Madurai,Southern,Maize,Cereal,Red Loam,420.2,509.0,33.4,70.1,103.6,27.6,83.3,6.08,142.2,60.0,2.54,2.953
+176,2015,Rabi,Tamil Nadu,Coimbatore,Western,Black Gram,Pulse,Red Loam,967.3,430.4,26.6,70.3,127.0,51.4,139.8,7.04,38.1,61.2,2.75,0.572
+246,2016,Summer,Tamil Nadu,Tiruvarur,Delta,Maize,Cereal,Alluvial,567.2,171.0,33.2,65.1,109.7,19.1,135.9,6.48,173.8,59.5,2.78,3.322
+1031,2023,Summer,Tamil Nadu,Thanjavur,Delta,Groundnut,Oilseed,Alluvial,454.4,169.7,32.9,57.7,50.0,58.3,145.8,6.0,89.2,71.6,0.7,1.85
+846,2021,Kharif,Tamil Nadu,Tirunelveli,Southern,Black Gram,Pulse,Black Cotton,925.7,627.7,29.7,67.1,152.2,32.5,99.1,6.77,16.2,44.4,4.65,0.476
+949,2022,Summer,Tamil Nadu,Madurai,Southern,Maize,Cereal,Red Loam,844.8,134.7,34.5,58.7,110.1,12.0,79.7,6.31,184.1,75.5,2.2,2.73
+490,2018,Kharif,Tamil Nadu,Madurai,Southern,Black Gram,Pulse,Red Loam,1808.0,427.9,29.5,72.2,162.1,59.9,76.3,6.56,19.1,45.7,3.44,0.712
+155,2015,Rabi,Tamil Nadu,Madurai,Southern,Ragi,Millet,Red Loam,1395.7,360.3,27.5,68.3,161.8,12.0,71.7,6.89,119.2,31.8,0.91,3.039
+639,2019,Summer,Tamil Nadu,Erode,Western,Black Gram,Pulse,Black Cotton,330.0,25.1,33.3,57.0,167.1,51.5,85.2,7.3,27.9,51.6,3.1,0.694
+663,2019,Rabi,Tamil Nadu,Vellore,Northern,Black Gram,Pulse,Sandy Loam,1310.7,411.6,28.0,57.3,168.6,27.9,101.2,7.45,10.0,46.2,0.99,0.753
+288,2016,Rabi,Tamil Nadu,Erode,Western,Groundnut,Oilseed,Black Cotton,1647.0,425.0,25.7,84.9,114.8,19.3,86.3,7.14,78.5,23.9,3.39,2.381
+626,2019,Summer,Tamil Nadu,Coimbatore,Western,Groundnut,Oilseed,Red Loam,2174.6,91.9,32.3,54.1,103.0,33.6,75.5,5.95,43.5,71.5,2.6,1.526
+686,2020,Rabi,Tamil Nadu,Thanjavur,Delta,Maize,Cereal,Red Loam,607.8,297.8,25.7,63.2,63.3,26.1,98.6,6.91,159.1,89.6,1.64,4.655
+917,2022,Rabi,Tamil Nadu,Thanjavur,Delta,Maize,Cereal,Alluvial,1826.5,571.4,23.6,82.2,157.2,40.1,140.7,7.14,149.1,57.5,2.39,4.205
+570,2019,Summer,Tamil Nadu,Thanjavur,Delta,Maize,Cereal,Alluvial,1218.4,151.2,31.6,65.4,170.6,53.8,115.4,6.53,162.6,71.6,1.17,4.212
+938,2022,Kharif,Tamil Nadu,Cuddalore,Coastal,Maize,Cereal,Alluvial,383.1,682.0,29.9,69.9,123.0,38.2,101.3,7.39,158.3,52.0,3.39,3.05
+735,2020,Kharif,Tamil Nadu,Coimbatore,Western,Groundnut,Oilseed,Red Loam,1068.5,533.9,28.0,79.1,113.3,32.1,97.2,6.04,10.0,46.5,2.09,2.032
+18,2014,Summer,Tamil Nadu,Tiruvarur,Delta,Groundnut,Oilseed,Alluvial,566.9,112.8,33.6,70.4,121.4,51.1,98.7,7.34,50.7,44.4,2.31,1.368
+128,2015,Rabi,Tamil Nadu,Thanjavur,Delta,Black Gram,Pulse,Alluvial,1564.3,545.2,25.6,79.9,110.3,28.3,78.1,6.37,10.0,50.9,3.95,0.474
+323,2016,Kharif,Tamil Nadu,Villupuram,Northern,Ragi,Millet,Red Loam,1256.2,559.3,31.4,65.7,136.3,49.2,158.2,8.6,102.1,45.5,1.71,1.348
+256,2016,Rabi,Tamil Nadu,Cuddalore,Coastal,Sorghum,Millet,Alluvial,386.1,605.5,27.3,82.4,156.3,26.2,122.6,6.49,94.7,56.4,1.75,1.549
+1104,2023,Kharif,Tamil Nadu,Vellore,Northern,Groundnut,Oilseed,Sandy Loam,698.7,177.7,30.3,76.1,90.5,59.3,40.0,6.88,58.4,44.4,1.19,2.475
+1117,2023,Rabi,Tamil Nadu,Villupuram,Northern,Black Gram,Pulse,Red Loam,1230.0,373.8,28.3,65.5,89.2,42.2,80.4,6.27,50.3,60.3,3.17,0.695
+191,2015,Kharif,Tamil Nadu,Salem,Northern,Maize,Cereal,Red Loam,786.0,492.0,31.0,66.4,163.9,31.3,84.3,7.41,146.7,80.9,0.97,3.163
+116,2014,Kharif,Tamil Nadu,Tiruchirappalli,Central,Black Gram,Pulse,Sandy Loam,724.0,258.2,28.9,62.4,144.4,78.2,57.9,6.47,41.1,23.1,2.11,0.832
+1111,2023,Kharif,Tamil Nadu,Villupuram,Northern,Cotton,Fibre,Red Loam,988.6,634.5,30.1,71.0,142.5,63.8,132.0,6.23,97.1,43.0,2.79,1.589
+783,2020,Rabi,Tamil Nadu,Villupuram,Northern,Ragi,Millet,Red Loam,345.0,1291.7,26.9,74.6,143.3,63.7,127.4,6.41,49.7,68.2,2.58,0.931
+607,2019,Rabi,Tamil Nadu,Madurai,Southern,Sorghum,Millet,Red Loam,1116.1,486.2,28.9,72.1,52.0,39.2,144.6,6.54,113.5,54.3,1.42,2.032
+181,2015,Rabi,Tamil Nadu,Erode,Western,Groundnut,Oilseed,Black Cotton,523.4,312.7,26.8,68.2,145.7,35.2,99.6,6.09,18.3,43.7,2.6,2.394
+302,2016,Kharif,Tamil Nadu,Salem,Northern,Black Gram,Pulse,Red Loam,918.8,,33.3,67.0,109.8,50.3,108.4,6.95,63.2,30.7,3.29,0.528
+955,2022,Kharif,Tamil Nadu,Tirunelveli,Southern,Rice,Cereal,Black Cotton,800.6,396.3,32.8,72.6,155.8,45.6,148.9,6.83,112.5,80.3,3.45,3.301
+1023,2023,Kharif,Tamil Nadu,Thanjavur,Delta,Rice,Cereal,Alluvial,1217.4,570.2,28.9,79.5,170.4,41.2,97.2,7.54,178.5,77.5,1.42,5.054
+915,2022,Rabi,Tamil Nadu,Thanjavur,Delta,Rice,Cereal,Alluvial,420.3,545.0,26.2,77.4,134.5,41.6,120.9,6.49,166.8,67.3,2.23,5.024
+865,2021,Kharif,Tamil Nadu,Erode,Western,Cotton,Fibre,Black Cotton,429.1,624.7,30.5,72.8,120.0,24.1,58.3,5.76,126.1,26.6,4.06,2.201
+978,2022,Summer,Tamil Nadu,Erode,Western,Groundnut,Oilseed,Black Cotton,2294.2,105.7,35.3,59.6,143.7,42.9,124.3,6.68,71.3,65.5,2.45,1.514
+840,2021,Rabi,Tamil Nadu,Tirunelveli,Southern,Cotton,Fibre,Black Cotton,1106.8,306.1,25.5,78.2,97.5,36.2,82.1,7.17,121.7,64.2,3.08,0.986
+518,2018,Summer,Tamil Nadu,Erode,Western,Maize,Cereal,Black Cotton,1387.8,151.1,33.4,71.6,115.6,40.0,135.8,6.97,110.7,57.6,2.86,2.563
+373,2017,Summer,Tamil Nadu,Madurai,Southern,Groundnut,Oilseed,Red Loam,737.1,,34.9,55.6,52.1,34.6,112.2,6.04,30.4,57.3,1.52,1.27
+46,2014,Kharif,Tamil Nadu,Tirunelveli,Southern,Cotton,Fibre,Black Cotton,1098.3,324.2,30.7,56.7,146.9,12.0,133.5,6.43,105.8,39.3,1.45,2.038
+477,2018,Kharif,Tamil Nadu,Madurai,Southern,Rice,Cereal,Red Loam,2162.0,156.0,33.4,61.0,150.0,48.8,139.9,7.31,148.0,100.0,2.92,2.759
+158,2015,Summer,Tamil Nadu,Madurai,Southern,Black Gram,Pulse,Red Loam,159.2,110.3,34.6,62.2,144.2,41.2,122.6,8.36,67.4,72.1,2.51,0.514
+939,2022,Rabi,Tamil Nadu,Cuddalore,Coastal,Maize,Cereal,Alluvial,638.4,567.3,25.2,87.0,108.0,12.0,142.3,7.84,122.6,69.6,1.73,3.174
+172,2015,Summer,Tamil Nadu,Coimbatore,Western,Groundnut,Oilseed,Black Cotton,770.3,103.4,31.7,49.1,153.9,39.8,142.5,6.75,40.5,82.2,2.93,1.881
+17,2014,Rabi,Tamil Nadu,Tiruvarur,Delta,Groundnut,Oilseed,Alluvial,2002.5,483.3,24.9,74.1,169.3,20.4,66.0,6.73,107.2,30.7,1.62,2.429
+512,2018,Kharif,Tamil Nadu,Coimbatore,Western,Sorghum,Millet,Red Loam,1666.1,548.1,28.7,75.9,139.6,46.9,130.1,7.28,99.8,42.4,2.32,1.971
+49,2014,Kharif,Tamil Nadu,Tirunelveli,Southern,Ragi,Millet,Alluvial,538.8,432.4,30.5,72.9,154.6,44.8,103.7,6.08,41.6,16.5,3.05,2.145
+192,2015,Rabi,Tamil Nadu,salem ,Northern,Maize,Cereal,Alluvial,358.3,1085.2,25.8,72.7,78.8,55.5,135.3,7.35,105.5,59.5,3.04,1.639
+547,2018,Kharif,Tamil Nadu,Vellore,Northern,Sorghum,Millet,Sandy Loam,454.8,387.0,30.9,64.3,183.3,39.3,81.4,7.77,112.9,48.2,2.76,2.329
+516,2018,Kharif,Tamil Nadu,Erode,Western,Rice,Cereal,Black Cotton,442.7,384.6,31.4,67.1,,43.9,97.8,6.79,164.5,72.1,1.26,3.643
+860,2021,Kharif,Tamil Nadu,Coimbatore,Western,Black Gram,Pulse,Red Loam,559.9,471.0,29.7,68.4,95.7,41.5,154.9,6.14,40.1,35.9,3.74,0.757
+866,2021,Rabi,Tamil Nadu,Erode,Western,Groundnut,Oilseed,Black Cotton,546.5,495.2,25.4,75.5,125.8,40.1,55.4,6.88,39.5,60.6,2.33,1.837
+481,2018,Kharif,Tamil Nadu,Madurai,Southern,Cotton,Fibre,Red Loam,369.0,459.8,32.5,61.6,166.1,43.1,122.6,6.67,107.6,58.7,2.95,1.793
+284,2016,Kharif,Tamil Nadu,Coimbatore,Western,Black Gram,Pulse,Red Loam,1431.6,672.0,29.0,76.1,117.1,74.7,140.1,6.29,56.5,48.6,1.7,0.399
+906,2021,Rabi,Tamil Nadu,Tiruchirappalli,Central,Cotton,Fibre,Sandy Loam,1365.5,169.7,25.2,60.1,105.7,42.0,121.5,6.46,61.9,31.1,2.5,1.268
+995,2022,Rabi,Tamil Nadu,Vellore,Northern,Rice,Cereal,Sandy Loam,1536.2,455.7,27.1,79.8,123.9,42.2,106.4,6.26,181.1,76.1,0.8,4.395
+828,2021,Rabi,Tamil Nadu,Madurai,Southern,Cotton,Fibre,Red Loam,562.0,443.1,29.7,75.2,114.9,23.9,110.0,6.86,100.1,77.0,1.06,2.086
+226,2015,Summer,Tamil Nadu,Tiruchirappalli,Central,Maize,Cereal,Sandy Loam,1061.4,111.0,33.8,66.5,124.3,60.9,133.2,6.33,103.8,65.3,2.63,2.906
+27,2014,Rabi,Tamil Nadu,Cuddalore,Coastal,Maize,Cereal,Alluvial,285.0,640.3,25.7,81.1,73.9,22.6,86.2,5.92,155.0,62.9,2.72,2.408
+983,2022,Kharif,Tamil Nadu,Salem,Northern,Rice,Cereal,Red Loam,386.6,436.0,30.7,76.4,148.6,42.8,144.1,6.57,168.6,71.1,1.9,4.159
+1088,2023,Rabi,Tamil Nadu,Erode,Western,Sorghum,Millet,Black Cotton,247.2,294.1,27.8,73.6,200.7,45.3,82.9,6.6,103.2,31.6,3.32,3.598
+438,2017,Rabi,Tamil Nadu,Tiruchirappalli,Central,Rice,Cereal,Red Loam,772.4,521.3,27.8,76.4,132.7,54.4,114.4,5.93,199.8,100.0,3.07,4.42
+1105,2023,Rabi,Tamil Nadu,Vellore,Northern,Groundnut,Oilseed,Sandy Loam,1035.1,296.2,25.6,64.8,144.9,57.0,117.0,6.32,52.3,34.4,2.2,3.164
+365,2017,Kharif,Tamil Nadu,cuddalore ,Coastal,Ragi,Millet,Alluvial,567.7,550.5,29.8,69.9,172.9,35.6,121.4,6.33,110.2,57.2,1.5,1.508
+230,2015,Kharif,Tamil Nadu,Tiruchirappalli,Central,Sorghum,Millet,Alluvial,2052.9,338.0,28.8,63.7,108.7,41.1,81.0,7.24,74.0,43.4,2.76,2.584
+38,2014,Rabi,Tamil Nadu,Madurai,Southern,Rice,Cereal,Red Loam,989.9,150.9,26.1,60.5,138.7,41.5,105.2,6.67,140.1,64.9,3.07,2.644
+670,2019,Rabi,Tamil Nadu,Villupuram,Northern,Ragi,Millet,Red Loam,226.9,480.2,26.5,65.3,144.4,34.0,116.9,5.96,89.0,32.7,3.16,2.527
+750,2020,Kharif,Tamil Nadu,Erode,Western,Black Gram,Pulse,Black Cotton,719.4,414.3,30.5,70.0,139.5,37.1,115.0,5.82,64.1,59.5,3.92,0.615
+1118,2023,Kharif,Tamil Nadu,Tiruchirappalli,Central,Rice,Cereal,Sandy Loam,620.7,666.6,31.9,79.1,,47.5,82.5,6.6,136.7,54.1,2.08,4.04
+375,2017,Rabi,Tamil Nadu,Madurai,Southern,Sorghum,Millet,Red Loam,933.4,379.4,26.7,75.0,151.4,47.3,120.7,6.77,52.1,26.6,0.73,2.591
+470,2018,Rabi,Tamil Nadu,Cuddalore,Coastal,Rice,Cereal,Alluvial,721.8,459.8,27.9,74.2,110.8,43.7,85.1,6.67,84.4,71.6,2.79,4.775
+1119,2023,Rabi,Tamil Nadu,Tiruchirappalli,Central,Rice,Cereal,Sandy Loam,627.7,293.2,29.1,74.4,73.4,59.7,115.1,6.37,137.7,83.4,1.35,3.525
+688,2020,Kharif,Tamil Nadu,Thanjavur,Delta,Cotton,Fibre,Alluvial,1095.8,635.0,30.6,72.6,65.4,30.9,108.0,7.11,102.0,53.7,3.25,1.399
+33,2014,Rabi,Tamil Nadu,Cuddalore,Coastal,Ragi,Millet,Alluvial,1259.3,413.4,25.8,87.5,96.3,39.3,101.5,7.04,76.6,49.3,2.23,2.293
+887,2021,Rabi,Tamil Nadu,Vellore,Northern,Sorghum,Millet,Sandy Loam,1154.3,346.8,27.2,69.3,122.8,33.9,102.8,6.46,127.8,39.1,1.58,2.741
+918,2022,Summer,Tamil Nadu,Thanjavur,Delta,Maize,Cereal,Alluvial,1694.5,97.5,33.9,56.3,111.9,27.5,42.7,6.84,155.4,38.3,3.18,2.916
+195,2015,Rabi,Tamil Nadu,Salem,Northern,Cotton,Fibre,Red Loam,312.8,367.1,28.2,74.6,118.1,24.4,129.0,6.18,79.4,95.9,1.63,1.905
+1050,2023,Rabi,Tamil Nadu,Cuddalore,Coastal,Maize,Cereal,Alluvial,209.0,425.9,27.7,81.4,109.6,25.9,91.3,7.12,179.8,74.5,2.85,4.638
+1057,2023,Kharif,Tamil Nadu,Madurai,Southern,Maize,Cereal,Red Loam,1084.8,240.2,30.8,66.6,132.5,30.0,91.2,6.19,116.0,64.1,2.37,4.324
+504,2018,Kharif,Tamil Nadu,Coimbatore,Western,Maize,Cereal,Red Loam,911.4,674.3,30.7,78.4,53.5,46.6,87.6,7.56,173.3,42.1,2.16,2.607
+859,2021,Rabi,Tamil Nadu,Coimbatore,Western,Sorghum,Millet,Red Loam,645.2,305.6,24.7,67.3,122.3,40.4,120.7,6.35,82.8,29.5,2.6,2.533
+1120,2023,Kharif,Tamil Nadu,Tiruchirappalli,Central,Maize,Cereal,Sandy Loam,673.1,441.2,32.5,61.7,195.2,41.0,108.3,7.2,123.8,59.1,2.66,3.623
+1034,2023,Kharif,Tamil Nadu,Thanjavur,Delta,Black Gram,Pulse,Alluvial,736.8,493.6,32.1,60.4,121.6,33.5,119.5,5.8,14.4,43.9,3.88,0.532
+801,2021,Kharif,Tamil Nadu,Thanjavur,Delta,Ragi,Millet,Alluvial,556.8,621.7,29.4,64.9,174.7,40.7,123.0,6.78,71.5,23.8,1.98,1.891
+580,2019,Rabi,Tamil Nadu,Thanjavur,Delta,Black Gram,Pulse,Alluvial,753.0,515.7,27.0,72.7,163.2,34.2,95.5,7.84,90.5,41.4,3.96,0.6
+161,2015,Rabi,Tamil Nadu,Tirunelveli,Southern,Maize,Cereal,Black Cotton,391.5,282.1,28.3,82.7,95.1,51.7,186.0,6.55,181.0,71.8,2.19,4.875
+681,2019,Kharif,Tamil Nadu,Tiruchirappalli,Central,Sorghum,Millet,Sandy Loam,370.7,250.4,29.7,68.5,151.0,74.2,87.6,7.19,40.5,24.2,1.94,2.667
+1071,2023,Rabi,Tamil Nadu,Tirunelveli,Southern,Sorghum,Millet,Black Cotton,360.9,237.3,25.8,53.7,123.9,50.4,151.8,6.36,93.9,55.4,3.39,3.393
+163,2015,Kharif,Tamil Nadu,Tirunelveli,Southern,Groundnut,Oilseed,Black Cotton,451.9,362.0,32.1,67.4,154.7,49.3,83.4,5.64,25.0,43.4,2.35,1.716
+822,2021,Rabi,Tamil Nadu,Cuddalore,Coastal,Sorghum,Millet,Alluvial,418.5,527.0,26.2,81.5,178.4,62.9,74.7,8.25,92.3,32.8,2.73,1.76
+706,2020,Rabi,Tamil Nadu,Cuddalore,Coastal,Groundnut,Oilseed,Alluvial,720.7,284.7,24.9,71.7,115.8,63.3,114.3,6.54,79.7,54.5,2.07,2.691
+885,2021,Kharif,Tamil Nadu,Vellore,Northern,Cotton,Fibre,Red Loam,784.2,698.6,30.7,67.3,170.2,25.9,135.6,6.51,88.6,59.8,3.25,1.533
+153,2015,Rabi,Tamil Nadu,madurai ,Southern,Groundnut,Oilseed,Red Loam,632.3,545.7,26.0,70.2,147.2,22.8,87.7,6.37,52.6,67.5,1.67,1.661
+814,2021,Rabi,Tamil Nadu,Tiruvarur,Delta,Black Gram,Pulse,Alluvial,516.4,404.8,25.7,74.1,84.7,40.8,105.6,6.02,10.0,51.8,2.17,0.749
+881,2021,Kharif,Tamil Nadu,Salem,Northern,Sorghum,Millet,Red Loam,328.2,,29.7,69.8,137.7,57.0,126.4,6.27,91.4,15.9,2.42,2.948
+951,2022,Kharif,Tamil Nadu,Madurai,Southern,Groundnut,Oilseed,Red Loam,740.8,394.3,29.8,71.2,138.4,43.4,112.9,6.99,49.5,66.1,4.28,2.421
+112,2014,Rabi,Tamil Nadu,Tiruchirappalli,Central,Maize,Cereal,Sandy Loam,588.6,432.3,27.9,68.9,135.1,49.0,142.5,6.79,99.9,69.6,2.51,3.922
+227,2015,Kharif,Tamil Nadu,Tiruchirappalli,Central,Cotton,Fibre,Sandy Loam,891.4,592.6,30.7,68.2,130.7,18.6,98.1,6.78,100.4,45.8,2.3,1.401
+868,2021,Rabi,Tamil Nadu,Erode,Western,Ragi,Millet,Black Cotton,2951.5,318.5,28.9,82.8,155.3,45.0,130.3,6.38,99.8,53.4,2.56,2.759
+104,2014,Rabi,Tamil Nadu,Villupuram,Northern,Maize,Cereal,Red Loam,433.1,419.2,23.9,75.7,134.6,52.7,136.9,6.85,94.1,29.8,2.67,5.537
+422,2017,Rabi,Tamil Nadu,Vellore,Northern,Sorghum,Millet,Sandy Loam,301.9,352.8,27.9,70.7,130.4,43.6,164.2,7.41,77.1,36.4,2.36,2.553
+420,2017,Rabi,Tamil Nadu,Vellore,Northern,Groundnut,Oilseed,Sandy Loam,1231.1,417.1,25.9,76.8,100.9,42.3,108.1,6.9,13.2,71.2,1.88,2.308
+945,2022,Rabi,Tamil Nadu,Cuddalore,Coastal,Black Gram,Pulse,Sandy Loam,1698.7,519.1,25.6,89.4,149.0,45.8,187.7,7.49,12.5,30.9,1.75,0.304
+587,2019,Kharif,Tamil Nadu,Tiruvarur,Delta,Sorghum,Millet,Alluvial,337.8,520.5,30.0,74.1,120.6,65.6,110.9,6.73,50.1,22.1,2.61,2.201
+980,2022,Kharif,Tamil Nadu,Erode,Western,Sorghum,Millet,Black Cotton,720.6,333.0,29.4,68.8,125.5,34.0,105.9,7.79,79.7,56.4,2.58,2.625
+673,2019,Kharif,Tamil Nadu,Villupuram,Northern,Black Gram,Pulse,Red Loam,491.0,616.7,28.9,71.3,105.6,51.2,123.0,6.97,11.6,15.3,2.71,0.629
+120,2015,Kharif,Tamil Nadu,Thanjavur,Delta,MAIZE,Cereal,Alluvial,328.4,644.9,29.1,,110.2,53.8,161.3,7.57,200.7,39.5,2.56,3.391
+54,2014,Rabi,Tamil Nadu,Coimbatore,Western,Rice,Cereal,Red Loam,903.9,372.0,27.2,80.4,138.7,42.2,77.5,6.83,131.2,68.8,1.5,3.703
+152,2015,Kharif,Tamil Nadu,Madurai,Southern,Groundnut,Oilseed,Red Loam,630.1,487.2,31.7,83.3,147.0,27.0,157.5,6.05,30.9,34.3,2.47,1.681
+404,2017,Rabi,Tamil Nadu,Erode,Western,Black Gram,Pulse,Black Cotton,590.0,132.1,28.4,69.8,172.7,43.8,113.6,6.24,74.2,46.6,2.64,0.91
+1126,2023,Kharif,Tamil Nadu,Tiruchirappalli,Central,Ragi,Millet,Sandy Loam,941.5,464.6,29.3,69.5,152.5,44.7,118.1,7.38,115.8,37.6,1.74,2.261
+208,2015,Kharif,Tamil Nadu,Vellore,Northern,Sorghum,Millet,Sandy Loam,444.5,420.9,31.9,77.4,97.3,43.9,96.5,6.17,52.5,33.4,2.12,2.107
+1075,2023,Summer,Tamil Nadu,Coimbatore,Western,Maize,Cereal,Red Loam,307.3,137.8,33.0,61.1,147.8,27.9,153.2,6.64,163.3,97.0,4.23,3.788
+659,2019,Kharif,Tamil Nadu,Vellore,Northern,Ragi,Millet,Sandy Loam,583.7,477.1,30.8,,142.5,35.2,99.9,6.66,29.9,52.6,1.51,2.031
+1043,2023,Rabi,Tamil Nadu,Tiruvarur,Delta,Ragi,Millet,Alluvial,613.7,499.7,25.8,74.3,102.4,37.3,46.1,7.97,42.9,53.9,2.3,2.062
+959,2022,Rabi,Tamil Nadu,Tirunelveli,Southern,Ragi,Millet,Black Cotton,490.6,272.3,27.3,65.1,140.9,51.3,99.1,6.66,55.2,48.2,2.97,3.151
+9,2014,Summer,Tamil Nadu,Thanjavur,Delta,Black Gram,Pulse,Black Cotton,275.2,199.1,34.0,63.9,88.4,32.0,98.3,6.35,10.0,64.5,2.32,0.569
+1012,2022,Kharif,Tamil Nadu,Tiruchirappalli,Central,Rice,Cereal,Sandy Loam,757.4,379.5,31.7,61.1,126.8,38.5,162.5,6.15,100.3,69.0,3.26,3.014
+37,2014,Kharif,Tamil Nadu,Madurai,Southern,Rice,Cereal,Red Loam,975.0,641.9,30.5,82.0,139.0,39.9,81.8,7.9,123.8,86.8,1.25,3.136
+453,2018,Summer,Tamil Nadu,Thanjavur,Delta,Groundnut,Oilseed,Alluvial,967.0,27.7,32.5,56.7,158.7,65.9,164.6,6.04,47.8,71.6,1.51,1.422
+652,2019,Kharif,Tamil Nadu,Vellore,Northern,Rice,Cereal,Sandy Loam,1706.2,506.3,30.9,76.3,169.0,67.0,104.9,7.49,101.8,90.0,3.12,4.315
+254,2016,Kharif,Tamil Nadu,Cuddalore,Coastal,Ragi,Millet,Alluvial,1141.4,486.4,32.1,66.1,74.4,21.1,129.0,6.27,142.0,34.5,1.17,1.663
+304,2016,Summer,Tamil Nadu,Salem,Northern,Black Gram,Pulse,Red Loam,371.7,123.6,33.6,60.6,189.3,51.0,100.4,6.06,80.0,41.4,1.91,0.619
+941,2022,Kharif,Tamil Nadu,Cuddalore,Coastal,Groundnut,Oilseed,Alluvial,1231.5,531.7,31.1,64.3,143.0,50.6,113.1,6.61,66.4,30.0,2.99,2.003
+572,2019,Rabi,Tamil Nadu,Thanjavur,Delta,Cotton,Fibre,Alluvial,341.9,540.7,26.1,79.2,,35.2,104.8,6.95,106.7,62.8,3.1,1.927
+624,2019,Kharif,Tamil Nadu,Coimbatore,Western,Groundnut,Oilseed,Red Loam,502.7,409.4,26.8,66.8,187.4,30.2,117.7,8.32,30.0,45.4,3.94,2.235
+895,2021,Rabi,Tamil Nadu,Villupuram,Northern,Groundnut,Oilseed,Sandy Loam,993.0,326.9,26.5,76.3,102.5,35.1,149.8,6.42,53.8,42.1,2.59,3.045
+910,2021,Rabi,Tamil Nadu,Tiruchirappalli,Central,Ragi,Millet,Black Cotton,569.6,358.0,26.6,68.4,138.4,31.1,56.9,5.41,30.8,46.4,2.32,2.316
+897,2021,Rabi,Tamil Nadu,Villupuram,Northern,Ragi,Millet,Red Loam,1257.2,551.5,27.9,90.7,100.0,38.6,135.8,7.29,77.2,63.7,3.33,1.915
+263,2016,Rabi,Tamil Nadu,Madurai,Southern,Groundnut,Oilseed,Red Loam,794.6,328.4,27.7,74.3,112.8,27.1,122.1,5.95,25.9,54.8,1.46,2.406
+611,2019,Rabi,Tamil Nadu,tirunelveli ,Southern,Rice,Cereal,Black Cotton,358.7,282.8,25.5,73.9,171.5,51.8,91.0,8.6,71.7,54.7,3.74,2.507
+298,2016,Summer,Tamil Nadu,Salem,Northern,Groundnut,Oilseed,Red Loam,643.4,78.9,32.1,51.8,113.7,66.7,107.5,6.32,85.8,57.0,2.7,1.542
+415,2017,Summer,Tamil Nadu,Salem,Northern,Black Gram,Pulse,Red Loam,275.3,146.3,33.0,59.0,157.4,63.0,103.7,7.14,32.5,57.6,3.21,0.771
+151,2015,Rabi,Tamil Nadu,Madurai,Southern,Maize,Cereal,Red Loam,703.2,362.7,27.9,80.7,192.2,45.2,110.3,6.19,141.5,45.3,1.31,5.053
+989,2022,Rabi,Tamil Nadu,Salem,Northern,Groundnut,Oilseed,Red Loam,1131.1,369.6,24.4,70.5,67.0,44.0,145.4,6.55,69.7,58.8,1.79,2.763
+779,2020,Kharif,Tamil Nadu,Villupuram,Northern,Cotton,Fibre,Red Loam,3497.8,277.8,29.3,63.2,120.7,52.1,102.9,6.68,109.0,54.2,2.6,2.233
+641,2019,Kharif,Tamil Nadu,Salem,Northern,Maize,Cereal,Red Loam,1459.3,239.2,31.9,68.4,110.2,32.6,123.8,6.22,136.8,86.2,3.5,4.124
+799,2021,Kharif,Tamil Nadu,Thanjavur,Delta,Groundnut,Oilseed,Alluvial,400.4,540.7,29.2,62.8,152.2,43.7,103.4,6.25,80.4,40.8,2.04,1.769
+1070,2023,Rabi,Tamil Nadu,Tirunelveli,Southern,Ragi,Millet,Black Cotton,838.9,459.4,27.4,84.3,208.2,32.4,112.1,7.32,68.2,36.2,1.17,2.3
+551,2018,Rabi,Tamil Nadu,Villupuram,Northern,Rice,Cereal,Red Loam,1504.8,281.9,27.3,70.4,91.1,55.6,117.6,5.85,158.1,72.0,1.86,2.684
+992,2022,Kharif,Tamil Nadu,Salem,Northern,Sorghum,Millet,Red Loam,377.4,583.7,30.2,76.6,138.6,49.6,94.1,7.5,74.0,55.2,1.63,1.759
+489,2018,Rabi,Tamil Nadu,Madurai,Southern,Sorghum,Millet,Red Loam,940.2,238.3,27.2,69.9,78.2,39.8,107.4,5.71,59.1,49.8,2.45,2.418
+820,2021,Summer,Tamil Nadu,Cuddalore,Coastal,Groundnut,Oilseed,Alluvial,503.2,155.9,34.1,,136.6,67.7,98.9,6.18,37.5,58.7,1.5,1.469
+711,2020,Rabi,Tamil Nadu,Madurai,Southern,Cotton,Fibre,Red Loam,683.3,444.7,27.4,75.8,96.1,46.6,143.8,8.01,133.6,43.8,2.84,1.849
+1028,2023,Rabi,Tamil Nadu,Thanjavur,Delta,Cotton,Fibre,Alluvial,1456.7,610.0,24.7,88.1,184.3,34.5,80.5,6.69,71.5,50.2,3.18,1.621
+148,2015,Kharif,Tamil Nadu,Madurai,Southern,Rice,Cereal,Red Loam,955.1,264.0,30.1,62.0,92.3,28.0,120.1,6.59,136.3,87.2,2.91,2.855
+147,2015,Rabi,Tamil Nadu,Cuddalore,Coastal,Black Gram,Pulse,Alluvial,1452.0,500.1,25.2,71.1,151.0,33.7,130.3,7.03,17.4,32.2,1.74,0.663
+909,2021,Kharif,Tamil Nadu,Tiruchirappalli,Central,Ragi,Millet,Sandy Loam,607.1,766.7,30.8,62.6,104.8,52.7,92.1,7.62,109.6,54.1,1.84,1.388
+346,2017,Rabi,Tamil Nadu,Thanjavur,Delta,Sorghum,Millet,Alluvial,1134.6,426.9,27.3,90.0,94.2,67.5,141.3,6.19,77.6,40.5,1.85,2.414
+933,2022,Rabi,Tamil Nadu,Tiruvarur,Delta,Sorghum,Millet,Alluvial,745.5,316.0,23.6,81.4,137.2,32.4,141.9,5.93,124.5,30.7,3.04,2.337
+1066,2023,Rabi,Tamil Nadu,Tirunelveli,Southern,Cotton,Fibre,Red Loam,1994.3,320.3,25.1,72.0,153.5,42.0,145.8,6.82,55.5,39.9,3.49,2.285
+660,2019,Kharif,Tamil Nadu,Vellore,Northern,Sorghum,Millet,Sandy Loam,311.7,,31.4,68.6,101.2,56.3,93.9,5.37,37.0,37.6,3.48,2.422
+771,2020,Rabi,Tamil Nadu,Vellore,Northern,Ragi,Millet,Sandy Loam,348.4,595.6,25.7,86.0,152.9,37.9,73.5,7.3,22.7,30.8,2.92,2.027
+349,2017,Kharif,Tamil Nadu,Tiruvarur,Delta,Rice,Cereal,Black Cotton,1765.8,638.8,30.0,56.0,167.8,46.6,157.6,5.62,116.0,80.0,1.46,3.536
+464,2018,Summer,Tamil Nadu,Tiruvarur,Delta,Groundnut,Oilseed,Alluvial,669.7,109.6,34.0,58.2,50.0,62.2,166.6,7.69,53.6,45.6,2.16,1.172
+326,2016,Summer,Tamil Nadu,Villupuram,Northern,Black Gram,Pulse,Red Loam,527.4,144.0,34.1,60.6,113.8,72.7,91.9,5.87,21.8,54.0,2.55,0.599
+187,2015,Rabi,Tamil Nadu,Erode,Western,Black Gram,Pulse,Black Cotton,525.2,,27.3,68.3,165.7,59.6,95.9,7.61,31.8,51.2,2.81,0.779
+124,2015,Rabi,Tamil Nadu,Thanjavur,Delta,Groundnut,Oilseed,Alluvial,568.8,474.9,27.2,65.4,139.6,47.4,96.1,6.8,70.6,64.0,2.89,1.702
+1049,2023,Kharif,Tamil Nadu,Cuddalore,Coastal,Maize,Cereal,Alluvial,772.0,595.0,28.5,66.2,128.0,35.3,76.8,5.73,181.0,40.1,1.47,4.441
+609,2019,Rabi,Tamil Nadu,Madurai,Southern,Black Gram,Pulse,Red Loam,747.3,398.2,25.4,75.1,90.9,45.8,116.2,7.95,10.0,31.0,2.87,0.623
+144,2015,Kharif,Tamil Nadu,Cuddalore,Coastal,Sorghum,Millet,Alluvial,928.1,505.0,30.7,73.5,137.0,41.4,111.9,7.14,83.7,43.2,3.12,2.027
+752,2020,Summer,Tamil Nadu,Erode,Western,Black Gram,Pulse,Black Cotton,786.9,176.1,33.9,42.8,136.4,60.2,124.0,7.04,54.7,48.6,1.52,0.739
+1112,2023,Rabi,Tamil Nadu,Villupuram,Northern,Cotton,Fibre,Red Loam,1340.9,523.8,23.6,79.3,150.3,40.4,78.8,7.36,54.0,66.4,3.06,1.52
+907,2021,Rabi,Tamil Nadu,Tiruchirappalli,Central,Groundnut,Oilseed,Sandy Loam,239.2,499.6,25.7,70.7,79.6,41.7,73.7,6.13,58.6,46.3,4.28,2.42
+198,2015,Summer,Tamil Nadu,Salem,Northern,Groundnut,Oilseed,Red Loam,673.2,168.8,33.4,56.0,110.4,59.3,93.9,5.82,43.8,65.6,3.41,1.502
+610,2019,Summer,Tamil Nadu,Madurai,Southern,Black Gram,Pulse,Red Loam,1138.9,113.3,35.5,56.1,95.1,55.3,40.0,6.03,24.8,76.4,2.51,0.497
+884,2021,Summer,Tamil Nadu,Vellore,Northern,Maize,Cereal,Sandy Loam,406.6,52.5,34.0,60.7,146.6,39.0,111.2,5.93,125.7,71.2,2.55,2.828
+837,2021,Rabi,Tamil Nadu,Tirunelveli,Southern,Maize,Cereal,Black Cotton,771.5,250.2,27.2,84.2,161.5,49.3,115.6,7.29,157.7,66.4,1.42,5.334
+280,2016,Rabi,Tamil Nadu,Coimbatore,Western,Cotton,Fibre,Black Cotton,353.7,230.6,25.4,76.7,119.3,31.3,140.5,6.65,79.8,55.2,2.44,1.976
+294,2016,Kharif,Tamil Nadu,Salem,Northern,Maize,Cereal,Red Loam,171.9,463.6,29.7,69.8,58.6,43.9,95.5,7.59,130.0,60.4,1.78,3.64
+1035,2023,Rabi,Tamil Nadu,Thanjavur,Delta,Black Gram,Pulse,Black Cotton,966.4,457.4,25.6,77.7,190.6,28.9,144.6,6.8,67.6,43.5,2.3,0.651
+401,2017,Summer,Tamil Nadu,Erode,Western,Groundnut,Oilseed,Black Cotton,625.2,90.7,33.6,60.4,119.7,68.9,191.3,6.63,23.9,46.1,1.73,1.478
+123,2015,Rabi,Tamil Nadu,Thanjavur,Delta,Cotton,Fibre,Alluvial,703.0,500.7,25.6,66.5,124.8,38.8,108.8,6.41,110.1,45.4,2.17,1.651
+184,2015,Kharif,Tamil Nadu,Erode,Western,Sorghum,Millet,Black Cotton,621.4,478.2,29.5,75.1,159.2,48.0,104.7,7.63,91.0,5.0,2.74,2.831
+203,2015,Rabi,Tamil Nadu,Vellore,Northern,Rice,Cereal,Sandy Loam,591.5,307.5,26.8,70.2,141.1,43.2,91.7,,192.5,78.7,3.74,3.661
+439,2017,Rabi,Tamil Nadu,Tiruchirappalli,Central,Maize,Cereal,Red Loam,653.9,283.5,26.5,60.6,122.5,40.2,161.7,6.34,160.6,46.6,2.45,5.022
+836,2021,Rabi,Tamil Nadu,Tirunelveli,Southern,Rice,Cereal,Black Cotton,1565.0,475.3,27.3,84.4,101.2,44.5,104.4,6.81,111.0,98.0,2.21,4.187
+247,2016,Kharif,Tamil Nadu,Tiruvarur,Delta,Cotton,Fibre,Alluvial,616.2,468.5,31.5,69.4,131.6,62.2,128.9,6.15,117.2,67.9,1.98,1.653
+416,2017,Rabi,Tamil Nadu,Vellore,Northern,Rice,Cereal,Sandy Loam,1439.8,341.1,28.5,84.5,198.7,58.3,96.5,6.77,122.1,69.8,0.85,3.527
+975,2022,Rabi,Tamil Nadu,Erode,Western,Maize,Cereal,Black Cotton,285.0,251.7,27.9,75.0,156.6,60.6,88.3,8.33,155.8,46.6,2.14,4.332
+962,2022,Kharif,Tamil Nadu,Coimbatore,Western,Maize,Cereal,Red Loam,614.2,566.5,28.6,79.1,180.2,31.4,125.3,7.13,127.7,55.5,2.11,4.686
+1080,2023,Kharif,Tamil Nadu,Coimbatore,Western,Sorghum,Millet,Red Loam,1091.5,432.5,30.3,76.4,154.2,44.1,102.7,6.8,26.8,50.8,2.7,2.555
+966,2022,Kharif,Tamil Nadu,Coimbatore,Western,Groundnut,Oilseed,Red Loam,406.9,623.7,26.5,87.5,175.2,38.9,99.2,7.56,33.1,61.8,2.16,1.564
+53,2014,Summer,Tamil Nadu,Tirunelveli,Southern,Black Gram,Pulse,Black Cotton,345.1,15.0,33.9,54.8,188.9,64.0,117.7,8.01,69.8,55.2,2.66,0.511
+130,2015,Kharif,Tamil Nadu,Tiruvarur,Delta,Rice,Cereal,Alluvial,726.6,348.2,30.7,64.7,110.6,53.4,106.1,7.55,150.5,62.6,2.53,3.23
+638,2019,Rabi,Tamil Nadu,Erode,Western,Ragi,Millet,Black Cotton,1654.0,181.1,25.6,71.1,160.9,54.2,70.1,6.43,26.8,36.6,1.25,2.569
+403,2017,Kharif,Tamil Nadu,Erode,Western,Sorghum,Millet,Alluvial,384.9,474.2,28.3,74.9,240.0,54.7,55.8,5.21,91.7,36.9,2.6,2.126
+985,2022,Kharif,Tamil Nadu,Salem,Northern,Maize,Cereal,Red Loam,421.1,350.3,28.8,69.0,95.6,51.5,98.4,7.5,144.5,48.4,2.45,2.14
+969,2022,Kharif,Tamil Nadu,Coimbatore,Western,Sorghum,Millet,Red Loam,281.8,281.4,29.7,68.4,120.4,12.1,196.0,5.8,94.2,42.1,2.72,2.533
+736,2020,Summer,Tamil Nadu,Coimbatore,Western,Groundnut,Oilseed,Red Loam,636.3,81.5,33.8,54.5,90.5,49.3,116.1,,86.1,80.6,4.42,1.551
+855,2021,Rabi,Tamil Nadu,Coimbatore,Western,Groundnut,Oilseed,Red Loam,346.4,483.5,26.7,80.0,108.5,55.8,150.2,8.29,46.0,62.7,3.64,1.873
+1113,2023,Kharif,Tamil Nadu,Villupuram,Northern,Groundnut,Oilseed,Red Loam,1296.6,336.2,29.4,67.9,188.8,32.9,82.5,6.63,36.8,83.3,3.11,2.469
+220,2015,Kharif,Tamil Nadu,Villupuram,Northern,Sorghum,Millet,Red Loam,497.3,140.3,30.7,59.7,127.8,24.7,96.5,7.23,118.7,23.9,3.2,2.114
+642,2019,Rabi,Tamil Nadu,Salem,Northern,Maize,Cereal,Red Loam,423.6,409.3,25.9,85.6,139.2,69.4,67.0,6.89,190.0,52.2,1.38,5.245
+2,2014,Rabi,Tamil Nadu,Thanjavur,Delta,Rice,Cereal,Alluvial,828.2,541.2,24.8,83.7,123.5,62.1,105.4,6.32,124.3,74.7,2.93,4.631
+947,2022,Rabi,Tamil Nadu,Madurai,Southern,Rice,Cereal,Red Loam,544.6,483.7,28.7,86.0,142.4,55.8,75.5,7.07,106.8,60.5,2.41,3.951
+1010,2022,Rabi,Tamil Nadu,Villupuram,Northern,Black Gram,Pulse,Red Loam,530.0,85.6,27.4,60.6,141.6,34.4,95.5,6.36,54.2,26.0,2.46,0.812
+81,2014,Kharif,Tamil Nadu,Salem,Northern,Groundnut,Oilseed,Red Loam,291.2,339.2,28.4,62.6,142.8,26.5,135.6,7.09,34.0,59.5,2.49,2.479
+625,2019,Rabi,Tamil Nadu,Coimbatore,Western,Groundnut,Oilseed,Red Loam,727.7,483.3,21.1,74.6,106.9,61.8,67.6,7.4,106.3,28.7,3.53,1.766
+1039,2023,Rabi,Tamil Nadu,Tiruvarur,Delta,Maize,Cereal,Alluvial,994.3,494.5,25.7,76.8,111.7,31.5,100.9,7.15,88.6,72.6,2.36,4.429
+957,2022,Kharif,Tamil Nadu,Tirunelveli,Southern,Cotton,Fibre,Black Cotton,1456.9,400.6,30.3,75.6,180.7,38.9,110.1,5.29,110.6,24.1,1.11,1.948
+387,2017,Rabi,Tamil Nadu,Tirunelveli,Southern,Sorghum,Millet,Black Cotton,3109.4,411.8,26.8,69.9,165.4,47.3,86.1,7.1,102.7,5.0,2.81,2.922
+1122,2023,Summer,Tamil Nadu,Tiruchirappalli,Central,Maize,Cereal,Sandy Loam,551.6,62.3,33.3,62.6,84.7,31.8,63.9,5.84,107.3,55.4,3.49,2.439
+807,2021,Rabi,Tamil Nadu,Tiruvarur,Delta,Rice,Cereal,Sandy Loam,538.5,398.3,26.0,65.7,205.4,60.2,116.8,7.7,113.9,81.1,4.18,4.071
+510,2018,Summer,Tamil Nadu,Coimbatore,Western,Groundnut,Oilseed,Red Loam,950.3,108.8,32.5,51.0,143.2,51.7,94.3,7.1,91.2,58.1,2.84,1.99
+268,2016,Kharif,Tamil Nadu,Madurai,Southern,Black Gram,Pulse,Red Loam,649.3,513.3,31.1,68.8,136.9,62.3,108.5,7.29,68.7,10.4,2.46,0.63
+1085,2023,Rabi,Tamil Nadu,Erode,Western,Cotton,Fibre,Black Cotton,577.6,404.9,26.1,69.3,71.5,14.0,145.8,8.03,78.5,67.8,0.74,2.027
+442,2017,Summer,Tamil Nadu,Tiruchirappalli,Central,Groundnut,Oilseed,Sandy Loam,1328.2,137.0,34.9,64.2,168.5,50.3,148.1,7.44,10.0,60.6,2.26,1.691
+497,2018,Kharif,Tamil Nadu,Tirunelveli,Southern,Groundnut,Oilseed,Black Cotton,497.2,325.0,29.6,73.8,217.3,72.6,105.3,6.54,87.4,75.5,1.68,2.131
+830,2021,Rabi,Tamil Nadu,Madurai,Southern,Groundnut,Oilseed,Red Loam,1280.8,472.0,27.2,73.4,58.2,39.4,82.0,6.7,35.2,43.8,3.29,2.301
+113,2014,Rabi,Tamil Nadu,Tiruchirappalli,Central,Cotton,Fibre,Sandy Loam,577.2,462.4,24.8,77.2,170.9,35.3,94.8,6.67,130.8,58.0,2.19,1.48
+692,2020,Kharif,Tamil Nadu,Thanjavur,Delta,Black Gram,Pulse,Alluvial,334.7,468.3,29.5,85.9,145.7,52.4,136.1,6.26,21.3,39.2,1.78,0.774
+233,2016,Rabi,Tamil Nadu,Thanjavur,Delta,Rice,Cereal,Black Cotton,1070.1,634.7,26.2,87.7,167.3,84.4,121.3,6.12,144.5,87.9,4.0,3.805
+472,2018,Kharif,Tamil Nadu,Cuddalore,Coastal,Cotton,Fibre,Sandy Loam,217.0,556.2,31.9,73.3,213.9,47.9,152.8,7.56,69.8,45.7,3.66,1.534
+608,2019,Kharif,Tamil Nadu,Madurai,Southern,Black Gram,Pulse,Red Loam,557.2,166.5,32.2,62.6,122.7,43.8,63.4,7.05,83.1,55.1,2.23,0.815
+672,2019,Rabi,Tamil Nadu,Villupuram,Northern,Sorghum,Millet,Red Loam,627.5,418.6,27.1,87.7,128.6,37.3,70.3,7.87,87.3,56.1,2.79,2.075
+374,2017,Rabi,Tamil Nadu,Madurai,Southern,Ragi,Millet,Red Loam,1106.9,186.0,26.3,68.9,132.6,56.4,80.4,7.8,89.0,49.6,1.86,3.063
+827,2021,Rabi,Tamil Nadu,Madurai,Southern,Maize,Cereal,Red Loam,893.2,220.7,28.6,77.5,78.4,41.0,155.0,7.22,159.4,59.5,1.68,4.288
+664,2019,Summer,Tamil Nadu,Vellore,Northern,Black Gram,Pulse,Sandy Loam,2062.0,119.1,33.5,,151.8,19.4,106.3,,30.7,59.1,1.98,0.616
+1042,2023,Kharif,Tamil Nadu,Tiruvarur,Delta,Groundnut,Oilseed,Alluvial,1117.3,422.8,32.5,64.1,50.0,80.8,98.6,6.04,18.3,50.4,1.78,1.457
+234,2016,Kharif,Tamil Nadu,Thanjavur,Delta,Cotton,Fibre,Alluvial,516.6,669.8,29.2,74.4,197.4,45.7,111.9,8.19,89.7,66.6,2.24,1.236
+819,2021,Kharif,Tamil Nadu,Cuddalore,Coastal,Groundnut,Oilseed,Alluvial,2407.6,525.9,29.9,74.2,171.6,31.9,143.7,6.76,15.4,41.7,2.04,1.835
+986,2022,Rabi,Tamil Nadu,Salem,Northern,Maize,Cereal,Red Loam,505.3,323.6,27.6,78.7,88.2,75.2,79.2,6.69,140.0,56.3,2.41,5.806
+677,2019,Rabi,Tamil Nadu,Tiruchirappalli,Central,Cotton,Fibre,Sandy Loam,308.5,500.3,28.1,84.1,55.1,34.4,106.1,6.7,82.2,49.7,1.67,1.745
+318,2016,Rabi,Tamil Nadu,Villupuram,Northern,Maize,Cereal,Red Loam,826.0,400.4,25.5,67.9,123.2,60.5,118.8,6.38,150.6,43.9,2.4,2.474
+649,2019,Rabi,Tamil Nadu,Salem,Northern,Sorghum,Millet,Red Loam,973.9,328.1,25.8,58.4,123.6,45.1,72.4,7.69,74.5,8.6,1.53,2.519
+411,2017,Kharif,Tamil Nadu,Salem,Northern,Ragi,Millet,Red Loam,697.6,1279.5,32.3,72.4,155.2,31.5,77.5,5.99,38.7,51.9,2.73,0.758
+1074,2023,Kharif,Tamil Nadu,Coimbatore,Western,Maize,Cereal,Sandy Loam,626.7,229.4,29.0,57.8,174.4,47.5,94.1,7.12,145.7,63.4,2.87,5.316
+710,2020,Rabi,Tamil Nadu,Madurai,Southern,Maize,Cereal,Red Loam,546.7,700.6,27.4,85.8,126.5,49.1,125.6,6.62,172.9,59.6,2.13,3.034
+359,2017,Kharif,Tamil Nadu,Cuddalore,Coastal,Rice,Cereal,Alluvial,844.2,460.2,31.3,80.2,141.9,46.4,153.9,8.5,116.5,79.4,3.0,3.254
+259,2016,Kharif,Tamil Nadu,Madurai,Southern,Maize,Cereal,Red Loam,1393.0,367.8,30.6,64.6,170.2,44.1,115.5,6.29,183.0,50.5,3.27,4.764
+745,2020,Kharif,Tamil Nadu,Erode,Western,Cotton,Fibre,Black Cotton,596.8,149.4,31.7,72.4,166.3,45.7,47.7,7.64,99.7,59.3,2.39,1.613
+973,2022,Summer,Tamil Nadu,Coimbatore,Western,Black Gram,Pulse,Red Loam,194.8,79.7,33.0,64.6,105.5,43.4,151.8,6.83,53.6,53.9,2.98,0.702
+628,2019,Kharif,Tamil Nadu,Coimbatore,Western,Sorghum,Millet,Red Loam,682.0,554.6,28.3,75.3,97.6,44.1,134.2,5.92,40.7,29.2,2.96,2.226
+633,2019,Rabi,Tamil Nadu,Erode,Western,Maize,Cereal,Black Cotton,208.2,525.7,28.5,82.4,64.8,37.3,85.5,6.91,147.9,47.9,3.2,3.877
+994,2022,Kharif,Tamil Nadu,Vellore,Northern,Rice,Cereal,Sandy Loam,814.7,493.3,31.2,64.5,153.1,69.7,119.9,7.8,104.3,100.0,1.69,3.644
+283,2016,Rabi,Tamil Nadu,Coimbatore,Western,Sorghum,Millet,Red Loam,1370.2,396.0,26.3,79.2,103.9,37.8,122.3,6.05,89.4,8.5,1.87,2.643
+377,2017,Kharif,Tamil Nadu,Tirunelveli,Southern,Rice,Cereal,Black Cotton,748.1,325.8,29.2,76.7,145.7,34.2,125.3,5.87,168.5,61.8,2.4,3.241
+385,2017,Rabi,Tamil Nadu,Tirunelveli,Southern,Ragi,Millet,Black Cotton,235.0,309.8,26.2,63.9,138.1,37.6,166.9,7.39,62.5,26.9,1.71,3.171
+225,2015,Rabi,Tamil Nadu,Tiruchirappalli,Central,Maize,Cereal,Sandy Loam,509.6,408.5,26.8,79.1,162.9,88.2,125.5,7.48,156.1,65.6,1.69,4.652
+1109,2023,Kharif,Tamil Nadu,Villupuram,Northern,Maize,Cereal,Red Loam,325.6,430.5,28.6,60.7,139.1,28.8,101.9,6.32,171.9,42.5,1.97,5.294
+1019,2022,Rabi,Tamil Nadu,Tiruchirappalli,Central,Ragi,Millet,Sandy Loam,181.0,412.9,27.1,78.3,144.3,25.3,86.3,7.13,46.3,56.6,3.82,2.854
+473,2018,Kharif,Tamil Nadu,Cuddalore,Coastal,Ragi,Millet,Alluvial,678.9,447.9,28.7,62.8,91.1,35.7,73.6,7.32,58.8,45.1,2.28,2.363
+348,2017,Summer,Tamil Nadu,Thanjavur,Delta,BLACK GRAM,Pulse,Alluvial,547.9,93.6,34.8,62.6,139.2,31.9,110.4,6.86,36.3,34.5,2.07,0.614
+506,2018,Summer,Tamil Nadu,Coimbatore,Western,Maize,Cereal,Red Loam,833.7,134.9,31.8,66.8,134.2,39.4,135.2,7.11,147.7,81.8,2.66,3.858
+640,2019,Kharif,Tamil Nadu,Salem,Northern,Rice,Cereal,Red Loam,756.7,253.4,28.7,60.2,115.5,54.7,86.5,6.11,112.7,74.1,3.29,3.019
+744,2020,Rabi,Tamil Nadu,Erode,Western,Rice,Cereal,Black Cotton,1108.9,307.5,28.4,74.0,133.5,12.0,104.4,6.85,100.9,100.0,3.77,3.657
+1106,2023,Summer,Tamil Nadu,Vellore,Northern,Groundnut,Oilseed,Sandy Loam,514.9,15.0,33.0,55.2,115.5,44.5,139.7,7.37,16.3,60.4,0.95,1.524
+798,2021,Summer,Tamil Nadu,Thanjavur,Delta,Maize,Cereal,Alluvial,597.6,69.8,33.2,52.5,134.8,32.3,137.0,6.93,141.8,76.6,1.54,3.56
+340,2017,Rabi,Tamil Nadu,Thanjavur,Delta,Cotton,Fibre,Alluvial,417.4,540.6,24.5,69.9,130.0,39.1,82.0,7.05,86.2,32.1,3.21,1.924
+556,2018,Kharif,Tamil Nadu,Villupuram,Northern,Ragi,Millet,Red Loam,357.8,298.4,31.2,67.6,189.7,37.2,143.2,7.19,56.2,42.5,1.47,2.672
+620,2019,Kharif,Tamil Nadu,Coimbatore,Western,Maize,Cereal,Red Loam,377.6,361.9,28.9,61.6,148.2,19.9,121.1,7.47,171.1,63.9,2.17,5.076
+28,2014,Kharif,Tamil Nadu,Cuddalore,Coastal,Cotton,Fibre,Black Cotton,567.1,585.2,31.0,72.9,148.6,42.5,115.9,6.31,119.5,44.1,2.92,1.906
+1007,2022,Summer,Tamil Nadu,Villupuram,Northern,Groundnut,Oilseed,Red Loam,524.8,46.6,32.8,58.7,168.0,79.7,74.8,6.7,93.7,85.9,2.17,1.79
+646,2019,Summer,Tamil Nadu,Salem,Northern,Groundnut,Oilseed,Red Loam,634.4,15.0,34.1,58.7,115.9,39.8,123.9,6.4,70.0,61.5,3.26,1.406
+953,2022,Kharif,Tamil Nadu,Madurai,Southern,Black Gram,Pulse,Red Loam,278.8,359.7,34.0,72.2,136.5,40.1,65.1,7.34,10.0,48.1,1.1,0.603
+574,2019,Rabi,Tamil Nadu,Thanjavur,Delta,Groundnut,Oilseed,Alluvial,956.8,451.7,26.4,81.1,90.9,37.5,114.4,7.07,20.4,46.2,3.07,2.233
+557,2018,Rabi,Tamil Nadu,Villupuram,Northern,Ragi,Millet,Red Loam,948.7,186.1,27.0,66.4,117.7,46.1,82.5,6.01,103.7,40.0,2.38,2.918
+682,2019,Kharif,Tamil Nadu,Tiruchirappalli,Central,Black Gram,Pulse,Sandy Loam,660.8,501.9,33.2,68.3,166.9,34.4,125.6,5.51,33.4,37.1,1.56,0.492
+578,2019,Kharif,Tamil Nadu,Thanjavur,Delta,Sorghum,Millet,Red Loam,383.5,410.4,29.6,66.7,162.4,17.2,110.1,5.47,83.4,46.1,2.07,2.194
+796,2021,Rabi,Tamil Nadu,Thanjavur,Delta,Rice,Cereal,Alluvial,294.3,787.3,23.7,85.0,115.8,31.2,111.1,6.35,70.8,75.3,2.43,4.039
+86,2014,Rabi,Tamil Nadu,Salem,Northern,Sorghum,Millet,Red Loam,1058.6,313.2,25.8,63.0,75.4,66.2,86.1,7.48,88.5,29.1,2.0,2.485
+243,2016,Summer,Tamil Nadu,Thanjavur,Delta,Black Gram,Pulse,Alluvial,461.7,130.5,34.7,70.5,88.3,56.9,131.8,7.14,55.6,60.4,2.44,0.596
+699,2020,Kharif,Tamil Nadu,Tiruvarur,Delta,Sorghum,Millet,Alluvial,484.5,500.4,29.7,63.6,121.6,62.6,69.3,7.26,66.1,34.6,3.14,2.302
+839,2021,Kharif,Tamil Nadu,Tirunelveli,Southern,Cotton,Fibre,Black Cotton,727.8,426.4,30.2,70.0,143.5,40.2,115.5,7.15,104.9,13.6,3.02,2.53
+160,2015,Kharif,Tamil Nadu,Tirunelveli,Southern,Maize,Cereal,Black Cotton,326.6,259.1,31.8,59.8,105.8,55.5,129.5,7.85,159.5,54.4,2.66,2.874
+525,2018,Kharif,Tamil Nadu,Erode,Western,Black Gram,Pulse,Black Cotton,966.2,579.1,30.0,71.8,109.1,16.3,123.2,7.2,10.0,36.6,3.18,0.456
+36,2014,Summer,Tamil Nadu,Cuddalore,Coastal,Black Gram,Pulse,Alluvial,371.6,144.7,31.3,58.9,127.0,49.8,130.0,7.35,18.8,68.5,3.8,0.862
+541,2018,Kharif,Tamil Nadu,Vellore,Northern,Cotton,Fibre,Sandy Loam,756.2,434.0,31.4,67.5,185.3,69.2,91.7,6.71,118.1,57.3,1.65,1.753
+171,2015,Rabi,Tamil Nadu,Coimbatore,Western,Groundnut,Oilseed,Red Loam,584.6,390.6,24.6,71.8,158.2,36.8,110.3,6.89,89.9,58.3,1.13,2.536
+655,2019,Kharif,Tamil Nadu,Vellore,Northern,Cotton,Fibre,Sandy Loam,503.4,225.6,29.3,70.6,149.2,67.7,132.1,7.93,116.7,83.8,0.63,1.817
+749,2020,Kharif,Tamil Nadu,Erode,Western,Ragi,Millet,Black Cotton,666.1,601.4,32.3,66.9,157.4,34.6,153.0,8.6,72.4,21.4,2.4,1.287
+1053,2023,Rabi,Tamil Nadu,Cuddalore,Coastal,Groundnut,Oilseed,Alluvial,384.9,472.1,25.8,81.2,164.9,58.1,136.1,7.1,120.9,68.3,2.43,2.002
+141,2015,Summer,Tamil Nadu,Cuddalore,Coastal,Maize,Cereal,Alluvial,568.5,123.6,33.7,58.4,163.8,52.4,104.1,6.78,135.4,48.9,0.92,3.132
+485,2018,Summer,Tamil Nadu,Madurai,Southern,Groundnut,Oilseed,Red Loam,990.2,137.5,34.3,62.1,86.2,48.1,97.5,6.74,62.4,65.3,3.12,1.662
+734,2020,Kharif,Tamil Nadu,Coimbatore,Western,Cotton,Fibre,Alluvial,661.0,340.0,28.8,80.2,93.1,30.2,141.7,6.16,89.0,53.6,4.1,2.08
+900,2021,Kharif,Tamil Nadu,Villupuram,Northern,Black Gram,Pulse,Red Loam,1454.3,445.0,30.2,76.6,90.1,51.6,120.6,6.32,10.0,51.2,1.79,0.65
+96,2014,Kharif,Tamil Nadu,Vellore,Northern,Ragi,Millet,Sandy Loam,547.6,330.0,32.6,63.7,64.5,53.4,104.5,8.1,86.4,18.9,3.45,1.805
+1021,2022,Kharif,Tamil Nadu,Tiruchirappalli,Central,Black Gram,Pulse,Sandy Loam,258.8,284.0,28.2,62.4,88.5,84.9,153.6,7.29,39.3,52.9,1.4,0.975
+564,2018,Summer,Tamil Nadu,Tiruchirappalli,Central,Groundnut,Oilseed,Sandy Loam,913.4,76.6,33.6,51.6,162.4,36.5,123.6,6.24,66.0,28.5,4.11,1.536
+743,2020,Kharif,Tamil Nadu,Erode,Western,Rice,Cereal,Black Cotton,577.2,198.7,33.2,63.0,,45.6,108.2,7.5,86.6,81.1,3.18,2.281
+864,2021,Summer,Tamil Nadu,Erode,Western,Maize,Cereal,Black Cotton,1005.5,78.3,36.3,57.7,98.6,59.0,95.4,7.6,97.1,53.1,3.88,2.257
+892,2021,Kharif,Tamil Nadu,Villupuram,Northern,Cotton,Fibre,Red Loam,379.5,510.8,31.7,68.4,146.7,52.0,72.1,6.89,143.8,60.7,2.27,1.885
+207,2015,Rabi,Tamil Nadu,Vellore,Northern,Ragi,Millet,Sandy Loam,750.3,352.7,28.1,77.6,126.6,44.0,147.8,6.22,69.0,26.7,2.11,2.772
+393,2017,Rabi,Tamil Nadu,Coimbatore,Western,Groundnut,Oilseed,Red Loam,1300.8,503.2,23.8,80.0,121.3,34.1,122.3,6.94,42.2,29.1,3.06,2.171
+795,2021,Kharif,Tamil Nadu,Thanjavur,Delta,Rice,Cereal,Alluvial,897.3,741.7,30.6,65.8,106.8,39.9,107.4,7.2,98.6,100.0,2.56,3.48
+871,2021,Kharif,Tamil Nadu,Erode,Western,Black Gram,Pulse,Black Cotton,783.5,399.2,31.0,70.7,107.1,29.1,63.2,6.41,33.1,52.2,1.4,0.686
+398,2017,Rabi,Tamil Nadu,Erode,Western,Cotton,Fibre,Black Cotton,1063.7,288.8,25.0,80.0,107.4,61.2,144.0,7.7,89.9,49.2,2.45,2.169
+767,2020,Rabi,Tamil Nadu,Vellore,Northern,Cotton,Fibre,Sandy Loam,879.1,530.1,27.1,76.7,81.8,56.2,150.6,7.59,108.9,10.4,1.5,1.78
+1046,2023,Rabi,Tamil Nadu,Tiruvarur,Delta,Black Gram,Pulse,Alluvial,336.4,730.9,25.6,81.3,60.4,30.6,115.1,7.76,10.0,49.3,1.87,0.454
+1029,2023,Kharif,Tamil Nadu,Thanjavur,Delta,Groundnut,Oilseed,Alluvial,512.5,546.1,29.2,75.7,135.0,53.6,128.2,7.05,33.0,63.4,2.7,1.759
+643,2019,Summer,Tamil Nadu,Salem,Northern,Maize,Cereal,Red Loam,648.3,38.1,33.5,65.4,120.6,39.6,187.2,5.89,163.4,66.0,2.01,2.815
+613,2019,Kharif,Tamil Nadu,Tirunelveli,Southern,GROUNDNUT,Oilseed,Black Cotton,489.1,481.5,32.2,74.6,79.7,31.1,93.1,7.76,68.0,68.5,1.58,1.374
+961,2022,Summer,Tamil Nadu,Tirunelveli,Southern,Black Gram,Pulse,Black Cotton,584.6,39.4,34.1,39.2,62.7,72.4,103.5,6.63,33.3,67.6,2.52,0.692
+726,2020,Kharif,Tamil Nadu,Tirunelveli,Southern,Ragi,Millet,Black Cotton,481.9,440.0,32.0,72.4,156.3,36.1,81.2,8.09,46.6,54.9,3.4,1.472
+684,2020,Rabi,Tamil Nadu,Thanjavur,Delta,Rice,Cereal,Alluvial,474.0,218.1,24.7,56.9,183.5,46.9,63.5,7.07,129.5,100.0,2.61,3.652
+99,2014,Rabi,Tamil Nadu,Vellore,Northern,Sorghum,Millet,Sandy Loam,1576.9,263.8,24.8,74.3,114.6,27.5,143.6,4.8,64.4,45.4,1.39,1.859
+805,2021,Rabi,Tamil Nadu,Thanjavur,Delta,Black Gram,Pulse,Alluvial,240.8,495.8,27.4,73.4,138.2,45.1,139.6,6.32,38.9,41.8,2.66,0.71
+407,2017,Kharif,Tamil Nadu,Salem,Northern,Cotton,Fibre,Red Loam,602.4,409.6,30.8,58.7,156.7,32.9,80.6,6.83,124.6,27.3,3.35,1.934
+503,2018,Rabi,Tamil Nadu,Coimbatore,Western,Rice,Cereal,Red Loam,601.9,365.4,24.6,67.3,124.8,47.8,116.2,7.18,98.8,87.4,2.24,3.905
+930,2022,Rabi,Tamil Nadu,Tiruvarur,Delta,Cotton,Fibre,Alluvial,655.6,485.1,26.5,84.5,103.8,38.7,59.5,6.76,96.3,77.7,1.13,1.833
+780,2020,Kharif,Tamil Nadu,Villupuram,Northern,Groundnut,Oilseed,Red Loam,1083.3,314.7,30.9,58.4,142.0,52.0,135.6,7.5,63.3,52.6,2.1,2.456
+201,2015,Summer,Tamil Nadu,Salem,Northern,Black Gram,Pulse,Red Loam,147.0,121.0,32.9,59.4,186.0,55.2,145.1,7.1,10.0,66.3,2.26,0.624
+135,2015,Rabi,Tamil Nadu,Tiruvarur,Delta,Groundnut,Oilseed,Black Cotton,475.2,555.2,25.9,76.9,83.1,18.5,116.5,7.34,93.4,57.3,2.64,1.553
+41,2014,Summer,Tamil Nadu,Madurai,Southern,Groundnut,Oilseed,Red Loam,486.7,208.4,32.6,56.9,186.4,48.5,164.6,5.94,12.7,45.8,2.16,1.78
+1018,2022,Kharif,Tamil Nadu,Tiruchirappalli,Central,Ragi,Millet,Sandy Loam,449.7,294.4,30.5,72.6,150.8,37.1,122.6,7.35,71.8,21.7,1.71,2.784
+231,2015,Rabi,Tamil Nadu,Tiruchirappalli,Central,Sorghum,Millet,Sandy Loam,386.7,504.0,26.6,74.7,112.1,20.8,86.1,6.05,54.8,48.8,2.98,1.855
+379,2017,Summer,Tamil Nadu,Tirunelveli,Southern,Maize,Cereal,Black Cotton,544.6,81.2,32.6,59.8,162.7,51.5,119.6,7.08,139.3,59.3,2.73,3.519
+289,2016,Kharif,Tamil Nadu,Erode,Western,Sorghum,Millet,Black Cotton,842.4,526.9,29.7,68.1,142.0,42.4,71.9,7.61,53.9,45.9,3.98,2.078
+419,2017,Kharif,Tamil Nadu,Vellore,Northern,Cotton,Fibre,Sandy Loam,300.1,508.5,28.5,68.3,79.2,45.9,161.4,6.96,93.2,47.4,3.18,1.755
+392,2017,Summer,Tamil Nadu,Coimbatore,Western,Maize,Cereal,Red Loam,384.8,105.2,32.2,67.8,120.3,28.4,94.5,5.72,142.6,96.5,2.93,3.253
+593,2019,Summer,Tamil Nadu,Cuddalore,Coastal,Groundnut,Oilseed,Alluvial,653.3,192.6,32.5,65.0,130.3,26.8,86.6,5.73,10.0,86.1,2.79,1.453
+648,2019,Kharif,Tamil Nadu,Salem,Northern,Sorghum,Millet,Red Loam,518.3,316.7,29.6,72.6,72.4,38.5,128.0,6.23,109.6,80.5,2.13,2.513
+521,2018,Rabi,Tamil Nadu,Erode,Western,Groundnut,Oilseed,Alluvial,775.8,324.6,26.0,69.6,148.6,18.9,87.6,6.72,16.0,53.7,2.9,2.431
+65,2014,Rabi,Tamil Nadu,Erode,Western,Rice,Cereal,Black Cotton,433.9,506.8,26.8,75.6,50.0,12.0,58.3,7.07,146.3,87.2,1.57,3.632
+15,2014,Kharif,Tamil Nadu,Tiruvarur,Delta,Cotton,Fibre,Alluvial,438.1,467.4,29.8,75.2,131.1,40.4,140.1,6.46,112.5,70.1,2.38,1.812
+493,2018,Rabi,Tamil Nadu,Tirunelveli,Southern,Rice,Cereal,Black Cotton,376.7,383.8,27.5,79.3,146.1,36.7,174.9,6.09,128.7,68.9,3.42,3.601
+380,2017,Kharif,Tamil Nadu,Tirunelveli,Southern,Cotton,Fibre,Black Cotton,1588.5,471.3,31.3,69.3,122.4,48.2,124.1,6.87,122.0,39.6,1.95,2.349
+188,2015,Summer,Tamil Nadu,Erode,Western,Black Gram,Pulse,Black Cotton,438.6,152.7,32.1,64.7,156.3,35.3,61.5,7.41,22.7,68.3,2.07,0.66
+764,2020,Kharif,Tamil Nadu,Vellore,Northern,Rice,Cereal,Sandy Loam,1386.0,449.0,29.8,67.0,148.6,49.6,121.9,7.59,90.5,75.2,2.32,3.704
+217,2015,Kharif,Tamil Nadu,Villupuram,Northern,Groundnut,Oilseed,Sandy Loam,283.4,436.8,30.9,63.2,149.8,25.8,80.6,7.28,35.9,44.6,1.41,2.007
+792,2020,Kharif,Tamil Nadu,Tiruchirappalli,Central,Black Gram,Pulse,Sandy Loam,1084.4,305.9,29.7,64.1,82.8,46.4,100.9,6.51,62.8,35.4,2.31,1.082
+879,2021,Kharif,Tamil Nadu,Salem,Northern,Ragi,Millet,Red Loam,585.8,453.9,28.9,57.5,150.0,57.3,63.4,7.21,73.4,36.0,2.43,2.749
+338,2017,Kharif,Tamil Nadu,Thanjavur,Delta,Maize,Cereal,Alluvial,639.4,590.1,30.2,61.9,79.6,50.5,118.3,7.09,131.6,67.4,1.25,2.917
+720,2020,Summer,Tamil Nadu,Tirunelveli,Southern,Maize,Cereal,Alluvial,1165.1,15.0,35.4,56.2,86.4,66.7,118.7,6.15,129.5,68.1,3.37,2.295
+296,2016,Kharif,Tamil Nadu,Salem,Northern,Cotton,Fibre,Sandy Loam,614.4,499.3,30.1,69.6,75.6,29.1,163.1,6.39,120.9,17.0,1.29,1.618
+1017,2022,Rabi,Tamil Nadu,Tiruchirappalli,Central,Groundnut,Oilseed,Sandy Loam,545.9,385.6,25.0,73.2,102.6,23.7,136.7,7.04,63.1,50.8,3.4,2.73
+456,2018,Kharif,Tamil Nadu,Thanjavur,Delta,Sorghum,Millet,Sandy Loam,1941.2,1243.1,27.2,76.6,69.6,43.6,100.1,7.44,46.8,48.9,3.04,0.747
+816,2021,Rabi,Tamil Nadu,Cuddalore,Coastal,Maize,Cereal,Alluvial,539.0,494.6,26.6,66.8,90.7,44.7,132.3,6.96,170.7,61.9,3.19,5.548
+270,2016,Rabi,Tamil Nadu,Tirunelveli,Southern,Rice,Cereal,Black Cotton,809.5,182.1,24.9,72.6,189.5,49.1,119.4,6.33,128.7,91.2,3.12,3.027
+996,2022,Rabi,Tamil Nadu,Vellore,Northern,Cotton,Fibre,Sandy Loam,723.9,180.5,27.2,78.4,98.4,32.2,155.6,6.11,97.2,24.8,2.81,1.275
+202,2015,Kharif,Tamil Nadu,Vellore,Northern,Rice,Cereal,Sandy Loam,2250.3,371.8,31.0,79.5,129.0,34.7,110.8,7.01,95.0,100.0,1.95,3.344
+162,2015,Summer,Tamil Nadu,Tirunelveli,Southern,Maize,Cereal,Black Cotton,265.1,52.6,33.7,68.4,50.0,35.2,111.3,7.15,141.8,65.9,3.13,2.249
+730,2020,Summer,Tamil Nadu,Tirunelveli,Southern,Black Gram,Pulse,Black Cotton,299.5,98.4,32.3,69.7,153.9,31.6,112.3,7.56,49.8,56.7,2.79,0.75
+402,2017,Kharif,Tamil Nadu,Erode,Western,Ragi,Millet,Black Cotton,220.6,347.9,31.1,63.2,129.3,28.7,76.4,5.69,91.1,43.7,2.99,1.906
+703,2020,Rabi,Tamil Nadu,Cuddalore,Coastal,Rice,Cereal,Alluvial,1825.0,387.7,25.9,61.7,166.0,18.5,86.0,7.94,113.6,82.2,1.52,4.155
+566,2018,Rabi,Tamil Nadu,Tiruchirappalli,Central,Ragi,Millet,Sandy Loam,254.2,379.9,28.0,74.6,182.6,44.6,73.2,7.59,57.3,12.7,3.26,2.99
+1022,2022,Summer,Tamil Nadu,Tiruchirappalli,Central,Black Gram,Pulse,Sandy Loam,998.7,151.1,33.8,59.9,127.5,48.9,115.9,6.2,25.0,65.0,3.32,0.197
+1026,2023,Rabi,Tamil Nadu,Thanjavur,Delta,Maize,Cereal,Alluvial,1026.7,664.1,25.0,71.3,160.0,62.0,40.0,7.29,175.3,60.0,1.26,3.751
+206,2015,Rabi,Tamil Nadu,Vellore,Northern,Cotton,Fibre,Sandy Loam,1034.3,251.0,26.0,79.0,58.4,66.0,122.1,5.94,79.9,47.4,2.51,1.234
+35,2014,Kharif,Tamil Nadu,Cuddalore,Coastal,Black Gram,Pulse,Sandy Loam,480.1,493.0,31.3,59.3,60.3,64.1,136.9,5.75,18.0,17.5,0.4,0.666
+776,2020,Rabi,Tamil Nadu,Villupuram,Northern,Rice,Cereal,Red Loam,1407.5,387.7,27.0,,112.0,19.2,120.0,7.29,124.7,97.2,2.46,4.068
+509,2018,Kharif,Tamil Nadu,coimbatore ,Western,Groundnut,Oilseed,Red Loam,731.4,445.6,28.9,70.7,65.7,34.5,86.8,6.24,78.3,31.8,2.74,2.646
+1121,2023,Rabi,Tamil Nadu,Tiruchirappalli,Central,Maize,Cereal,Sandy Loam,196.1,341.0,25.4,82.0,198.0,41.3,107.9,,154.1,48.7,3.56,5.684
+92,2014,Kharif,Tamil Nadu,Vellore,Northern,Maize,Cereal,Sandy Loam,412.1,499.7,28.5,63.9,139.5,71.0,124.1,7.09,160.4,95.7,2.33,3.472
+898,2021,Kharif,Tamil Nadu,Villupuram,Northern,Sorghum,Millet,Red Loam,752.7,463.9,28.6,78.5,117.9,36.2,54.9,7.71,106.2,20.8,2.34,2.672
+565,2018,Kharif,Tamil Nadu,Tiruchirappalli,Central,Ragi,Millet,Sandy Loam,2547.2,222.2,31.4,61.5,121.7,48.3,86.8,6.65,93.6,22.2,4.3,2.602
+777,2020,Kharif,Tamil Nadu,Villupuram,Northern,Maize,Cereal,Red Loam,472.8,504.2,31.4,73.3,95.6,27.4,136.5,7.77,161.7,44.1,0.9,3.888
+242,2016,Rabi,Tamil Nadu,Thanjavur,Delta,Black Gram,Pulse,Alluvial,1023.1,593.3,25.1,72.4,70.4,41.5,103.7,7.45,46.2,48.7,1.84,0.486
+14,2014,Summer,Tamil Nadu,Tiruvarur,Delta,Maize,Cereal,Alluvial,646.0,75.9,32.1,63.2,129.8,49.7,152.2,6.69,146.3,79.7,0.86,3.229
+316,2016,Rabi,Tamil Nadu,Villupuram,Northern,Rice,Cereal,Red Loam,1071.9,376.3,26.5,71.4,73.2,52.9,89.2,6.55,198.0,93.3,3.54,4.335
+601,2019,Kharif,Tamil Nadu,Madurai,Southern,Maize,Cereal,Red Loam,2272.1,351.5,33.3,58.9,163.0,28.5,155.8,6.5,155.5,49.3,1.58,3.82
+388,2017,Kharif,Tamil Nadu,Tirunelveli,Southern,Black Gram,Pulse,Black Cotton,480.1,394.4,30.2,74.5,135.3,45.2,205.4,7.36,39.8,42.9,1.13,0.749
+167,2015,Summer,Tamil Nadu,Tirunelveli,Southern,Black Gram,Pulse,Black Cotton,462.8,45.8,33.3,63.3,111.3,52.6,85.2,6.52,25.7,56.3,3.3,0.566
+841,2021,Kharif,Tamil Nadu,Tirunelveli,Southern,Groundnut,Oilseed,Black Cotton,418.6,311.8,31.0,63.5,151.0,50.6,163.8,7.63,36.4,22.4,3.07,2.053
+21,2014,Kharif,Tamil Nadu,Tiruvarur,Delta,Sorghum,Millet,Alluvial,1116.9,591.1,32.0,56.8,136.2,39.8,57.3,7.01,89.2,65.9,1.27,1.351
+647,2019,Rabi,Tamil Nadu,salem ,Northern,Ragi,Millet,Red Loam,420.3,369.2,24.4,68.8,122.3,67.5,106.5,6.68,88.1,75.3,2.82,2.698
+832,2021,Kharif,Tamil Nadu,Madurai,Southern,Sorghum,Millet,Red Loam,674.8,300.3,32.0,68.5,127.5,49.9,166.6,6.42,71.7,48.0,2.52,2.622
+563,2018,Rabi,Tamil Nadu,Tiruchirappalli,Central,Cotton,Fibre,Sandy Loam,803.3,343.3,26.8,78.1,127.5,37.8,96.8,6.61,126.8,41.0,2.95,1.787
+1108,2023,Kharif,Tamil Nadu,Vellore,Northern,Sorghum,Millet,Sandy Loam,753.1,,31.4,66.3,166.1,58.3,159.4,6.82,94.0,45.4,5.06,2.379
+687,2020,Summer,Tamil Nadu,Thanjavur,Delta,Maize,Cereal,Alluvial,466.4,71.8,34.0,56.3,144.6,39.9,85.9,6.09,164.0,45.4,1.43,2.958
+958,2022,Kharif,Tamil Nadu,Tirunelveli,Southern,Ragi,Millet,Black Cotton,846.7,267.1,28.7,74.3,118.3,65.5,127.7,6.44,100.7,31.2,2.54,2.92
+190,2015,Rabi,Tamil Nadu,Salem,Northern,Rice,Cereal,Red Loam,1287.2,574.8,26.8,79.7,128.0,38.7,154.4,6.4,132.3,68.2,2.09,4.323
+976,2022,Summer,Tamil Nadu,Erode,Western,Maize,Cereal,Black Cotton,219.3,93.4,32.2,50.5,141.4,51.5,175.7,6.22,159.5,28.2,4.62,2.938
+700,2020,Kharif,Tamil Nadu,Tiruvarur,Delta,Black Gram,Pulse,Alluvial,539.7,410.9,29.4,67.1,94.8,62.5,112.3,6.21,52.7,46.0,2.47,0.851
+511,2018,Rabi,Tamil Nadu,Coimbatore,Western,Ragi,Millet,Red Loam,467.7,283.4,26.9,75.8,239.1,26.8,104.1,7.03,47.6,34.1,2.18,3.11
+1083,2023,Rabi,Tamil Nadu,Erode,Western,Rice,Cereal,Black Cotton,343.7,274.5,25.9,66.4,140.1,39.2,108.3,7.23,80.5,85.6,2.58,3.492
+475,2018,Kharif,Tamil Nadu,Cuddalore,Coastal,Black Gram,Pulse,Alluvial,1054.1,453.4,29.7,70.4,181.7,33.7,112.8,7.14,39.1,58.2,2.02,0.638
+857,2021,Kharif,Tamil Nadu,Coimbatore,Western,Ragi,Millet,Red Loam,946.5,413.4,28.1,63.9,117.8,43.9,158.7,7.42,54.6,42.9,2.22,2.799
+748,2020,Rabi,Tamil Nadu,Erode,Western,Groundnut,Oilseed,Black Cotton,1111.9,314.5,28.4,72.9,123.9,61.4,143.4,7.59,54.7,36.9,4.04,2.487
+253,2016,Kharif,Tamil Nadu,Cuddalore,Coastal,Cotton,Fibre,Alluvial,771.4,599.6,30.5,,162.7,43.6,151.6,7.44,104.7,59.5,2.73,1.449
+22,2014,Rabi,Tamil Nadu,Tiruvarur,Delta,Sorghum,Millet,Alluvial,692.2,385.4,25.8,83.1,190.6,51.1,162.3,7.62,92.0,52.4,2.26,2.172
+460,2018,Rabi,Tamil Nadu,Tiruvarur,Delta,Rice,Cereal,Alluvial,2106.0,440.9,24.9,65.8,79.1,55.4,98.7,6.36,143.9,69.1,2.55,4.023
+277,2016,Rabi,Tamil Nadu,Coimbatore,Western,Rice,Cereal,Red Loam,1046.1,297.1,24.4,80.2,132.7,59.4,109.4,6.54,114.5,54.3,2.15,3.359
+956,2022,Rabi,Tamil Nadu,Tirunelveli,Southern,Rice,Cereal,Black Cotton,1227.5,86.8,29.3,71.2,142.2,40.4,81.8,6.14,99.7,48.4,1.22,1.994
+386,2017,Kharif,Tamil Nadu,Tirunelveli,Southern,Sorghum,Millet,Black Cotton,219.6,467.4,29.7,80.6,120.6,54.2,176.0,7.81,87.2,34.0,2.01,2.475
+806,2021,Summer,Tamil Nadu,Thanjavur,Delta,Black Gram,Pulse,Alluvial,1123.7,195.7,33.7,60.5,119.8,40.6,123.9,6.97,26.6,79.7,4.11,0.833
+344,2017,Rabi,Tamil Nadu,Thanjavur,Delta,RAGI,Millet,Alluvial,1106.2,552.7,25.2,86.0,128.3,41.1,147.2,8.14,73.0,46.2,2.56,1.575
+770,2020,Kharif,Tamil Nadu,Vellore,Northern,Ragi,Millet,Alluvial,918.1,585.3,30.5,73.8,129.0,46.4,121.1,5.84,80.0,26.4,2.23,1.708
+131,2015,Rabi,Tamil Nadu,Tiruvarur,Delta,Maize,Cereal,Alluvial,1309.5,528.3,22.7,,108.4,40.6,66.0,7.52,116.7,70.4,0.96,3.306
+872,2021,Rabi,Tamil Nadu,Erode,Western,Black Gram,Pulse,Alluvial,473.3,311.2,28.5,77.1,153.0,54.7,89.3,6.28,34.7,31.9,2.5,1.09
+1124,2023,Rabi,Tamil Nadu,tiruchirappalli ,Central,Cotton,Fibre,Sandy Loam,2238.2,411.2,30.1,60.8,139.5,42.1,112.7,6.64,92.7,53.3,2.11,2.005
+88,2014,Rabi,Tamil Nadu,Salem,Northern,Black Gram,Pulse,Alluvial,689.7,346.8,25.6,74.7,186.7,41.9,145.8,7.05,10.0,9.8,3.14,0.994
+331,2016,Kharif,Tamil Nadu,Tiruchirappalli,Central,Groundnut,Oilseed,Sandy Loam,761.8,376.6,31.7,71.4,91.5,48.8,91.2,6.42,47.0,56.6,2.22,2.359
+467,2018,Kharif,Tamil Nadu,Tiruvarur,Delta,Sorghum,Millet,Alluvial,357.8,426.2,30.2,74.9,116.9,58.2,107.2,5.83,59.7,41.4,1.54,2.076
+122,2015,Kharif,Tamil Nadu,Thanjavur,Delta,Cotton,Fibre,Alluvial,1223.3,403.2,31.8,73.3,50.0,54.6,146.4,6.11,126.7,26.1,2.74,1.343
+1045,2023,Kharif,Tamil Nadu,Tiruvarur,Delta,Black Gram,Pulse,Sandy Loam,1225.9,569.7,30.3,73.8,172.1,52.4,151.2,7.68,36.2,50.4,3.3,0.53
+1096,2023,Kharif,Tamil Nadu,Salem,Northern,Sorghum,Millet,Red Loam,763.4,364.7,29.2,73.0,187.4,25.9,66.9,5.69,113.2,46.3,2.56,2.595
+1011,2022,Summer,Tamil Nadu,Villupuram,Northern,Black Gram,Pulse,Red Loam,1586.6,15.0,34.7,54.4,97.1,80.7,113.8,7.06,24.5,51.5,1.32,0.571
+861,2021,Rabi,Tamil Nadu,Coimbatore,Western,Black Gram,Pulse,Red Loam,335.1,240.0,24.8,70.9,221.1,51.5,96.1,7.02,21.6,55.4,1.16,0.854
+1127,2023,Kharif,Tamil Nadu,Tiruchirappalli,Central,Sorghum,Millet,Sandy Loam,603.7,372.0,30.3,73.2,,41.4,40.0,7.04,90.2,5.8,0.96,2.831
