@@ -1,16 +1,5 @@
 # 🌾 Smart Agriculture Analytics and Crop Yield Prediction System
 
-**Data Warehousing and Data Mining – Capstone Project | A Section | Team No. 5**
-
-| S.No | Reg. No. | Name of the Student |
-|:---:|:---:|:---|
-| 1 | 611223104043 | Giri N |
-| 2 | 611223104032 | Dharshini S |
-| 3 | 611223104060 | Harish R |
-| 4 | 611223104047 | Gokula Krishnan V |
-
----
-
 ## 1. Abstract
 
 Agriculture is highly sensitive to weather, soil condition and farm-management decisions, yet the data that describe
