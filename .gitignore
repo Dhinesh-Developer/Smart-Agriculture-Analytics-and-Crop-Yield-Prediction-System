@@ -1,6 +1,30 @@
+# Python environments
 venv/
 .venv/
+env/
+.env
+.env.*
+!.env.example
+
+# Python cache and build artifacts
 __pycache__/
-*.pyc
+*.py[cod]
+*$py.class
+build/
+dist/
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Streamlit secrets and local settings
+.streamlit/secrets.toml
+
+# Generated local warehouse database
 data/agri_warehouse.db
+
+# OS/editor files
 .DS_Store
+Thumbs.db
+.vscode/
+.idea/
